@@ -1,0 +1,8 @@
+# Microsoft Agent Framework with Azure AI Foundry support
+agent-framework --pre
+
+# Azure Identity for authentication
+azure-identity
+
+# Environment variable management
+python-dotenv
