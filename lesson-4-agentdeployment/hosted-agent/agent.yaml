@@ -16,11 +16,13 @@ metadata:
     - Developer Onboarding
 
 template:
-  name: dev-onboarding
-  # The type of agent - "hosted" for HOBO (Hosted Bring Your Own)
   kind: hosted
+  name: dev-onboarding
   protocols:
     - protocol: responses
+  # Valid CPU/Memory pairs: (0.5, 1Gi), (1, 2Gi), (1.5, 3Gi), (2, 4Gi), etc.
+  cpu: 1
+  memory: 2Gi
   environment_variables:
     - name: AZURE_AI_PROJECT_ENDPOINT
       value: ${AZURE_AI_PROJECT_ENDPOINT}

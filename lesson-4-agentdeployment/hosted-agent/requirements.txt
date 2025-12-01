@@ -2,7 +2,8 @@
 azure-ai-agentserver-agentframework==1.0.0b3
 
 # Microsoft Agent Framework - Core framework for multi-agent orchestration
-agent-framework>=0.1.0
+# Use --pre flag or specify beta version explicitly
+agent-framework --pre
 
 # Azure AI Projects SDK - For creating agents and tools
 azure-ai-projects>=1.0.0b1

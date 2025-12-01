@@ -3,14 +3,17 @@
 name: hosted-agent
 metadata:
     template: azd-init@1.21.3
+
+# Using existing Azure resources - no infra provisioning needed
+# infra:
+#     provider: bicep
+#     path: infra
+#     module: main
+
 services:
-    hosted-agent:
+    dev-onboarding:
         project: .
-        host: containerapp
+        host: azure.ai.agent
         language: python
         docker:
             path: Dockerfile
-resources:
-    hosted-agent:
-        type: host.containerapp
-        port: 8088

@@ -16,8 +16,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # Copy requirements first for better caching
 COPY requirements.txt .
 
-# Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Install Python dependencies (--pre needed for beta packages)
+RUN pip install --no-cache-dir --pre -r requirements.txt
 
 # Copy application code
 COPY main.py .
