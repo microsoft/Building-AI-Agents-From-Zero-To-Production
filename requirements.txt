@@ -4,5 +4,8 @@ agent-framework --pre
 # Azure Identity for authentication
 azure-identity
 
+# Azure AI Projects for evaluations
+azure-ai-projects
+
 # Environment variable management
 python-dotenv
