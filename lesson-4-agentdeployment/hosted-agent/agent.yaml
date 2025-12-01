@@ -1,0 +1,32 @@
+# Unique identifier/name for this agent
+name: dev-onboarding
+
+# Brief description of what this agent does
+description: >
+  A multi-agent workflow for developer onboarding support that routes queries to specialized agents
+  for employee search, learning paths, and coding assistance using HandoffBuilder orchestration.
+
+metadata:
+  authors:
+    - Zero to Production AI Agents 
+  tags:
+    - Azure AI AgentServer
+    - Microsoft Agent Framework
+    - Multi-Agent Workflow
+    - Developer Onboarding
+
+template:
+  name: dev-onboarding
+  # The type of agent - "hosted" for HOBO (Hosted Bring Your Own)
+  kind: hosted
+  protocols:
+    - protocol: responses
+  environment_variables:
+    - name: AZURE_AI_PROJECT_ENDPOINT
+      value: ${AZURE_AI_PROJECT_ENDPOINT}
+    - name: VECTOR_STORE_ID
+      value: ${VECTOR_STORE_ID}
+    - name: MODEL_DEPLOYMENT
+      value: gpt-4o
+
+# No resources section - using existing deployed model in Foundry project

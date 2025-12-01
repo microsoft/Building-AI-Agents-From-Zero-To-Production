@@ -71,26 +71,26 @@ async def create_agents(project_client, credential):
     Each agent gets its own AzureAIClient instance with store=True to ensure
     responses are persisted in Azure AI for evaluation.
     """
-    
+
     # Create separate client for each agent (required for proper response tracking)
     triage_client = AzureAIClient(
         project_client=project_client,
         async_credential=credential,
         agent_name="triage-agent"
     )
-    
+
     employee_client = AzureAIClient(
         project_client=project_client,
         async_credential=credential,
         agent_name="employee-search-agent"
     )
-    
+
     learning_client = AzureAIClient(
         project_client=project_client,
         async_credential=credential,
         agent_name="learning-agent"
     )
-    
+
     coding_client = AzureAIClient(
         project_client=project_client,
         async_credential=credential,
@@ -289,7 +289,8 @@ def build_handoff_workflow(triage, employee_search, learning, coding):
         .add_handoff(learning, [coding])
         .add_handoff(coding, [learning])
         .with_termination_condition(
-            lambda conv: sum(1 for msg in conv if msg.role.value == "user") >= 20
+            lambda conv: sum(
+                1 for msg in conv if msg.role.value == "user") >= 20
         )
         .build()
     )
@@ -301,11 +302,11 @@ def _track_agent_ids(event, agent: str, response_ids: dict, conversation_ids: di
     if isinstance(event.data, AgentRunResponseUpdate):
         if hasattr(event.data, 'raw_representation') and event.data.raw_representation:
             raw = event.data.raw_representation
-            
+
             if hasattr(raw, 'conversation_id') and raw.conversation_id:
                 if raw.conversation_id not in conversation_ids[agent]:
                     conversation_ids[agent].append(raw.conversation_id)
-            
+
             if hasattr(raw, 'raw_representation') and raw.raw_representation:
                 openai_event = raw.raw_representation
                 if hasattr(openai_event, 'response') and hasattr(openai_event.response, 'id'):
@@ -318,97 +319,103 @@ async def run_workflow_with_response_tracking(query: str) -> dict:
     print_section("Step 1: Running Developer Onboarding Workflow")
     print(f"Query: {query}")
     print("Executing multi-agent handoff workflow...\n")
-    
+
     conversation_ids = defaultdict(list)
     response_ids = defaultdict(list)
     workflow_output = None
     conversation_messages = []
-    
+
     async with AsyncDefaultAzureCredential() as credential:
         project_client = AsyncAIProjectClient(
             endpoint=os.environ["AZURE_AI_PROJECT_ENDPOINT"],
             credential=credential,
             api_version="2025-11-15-preview",
         )
-        
+
         async with project_client:
             triage, employee_search, learning, coding, clients = await create_agents(
                 project_client, credential
             )
-            workflow = build_handoff_workflow(triage, employee_search, learning, coding)
-            
+            workflow = build_handoff_workflow(
+                triage, employee_search, learning, coding)
+
             initial_message = ChatMessage(role=Role.USER, text=query)
             events = workflow.run_stream([initial_message])
-            
+
             async for event in events:
                 print(f"[Event Type]: {type(event).__name__}")
-                
+
                 if isinstance(event, WorkflowOutputEvent):
                     workflow_output = event.data
                     if isinstance(event.data, list):
                         conversation_messages = event.data
                         for msg in reversed(event.data):
                             if hasattr(msg, 'role') and msg.role == Role.ASSISTANT and msg.text:
-                                print(f"\n[Workflow Output]: {msg.text[:500]}...")
+                                print(
+                                    f"\n[Workflow Output]: {msg.text[:500]}...")
                                 break
                     else:
                         print(f"\n[Workflow Output]: {event.data}")
-                
+
                 elif isinstance(event, RequestInfoEvent):
                     if isinstance(event.data, HandoffUserInputRequest):
                         conversation_messages = event.data.conversation
-                        print(f"\n[Agent Conversation Captured]: {len(conversation_messages)} messages")
-                        
+                        print(
+                            f"\n[Agent Conversation Captured]: {len(conversation_messages)} messages")
+
                         for msg in conversation_messages:
                             if hasattr(msg, 'author_name') and msg.author_name and hasattr(msg, 'text') and msg.text:
                                 agent_name = msg.author_name
                                 if agent_name not in ["user", None]:
-                                    print(f"  - {agent_name}: {msg.text[:100]}...")
-                    
+                                    print(
+                                        f"  - {agent_name}: {msg.text[:100]}...")
+
                 elif isinstance(event, AgentRunUpdateEvent):
-                    agent_name = event.executor_id if hasattr(event, 'executor_id') else "unknown"
+                    agent_name = event.executor_id if hasattr(
+                        event, 'executor_id') else "unknown"
                     print(f"[Agent Update]: {agent_name}")
-                    
+
                     if hasattr(event, 'data'):
-                        _track_agent_ids(event, agent_name, response_ids, conversation_ids)
-                        
+                        _track_agent_ids(event, agent_name,
+                                         response_ids, conversation_ids)
+
                 elif isinstance(event, WorkflowStatusEvent):
                     print(f"[Status]: {event.state.name}")
-    
+
     output_data = {
         "agents": {},
         "query": query,
         "output": workflow_output,
         "conversation": conversation_messages
     }
-    
+
     all_agents = set(conversation_ids.keys()) | set(response_ids.keys())
-    
+
     for agent_name in all_agents:
         output_data["agents"][agent_name] = {
             "conversation_ids": conversation_ids.get(agent_name, []),
             "response_ids": response_ids.get(agent_name, []),
             "response_count": len(response_ids.get(agent_name, []))
         }
-    
+
     print(f"\nWorkflow execution completed")
     print(f"Total agents tracked: {len(output_data['agents'])}")
-    
+
     print("\n=== Response Summary ===")
     for agent_name, agent_data in output_data["agents"].items():
         response_count = agent_data["response_count"]
         print(f"{agent_name}: {response_count} response(s)")
-    
+
     return output_data
 
 
 def display_response_summary(workflow_data: dict):
     """Display summary of response data from the workflow."""
     print_section("Step 2: Response Data Summary")
-    
+
     print(f"Query: {workflow_data['query']}")
     print(f"\nAgents tracked: {len(workflow_data['agents'])}")
-    
+
     for agent_name, agent_data in workflow_data['agents'].items():
         response_count = agent_data['response_count']
         print(f"  {agent_name}: {response_count} response(s)")
@@ -420,23 +427,25 @@ def display_response_summary(workflow_data: dict):
 def fetch_agent_responses(openai_client, workflow_data: dict, agent_names: list):
     """Fetch and display final responses from specified agents."""
     print_section("Step 3: Fetching Agent Responses")
-    
+
     for agent_name in agent_names:
         if agent_name not in workflow_data['agents']:
             continue
-            
+
         agent_data = workflow_data['agents'][agent_name]
         if not agent_data['response_ids']:
             continue
-        
+
         final_response_id = agent_data['response_ids'][-1]
         print(f"\n{agent_name}")
         print(f"  Response ID: {final_response_id}")
-        
+
         try:
-            response = openai_client.responses.retrieve(response_id=final_response_id)
+            response = openai_client.responses.retrieve(
+                response_id=final_response_id)
             content = response.output[-1].content[-1].text
-            truncated = content[:300] + "..." if len(content) > 300 else content
+            truncated = content[:300] + \
+                "..." if len(content) > 300 else content
             print(f"  Content preview: {truncated}")
         except Exception as e:
             print(f"  Error: {e}")
@@ -445,9 +454,9 @@ def fetch_agent_responses(openai_client, workflow_data: dict, agent_names: list)
 def create_evaluation(openai_client, model_deployment: str):
     """Create evaluation with Azure AI evaluators."""
     print_section("Step 4: Creating Evaluation")
-    
+
     data_source_config = {"type": "azure_ai_source", "scenario": "responses"}
-    
+
     testing_criteria = [
         {
             "type": "azure_ai_evaluator",
@@ -474,33 +483,33 @@ def create_evaluation(openai_client, model_deployment: str):
             "initialization_parameters": {"deployment_name": model_deployment}
         },
     ]
-    
+
     eval_object = openai_client.evals.create(
         name="Developer Onboarding Workflow Evaluation",
         data_source_config=data_source_config,
         testing_criteria=testing_criteria,
     )
-    
+
     evaluator_names = [criterion["name"] for criterion in testing_criteria]
     print(f"Evaluation created: {eval_object.id}")
     print(f"Evaluators ({len(evaluator_names)}): {', '.join(evaluator_names)}")
-    
+
     return eval_object
 
 
 def run_evaluation(openai_client, eval_object, workflow_data: dict, agent_names: list):
     """Run evaluation on selected agent responses."""
     print_section("Step 5: Running Evaluation")
-    
+
     selected_response_ids = []
     for agent_name in agent_names:
         if agent_name in workflow_data['agents']:
             agent_data = workflow_data['agents'][agent_name]
             if agent_data['response_ids']:
                 selected_response_ids.append(agent_data['response_ids'][-1])
-    
+
     print(f"Selected {len(selected_response_ids)} responses for evaluation")
-    
+
     data_source = {
         "type": "azure_ai_responses",
         "item_generation_params": {
@@ -512,24 +521,24 @@ def run_evaluation(openai_client, eval_object, workflow_data: dict, agent_names:
             },
         },
     }
-    
+
     eval_run = openai_client.evals.runs.create(
         eval_id=eval_object.id,
         name="Developer Onboarding Evaluation Run",
         data_source=data_source
     )
-    
+
     print(f"Evaluation run created: {eval_run.id}")
-    
+
     return eval_run
 
 
 def monitor_evaluation(openai_client, eval_object, eval_run):
     """Monitor evaluation progress and display results."""
     print_section("Step 6: Monitoring Evaluation")
-    
+
     print("Waiting for evaluation to complete...")
-    
+
     while eval_run.status not in ["completed", "failed"]:
         eval_run = openai_client.evals.runs.retrieve(
             run_id=eval_run.id,
@@ -537,7 +546,7 @@ def monitor_evaluation(openai_client, eval_object, eval_run):
         )
         print(f"Status: {eval_run.status}")
         time.sleep(5)
-    
+
     if eval_run.status == "completed":
         print("\nEvaluation completed successfully")
         print(f"Result counts: {eval_run.result_counts}")
@@ -548,39 +557,42 @@ def monitor_evaluation(openai_client, eval_object, eval_run):
 
 async def run_evaluation_workflow():
     """Main evaluation workflow - runs agents and evaluates responses."""
-    
+
     example_queries = [
         "I'm new here! Has anyone worked at Microsoft here?",
         "Can you help me find colleagues who came from Google and create a learning path for Python development?",
         "Who manages the platform team? Also, I need to learn about Azure Functions - can you create a training plan?",
     ]
-    
+
     query = example_queries[0]
-    
+
     workflow_data = await run_workflow_with_response_tracking(query)
-    
+
     display_response_summary(workflow_data)
-    
+
     project_client = AIProjectClient(
         endpoint=os.environ["AZURE_AI_PROJECT_ENDPOINT"],
         credential=DefaultAzureCredential(),
         api_version="2025-11-15-preview"
     )
     openai_client = project_client.get_openai_client()
-    
-    agents_to_evaluate = ["triage-agent", "employee-search-agent", "learning-agent", "coding-agent"]
-    
+
+    agents_to_evaluate = [
+        "triage-agent", "employee-search-agent", "learning-agent", "coding-agent"]
+
     fetch_agent_responses(openai_client, workflow_data, agents_to_evaluate)
-    
-    model_deployment = os.environ.get("AZURE_AI_MODEL_DEPLOYMENT_NAME", "gpt-4o")
+
+    model_deployment = os.environ.get(
+        "AZURE_AI_MODEL_DEPLOYMENT_NAME", "gpt-4o")
     eval_object = create_evaluation(openai_client, model_deployment)
-    
-    eval_run = run_evaluation(openai_client, eval_object, workflow_data, agents_to_evaluate)
-    
+
+    eval_run = run_evaluation(
+        openai_client, eval_object, workflow_data, agents_to_evaluate)
+
     monitor_evaluation(openai_client, eval_object, eval_run)
-    
+
     print_section("Evaluation Complete")
-    
+
     return workflow_data
 
 

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: hosted-agent
+metadata:
+    template: azd-init@1.21.3
+services:
+    hosted-agent:
+        project: .
+        host: containerapp
+        language: python
+        docker:
+            path: Dockerfile
+resources:
+    hosted-agent:
+        type: host.containerapp
+        port: 8088

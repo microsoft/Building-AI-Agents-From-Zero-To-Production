@@ -33,6 +33,7 @@ from dotenv import load_dotenv
 from agent_framework import (
     HandoffBuilder,
     HostedFileSearchTool,
+    HostedMCPTool,
     HostedVectorStoreContent,
 )
 from agent_framework.azure import AzureAIClient
@@ -133,6 +134,12 @@ After answering organizational questions, ask if they need help with anything el
 )
 
 # LEARNING AGENT - Training & Documentation Specialist
+mcp_tool = HostedMCPTool(
+    name="Microsoft Learn MCP",
+    url="https://learn.microsoft.com/api/mcp",
+    approval_mode="never_require",
+)
+
 learning_agent = learning_client.create_agent(
     id="learning-agent",
     name="learning-agent",
@@ -169,12 +176,14 @@ When handing off to the coding agent, provide:
 - Language preference if mentioned
 
 Be encouraging and adapt to the user's stated experience level!""",
+    tools=[mcp_tool],
 )
 
 # CODING AGENT - Code Generation Specialist
 coding_agent = coding_client.create_agent(
     id="coding-agent",
     name="coding-agent",
+    model="gpt-5-codex",  # Use GPT-5-Codex model optimized for code generation
     instructions="""You are the Code Generation Specialist for the Developer Onboarding program.
 
 You generate high-quality code samples to help new developers get started quickly.
