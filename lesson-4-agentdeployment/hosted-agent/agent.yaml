@@ -1,34 +1,27 @@
-# Unique identifier/name for this agent
 name: dev-onboarding
-
-# Brief description of what this agent does
-description: >
-  A multi-agent workflow for developer onboarding support that routes queries to specialized agents
-  for employee search, learning paths, and coding assistance using HandoffBuilder orchestration.
-
+description: |
+    A Developer Onboarding Assistant that helps new developers with employee search, 
+    learning paths, and coding assistance.
 metadata:
-  authors:
-    - Zero to Production AI Agents 
-  tags:
-    - Azure AI AgentServer
-    - Microsoft Agent Framework
-    - Multi-Agent Workflow
-    - Developer Onboarding
-
+    authors:
+        - Zero to Production AI Agents
+    tags:
+        - Azure AI AgentServer
+        - Microsoft Agent Framework
+        - Developer Onboarding
 template:
-  kind: hosted
-  name: dev-onboarding
-  protocols:
-    - protocol: responses
-  # Valid CPU/Memory pairs: (0.5, 1Gi), (1, 2Gi), (1.5, 3Gi), (2, 4Gi), etc.
-  cpu: 1
-  memory: 2Gi
-  environment_variables:
-    - name: AZURE_AI_PROJECT_ENDPOINT
-      value: ${AZURE_AI_PROJECT_ENDPOINT}
-    - name: VECTOR_STORE_ID
-      value: ${VECTOR_STORE_ID}
-    - name: MODEL_DEPLOYMENT
-      value: gpt-4o
-
-# No resources section - using existing deployed model in Foundry project
+    name: dev-onboarding
+    kind: hosted
+    protocols:
+        - protocol: responses
+    environment_variables:
+        - name: AZURE_OPENAI_ENDPOINT
+          value: ${AZURE_OPENAI_ENDPOINT}
+        - name: AZURE_OPENAI_CHAT_DEPLOYMENT_NAME
+          value: "{{chat}}"
+        - name: VECTOR_STORE_ID
+          value: ${VECTOR_STORE_ID}
+resources:
+    - kind: model
+      id: gpt-4o
+      name: chat

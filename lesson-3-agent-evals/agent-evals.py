@@ -287,7 +287,6 @@ def build_handoff_workflow(triage, employee_search, learning, coding):
         .set_coordinator(triage)
         .add_handoff(triage, [employee_search, learning, coding])
         .add_handoff(learning, [coding])
-        .add_handoff(coding, [learning])
         .with_termination_condition(
             lambda conv: sum(1 for msg in conv if msg.role.value == "user") >= 20
         )

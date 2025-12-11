@@ -5,11 +5,13 @@ targetScope = 'subscription'
 @description('Name of the environment (used for naming resources)')
 param environmentName string
 
-@description('Name of the resource group')
-param resourceGroupName string = 'rg-${environmentName}'
+@minLength(1)
+@maxLength(90)
+@description('Name of the resource group - passed from AZURE_RESOURCE_GROUP')
+param resourceGroupName string
 
-@description('Location for all resources')
-param location string = 'eastus2'
+@description('Location for all resources - passed from AZURE_LOCATION')
+param location string
 
 @description('ACR SKU')
 @allowed(['Basic', 'Standard', 'Premium'])

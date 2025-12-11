@@ -21,7 +21,7 @@ resource containerRegistry 'Microsoft.ContainerRegistry/registries@2023-07-01' =
   tags: tags
   sku: {
     name: sku
-  }
+  } 
   properties: {
     adminUserEnabled: true
   }

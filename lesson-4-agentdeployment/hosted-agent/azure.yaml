@@ -1,19 +1,31 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
 
-name: hosted-agent
-metadata:
-    template: azd-init@1.21.3
-
-# Using existing Azure resources - no infra provisioning needed
-# infra:
-#     provider: bicep
-#     path: infra
-#     module: main
-
+name: devagent
 services:
     dev-onboarding:
-        project: .
+        project: src/dev-onboarding
         host: azure.ai.agent
-        language: python
+        language: docker
         docker:
-            path: Dockerfile
+            remoteBuild: true
+        config:
+            container:
+                resources:
+                    cpu: "1"
+                    memory: 2Gi
+                scale:
+                    maxReplicas: 3
+                    minReplicas: 1
+            deployments:
+                - model:
+                    format: OpenAI
+                    name: gpt-4o
+                    version: "2024-11-20"
+                  name: gpt-4o
+                  sku:
+                    capacity: 10
+                    name: GlobalStandard
+infra:
+    provider: bicep
+    path: infra
+    module: main

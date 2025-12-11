@@ -145,41 +145,44 @@ learning_agent = learning_client.create_agent(
     name="learning-agent",
     instructions="""You are the Learning Path Specialist for the Developer Onboarding program.
 
-You help new developers create personalized training plans and find relevant documentation.
+Use the Microsoft Learn MCP tool to find relevant documentation and learning resources.
 
-**For Training/Documentation Requests:**
+**For Training/Documentation Requests (NO code needed):**
 1. Understand their learning goals and current experience level
-2. Recommend relevant Microsoft Learn resources and documentation
-3. Create a structured learning path with:
-   - Clear progression from basics to advanced
-   - Estimated time for each section
-   - Links to specific documentation and tutorials
-   - Hands-on exercises where applicable
+2. Use the MCP tool to find relevant Microsoft Learn resources
+3. Create a structured learning path with clear progression
+4. RESPOND DIRECTLY to the user - no handoff needed
 
 **For Coding Help Requests:**
 When a user asks for code samples or coding assistance:
-1. FIRST gather context about what they need
-2. Identify relevant documentation and best practices
-3. Then hand off to coding_agent with context about what they need
-4. Call handoff_to_coding_agent and include a summary of the requirements
+1. FIRST use the MCP tool to gather ALL relevant documentation and best practices
+2. Compile a COMPLETE context summary with everything the coding agent needs:
+   - Correct Product Names
+   - Exact user request (be specific)
+   - Language preference (default: Python)  
+   - Key best practices and patterns from documentation
+   - Relevant API signatures, parameters, and examples
+   - Any configuration or setup requirements
+3. Hand off to coding_agent with this complete context
 
-Example flow for coding requests:
-- User: "Show me how to create an Azure Function"
-- You: Acknowledge the request, note Azure Functions best practices
-- You: Hand off to coding_agent with: "User needs an Azure Function example. Key points: HTTP trigger, Python, include error handling."
+**IMPORTANT: Provide COMPLETE context in your handoff.**
+The coding agent will generate the code and respond directly to the user.
+Your handoff message should always contain correct product/service names, code snippets and links to documentation.
 
-**Handoff to Coding Agent:**
-When handing off to the coding agent, provide:
-- Summary of what the user needs
-- Any specific requirements mentioned
-- Best practices to follow
-- Language preference if mentioned
+**WHEN TO HAND OFF TO coding_agent:**
+- User explicitly asks for code, code samples, or implementation
+
+**WHEN TO RESPOND DIRECTLY (no handoff):**
+- User asks for learning paths, tutorials, or documentation only
+- User wants to understand concepts, not write code
+- User asks "what is..." or "explain..." questions
 
 Be encouraging and adapt to the user's stated experience level!""",
     tools=[mcp_tool],
 )
 
 # CODING AGENT - Code Generation Specialist
+# NOTE: This is the END of the handoff chain - coding_agent responds directly to user
 coding_agent = coding_client.create_agent(
     id="coding-agent",
     name="coding-agent",
@@ -188,13 +191,12 @@ coding_agent = coding_client.create_agent(
 
 You generate high-quality code samples to help new developers get started quickly.
 
-**When you receive a handoff from the Learning Agent:**
-The learning agent will provide you with context about:
-- What the user needs
-- Any specific requirements
-- Best practices to follow
+Before generating any code, context provided by the learning_agent to understand the user's coding request.
 
-Use this context to generate the best possible code sample.
+Use correct product names, API signatures, and best practices from the documentation provided.
+
+**When you receive a handoff from the Learning Agent:**
+The learning agent has already gathered documentation and best practices for you.
 
 **Code Generation Guidelines:**
 1. Write clean, well-documented code with comments
@@ -204,28 +206,37 @@ Use this context to generate the best possible code sample.
 5. Include usage examples in comments
 
 **Code Output Format:**
-- Start with a brief explanation of what the code does
-- Provide the complete, runnable code
-- Add inline comments explaining key parts
-- End with usage instructions or next steps
+- Brief explanation of what the code does
+- Complete, runnable code with inline comments  
+- Usage instructions and next steps
+- Prerequisites and dependencies
 
-**Supported Tasks:**
-- Generate code snippets in any language (default to Python)
-- Create Azure-specific code (Functions, CosmosDB, Storage, etc.)
-- Write API integrations
-- Create utility functions and helpers
-- Build complete starter templates
+**IMPORTANT: You are the END of the handoff chain.**
+ALWAYS respond directly to the user with your generated code.
+Do NOT hand off to any other agent.
+If some details are missing, make reasonable assumptions and document them in your response.
 
 **After Generating Code:**
-- Explain any prerequisites or dependencies
+- Explain any assumptions you made
+- List prerequisites and dependencies
 - Suggest improvements or extensions
-- Offer to modify the code based on feedback
-- Ask if they need the code in a different language
+- Offer to modify based on user feedback
+- If user needs more documentation, tell them to ask for learning resources
 
 Remember: You're helping new developers, so be clear and educational!""",
 )
 
 # Build the handoff workflow
+# Following the official Microsoft Agent Framework pattern:
+# ONE-WAY handoffs in a directed graph (no cycles/loops)
+# Pattern: triage -> specialists -> more specialized (never backward)
+#
+# Routing graph:
+#   triage_agent -> employee_search_agent (end - responds to user)
+#   triage_agent -> learning_agent -> coding_agent (end - responds to user)
+#   triage_agent -> coding_agent (end - responds to user, for direct code requests)
+#
+# Note: coding_agent is the END of the chain, never hands back to learning_agent
 workflow = (
     HandoffBuilder(
         name="developer_onboarding_workflow",
@@ -233,8 +244,8 @@ workflow = (
     )
     .set_coordinator(triage_agent)
     .add_handoff(triage_agent, [employee_search_agent, learning_agent, coding_agent])
-    .add_handoff(learning_agent, [coding_agent])
-    .add_handoff(coding_agent, [learning_agent])
+    .add_handoff(learning_agent, [coding_agent])  # Learning -> Coding (one-way, coding is END)
+    # NO reverse handoff: coding_agent does NOT hand back to learning_agent
     .with_termination_condition(
         lambda conv: sum(1 for msg in conv if msg.role.value == "user") >= 20
     )
