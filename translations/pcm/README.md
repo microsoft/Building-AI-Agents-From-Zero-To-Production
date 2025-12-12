@@ -1,0 +1,97 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
+  "translation_date": "2025-12-12T17:14:26+00:00",
+  "source_file": "README.md",
+  "language_code": "pcm"
+}
+-->
+# Building AI Agents from Zero to Production
+
+![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.pcm.png)
+
+## A course wey dey teach you di fundamentals of di AI Agent Developement Lifecycle
+
+[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+
+## 🌱 How to Start
+
+Dis course get lessons wey cover di basics of building and deploying AI Agents.
+
+Each lesson dey build on top di one wey come before am, so we recommend say start from di beginning and waka your way go reach di end.
+
+If you want explore more about AI Agent topics, you fit check di [AI Agents For Beginenrs Course](https://aka.ms/ai-agents-beginners).
+
+### Meet Other Learners, Get Your Questions Answered
+
+If you jam wahala or get any question about building AI Agents, join our dedicated Discord Channel for di [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+
+### Wetin You Need
+
+Each Lesson get im own code sample wey you fit run locally. You fit [fork dis repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) to create your own copy.
+
+Dis course dey use dis ones now:
+
+- [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
+- [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
+- [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
+- [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
+
+Make sure say you get access to these services before you start.
+
+More options about model hosting and services go show soon.
+
+## 🗃️ Lessons
+
+| **Lesson**         | **Description**                                                                                  |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| [Agent Design](./lesson-1-agent-design/README.md)       | Introduction to our "Developer Onboarding" Agent Use Case and how to design effective agents  |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Using Microsoft Agent Framework (MAF), create 3 agents to help new developers onboard.       |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Using Microsoft Foundry, find out how well our AI Agents dey perform and how to improve dem. |
+| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Using Hosted Agents and OpenAI Chatkit, see how to deploy AI Agent into production.       |
+
+## Contributing
+
+Dis project dey welcome contributions and suggestions. Most contributions need say you agree to a
+Contributor License Agreement (CLA) wey talk say you get di right, and you really dey give us
+di rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
+
+When you submit pull request, CLA bot go automatically check if you need provide
+CLA and go mark di PR well (e.g., status check, comment). Just follow di instructions
+wey di bot give you. You go only need do am once for all repos wey dey use our CLA.
+
+Dis project don adopt di [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more info see di [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) if you get any more questions or comments.
+
+## Trademarks
+
+Dis project fit get trademarks or logos for projects, products, or services. Authorized use of Microsoft
+trademarks or logos dey subject to and must follow
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Use of Microsoft trademarks or logos for modified versions of dis project no suppose cause confusion or make people think say Microsoft dey sponsor am.
+Any use of third-party trademarks or logos dey subject to those third-parties' policies.
+
+## Getting Help
+
+If you jam wahala or get any question about building AI apps, join:
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+
+If you get product feedback or errors while building, visit:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Disclaimer**:
+Dis document don translate wit AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translation fit get some errors or wahala. Di original document wey dey im own language na di correct one. If na serious matter, e better make human professional translate am. We no go responsible for any misunderstanding or wrong meaning wey fit show because of dis translation.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
