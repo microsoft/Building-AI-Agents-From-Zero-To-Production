@@ -1,0 +1,26 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "763a733399ea9f55f6418d1efe13c12b",
+  "translation_date": "2025-12-12T16:35:29+00:00",
+  "source_file": "CODE_OF_CONDUCT.md",
+  "language_code": "ne"
+}
+-->
+# माइक्रोसफ्ट खुला स्रोत आचार संहिता
+
+यस परियोजनाले [माइक्रोसफ्ट खुला स्रोत आचार संहिता](https://opensource.microsoft.com/codeofconduct/) अपनाएको छ।
+
+स्रोतहरू:
+
+- [माइक्रोसफ्ट खुला स्रोत आचार संहिता](https://opensource.microsoft.com/codeofconduct/)
+- [माइक्रोसफ्ट आचार संहिता FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+- प्रश्न वा चिन्ताहरूका लागि [opencode@microsoft.com](mailto:opencode@microsoft.com) मा सम्पर्क गर्नुहोस्
+- कर्मचारीहरूले [aka.ms/opensource/moderation-support](https://aka.ms/opensource/moderation-support) मा सम्पर्क गर्न सक्छन्
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**अस्वीकरण**:
+यो दस्तावेज AI अनुवाद सेवा [Co-op Translator](https://github.com/Azure/co-op-translator) प्रयोग गरी अनुवाद गरिएको हो। हामी शुद्धताका लागि प्रयासरत छौं भने पनि, कृपया ध्यान दिनुहोस् कि स्वचालित अनुवादमा त्रुटि वा अशुद्धता हुन सक्छ। मूल दस्तावेज यसको मूल भाषामा आधिकारिक स्रोत मानिनु पर्छ। महत्वपूर्ण जानकारीका लागि व्यावसायिक मानव अनुवाद सिफारिस गरिन्छ। यस अनुवादको प्रयोगबाट उत्पन्न कुनै पनि गलतफहमी वा गलत व्याख्याका लागि हामी जिम्मेवार छैनौं।
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

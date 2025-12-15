@@ -1,0 +1,26 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "763a733399ea9f55f6418d1efe13c12b",
+  "translation_date": "2025-12-12T16:42:20+00:00",
+  "source_file": "CODE_OF_CONDUCT.md",
+  "language_code": "te"
+}
+-->
+# Microsoft ఓపెన్ సోర్స్ కోడ్ ఆఫ్ కండక్ట్
+
+ఈ ప్రాజెక్ట్ [Microsoft ఓపెన్ సోర్స్ కోడ్ ఆఫ్ కండక్ట్](https://opensource.microsoft.com/codeofconduct/)ని ఆమోదించింది.
+
+వనరులు:
+
+- [Microsoft ఓపెన్ సోర్స్ కోడ్ ఆఫ్ కండక్ట్](https://opensource.microsoft.com/codeofconduct/)
+- [Microsoft కోడ్ ఆఫ్ కండక్ట్ FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+- ప్రశ్నలు లేదా ఆందోళనల కోసం [opencode@microsoft.com](mailto:opencode@microsoft.com) ను సంప్రదించండి
+- ఉద్యోగులు [aka.ms/opensource/moderation-support](https://aka.ms/opensource/moderation-support) వద్ద చేరుకోవచ్చు
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**అస్పష్టత**:  
+ఈ పత్రాన్ని AI అనువాద సేవ [Co-op Translator](https://github.com/Azure/co-op-translator) ఉపయోగించి అనువదించబడింది. మేము ఖచ్చితత్వానికి ప్రయత్నించినప్పటికీ, ఆటోమేటెడ్ అనువాదాల్లో పొరపాట్లు లేదా తప్పిదాలు ఉండవచ్చు. అసలు పత్రం దాని స్వదేశీ భాషలోనే అధికారిక మూలంగా పరిగణించాలి. ముఖ్యమైన సమాచారానికి, ప్రొఫెషనల్ మానవ అనువాదం చేయించుకోవడం మంచిది. ఈ అనువాదం వలన కలిగే ఏవైనా అపార్థాలు లేదా తప్పుదారుల బాధ్యత మేము తీసుకోము.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

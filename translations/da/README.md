@@ -1,0 +1,97 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
+  "translation_date": "2025-12-12T17:03:09+00:00",
+  "source_file": "README.md",
+  "language_code": "da"
+}
+-->
+# Bygning af AI-agenter fra nul til produktion
+
+![Bygning af AI-agenter fra nul til produktion](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.da.png)
+
+## Et kursus, der lærer dig grundlæggende om AI Agent Udviklingslivscyklussen
+
+[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+
+## 🌱 Kom godt i gang
+
+Dette kursus har lektioner, der dækker det grundlæggende i at bygge og implementere AI-agenter.
+
+Hver lektion bygger videre på den forrige, så vi anbefaler at starte fra begyndelsen og arbejde dig igennem til slutningen.
+
+Hvis du vil udforske mere om AI Agent-emner, kan du tjekke [AI Agents For Beginners-kurset](https://aka.ms/ai-agents-beginners).
+
+### Mød andre lærende, få svar på dine spørgsmål
+
+Hvis du sidder fast eller har spørgsmål om at bygge AI-agenter, kan du deltage i vores dedikerede Discord-kanal i [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+
+### Hvad du har brug for
+
+Hver lektion har sit eget kodeeksempel, som du kan køre lokalt. Du kan [forke dette repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) for at oprette din egen kopi.
+
+Dette kursus bruger i øjeblikket følgende:
+
+- [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
+- [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
+- [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
+- [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
+
+Sørg venligst for, at du har adgang til disse tjenester, før du går i gang.
+
+Flere muligheder omkring modelhosting og tjenester kommer snart.
+
+## 🗃️ Lektioner
+
+| **Lektion**         | **Beskrivelse**                                                                                  |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| [Agent Design](./lesson-1-agent-design/README.md)       | En introduktion til vores "Developer Onboarding" Agent Use Case og hvordan man designer effektive agenter  |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Brug Microsoft Agent Framework (MAF) til at skabe 3 agenter, der hjælper nye udviklere med onboarding.       |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Brug Microsoft Foundry til at finde ud af, hvor godt vores AI-agenter præsterer, og hvordan man forbedrer dem. |
+| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Brug Hosted Agents og OpenAI Chatkit til at se, hvordan man implementerer en AI-agent i produktion.       |
+
+## Bidrag
+
+Dette projekt byder velkommen til bidrag og forslag. De fleste bidrag kræver, at du accepterer en
+Contributor License Agreement (CLA), der erklærer, at du har ret til, og faktisk giver os
+rettighederne til at bruge dit bidrag. For detaljer, besøg <https://cla.opensource.microsoft.com>.
+
+Når du indsender en pull request, vil en CLA-bot automatisk afgøre, om du skal levere
+en CLA og dekorere PR'en passende (f.eks. statuskontrol, kommentar). Følg blot instruktionerne
+fra botten. Du skal kun gøre dette én gang på tværs af alle repos, der bruger vores CLA.
+
+Dette projekt har vedtaget [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For mere information se [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) eller
+kontakt [opencode@microsoft.com](mailto:opencode@microsoft.com) med yderligere spørgsmål eller kommentarer.
+
+## Varemærker
+
+Dette projekt kan indeholde varemærker eller logoer for projekter, produkter eller tjenester. Autoriseret brug af Microsoft
+varemærker eller logoer er underlagt og skal følge
+[Microsofts retningslinjer for varemærker og branding](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Brug af Microsoft-varemærker eller logoer i modificerede versioner af dette projekt må ikke skabe forvirring eller antyde Microsoft-sponsorering.
+Enhver brug af tredjeparts varemærker eller logoer er underlagt disse tredjeparts politikker.
+
+## Få hjælp
+
+Hvis du sidder fast eller har spørgsmål om at bygge AI-apps, så deltag i:
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+
+Hvis du har produktfeedback eller fejl under udvikling, besøg:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Ansvarsfraskrivelse**:
+Dette dokument er blevet oversat ved hjælp af AI-oversættelsestjenesten [Co-op Translator](https://github.com/Azure/co-op-translator). Selvom vi bestræber os på nøjagtighed, bedes du være opmærksom på, at automatiserede oversættelser kan indeholde fejl eller unøjagtigheder. Det oprindelige dokument på dets modersmål bør betragtes som den autoritative kilde. For kritisk information anbefales professionel menneskelig oversættelse. Vi påtager os intet ansvar for misforståelser eller fejltolkninger, der opstår som følge af brugen af denne oversættelse.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
