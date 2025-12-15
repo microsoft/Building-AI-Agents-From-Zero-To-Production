@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:01:17+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:22:56+00:00",
   "source_file": "README.md",
   "language_code": "th"
 }
@@ -11,13 +11,21 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![การสร้างเอเจนต์ AI ตั้งแต่เริ่มต้นจนถึงการผลิต](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.th.png)
 
+### 🌐 รองรับหลายภาษา
+
+#### รองรับผ่าน GitHub Action (อัตโนมัติ & อัปเดตเสมอ)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](./README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ## หลักสูตรสอนพื้นฐานของวงจรชีวิตการพัฒนาเอเจนต์ AI
 
-[![ใบอนุญาต GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![ผู้ร่วมพัฒนา GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![ปัญหา GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![คำขอดึง GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![ยินดีรับ PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -27,7 +35,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 แต่ละบทเรียนจะต่อยอดจากบทเรียนก่อนหน้า ดังนั้นเราขอแนะนำให้เริ่มจากต้นและทำตามจนจบ
 
-หากคุณต้องการสำรวจเพิ่มเติมเกี่ยวกับหัวข้อเอเจนต์ AI คุณสามารถดูได้ที่ [หลักสูตร AI Agents For Beginners](https://aka.ms/ai-agents-beginners)
+หากคุณต้องการสำรวจเพิ่มเติมเกี่ยวกับหัวข้อเอเจนต์ AI คุณสามารถดูได้ที่ [หลักสูตร AI Agents สำหรับผู้เริ่มต้น](https://aka.ms/ai-agents-beginners)
 
 ### พบปะผู้เรียนคนอื่น ๆ และรับคำตอบสำหรับคำถามของคุณ
 
@@ -35,7 +43,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### สิ่งที่คุณต้องมี
 
-แต่ละบทเรียนมีตัวอย่างโค้ดของตัวเองที่คุณสามารถรันได้ในเครื่องของคุณเอง คุณสามารถ [fork รีโปนี้](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) เพื่อสร้างสำเนาของคุณเอง
+แต่ละบทเรียนมีตัวอย่างโค้ดของตัวเองที่คุณสามารถรันได้ในเครื่องของคุณเอง คุณสามารถ [fork repo นี้](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) เพื่อสร้างสำเนาของคุณเอง
 
 หลักสูตรนี้ใช้บริการดังต่อไปนี้:
 
@@ -52,20 +60,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 | **บทเรียน**         | **คำอธิบาย**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [การออกแบบเอเจนต์](./lesson-1-agent-design/README.md)       | แนะนำกรณีการใช้งาน "Developer Onboarding" ของเอเจนต์และวิธีการออกแบบเอเจนต์ที่มีประสิทธิภาพ  |
+| [การออกแบบเอเจนต์](./lesson-1-agent-design/README.md)       | แนะนำกรณีการใช้งาน "Developer Onboarding" และวิธีการออกแบบเอเจนต์ที่มีประสิทธิภาพ  |
 | [การพัฒนาเอเจนต์](./lesson-2-agent-development/README.md)  | ใช้ Microsoft Agent Framework (MAF) สร้างเอเจนต์ 3 ตัวเพื่อช่วยนักพัฒนามือใหม่เริ่มต้นใช้งาน       |
-| [การประเมินเอเจนต์](./lesson-3-agent-evals/README.md)  | ใช้ Microsoft Foundry เพื่อดูว่าเอเจนต์ AI ของเราทำงานได้ดีแค่ไหนและวิธีปรับปรุง                   |
-| [การปรับใช้เอเจนต์](./lesson-4-agent-deployment/README.md)   | ใช้ Hosted Agents และ OpenAI Chatkit เพื่อดูวิธีปรับใช้เอเจนต์ AI สู่การผลิต                       |
+| [การประเมินเอเจนต์](./lesson-3-agent-evals/README.md)  | ใช้ Microsoft Foundry เพื่อดูว่าเอเจนต์ AI ของเราทำงานได้ดีแค่ไหนและวิธีปรับปรุง           |
+| [การปรับใช้เอเจนต์](./lesson-4-agent-deployment/README.md)   | ใช้ Hosted Agents และ OpenAI Chatkit เพื่อดูวิธีปรับใช้เอเจนต์ AI ในการผลิต       |
 
 ## การมีส่วนร่วม
 
 โครงการนี้ยินดีรับการมีส่วนร่วมและข้อเสนอแนะ ส่วนใหญ่การมีส่วนร่วมจะต้องให้คุณยอมรับ
-ข้อตกลงสิทธิ์การใช้งานผู้ร่วมพัฒนา (Contributor License Agreement - CLA) ที่ระบุว่าคุณมีสิทธิ์และได้ให้สิทธิ์แก่เรา
-ในการใช้ผลงานของคุณ สำหรับรายละเอียดเพิ่มเติม โปรดเยี่ยมชม <https://cla.opensource.microsoft.com>
+Contributor License Agreement (CLA) ซึ่งระบุว่าคุณมีสิทธิ์และอนุญาตให้เราใช้ผลงานของคุณ สำหรับรายละเอียดเพิ่มเติม โปรดเยี่ยมชม <https://cla.opensource.microsoft.com>
 
-เมื่อคุณส่งคำขอดึง (pull request) บอท CLA จะตรวจสอบโดยอัตโนมัติว่าคุณต้องส่ง CLA หรือไม่
-และประดับ PR อย่างเหมาะสม (เช่น การตรวจสอบสถานะ, ความคิดเห็น) เพียงทำตามคำแนะนำที่บอทให้มา
-คุณจะต้องทำเพียงครั้งเดียวสำหรับทุกรีโปที่ใช้ CLA ของเรา
+เมื่อคุณส่ง pull request บอท CLA จะตรวจสอบโดยอัตโนมัติว่าคุณต้องส่ง CLA หรือไม่ และจะประดับ PR อย่างเหมาะสม (เช่น การตรวจสอบสถานะ, ความคิดเห็น) เพียงทำตามคำแนะนำที่บอทให้ไว้ คุณจะต้องทำเพียงครั้งเดียวสำหรับทุก repo ที่ใช้ CLA ของเรา
 
 โครงการนี้ได้นำ [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) มาใช้
 สำหรับข้อมูลเพิ่มเติมดูที่ [คำถามที่พบบ่อยเกี่ยวกับ Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) หรือ
@@ -73,13 +78,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## เครื่องหมายการค้า
 
-โครงการนี้อาจมีเครื่องหมายการค้าหรือโลโก้ของโครงการ ผลิตภัณฑ์ หรือบริการ การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft
-ต้องเป็นไปตามและปฏิบัติตาม
-[แนวทางการใช้เครื่องหมายการค้าและแบรนด์ของ Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)
+โครงการนี้อาจมีเครื่องหมายการค้าหรือโลโก้สำหรับโครงการ ผลิตภัณฑ์ หรือบริการ การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft อย่างถูกต้องต้องเป็นไปตาม
+[แนวทางเครื่องหมายการค้าและแบรนด์ของ Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)
 การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft ในเวอร์ชันที่แก้ไขของโครงการนี้ต้องไม่ก่อให้เกิดความสับสนหรือบ่งชี้ว่ามีการสนับสนุนจาก Microsoft
 การใช้เครื่องหมายการค้าหรือโลโก้ของบุคคลที่สามต้องเป็นไปตามนโยบายของบุคคลที่สามเหล่านั้น
 
-## การขอความช่วยเหลือ
+## ขอความช่วยเหลือ
 
 หากคุณติดขัดหรือมีคำถามเกี่ยวกับการสร้างแอป AI เข้าร่วม:
 

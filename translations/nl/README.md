@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:04:53+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:27:40+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # AI-agenten bouwen van nul tot productie
 
 ![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.nl.png)
+
+### 🌐 Meertalige ondersteuning
+
+#### Ondersteund via GitHub Action (Geautomatiseerd & Altijd Up-to-Date)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](./README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Een cursus die je de basisprincipes van de AI Agent Ontwikkelingslevenscyclus leert
 
@@ -27,7 +35,7 @@ Deze cursus bevat lessen over de basisprincipes van het bouwen en implementeren 
 
 Elke les bouwt voort op de vorige, dus we raden aan om bij het begin te beginnen en door te werken tot het einde.
 
-Als je meer wilt ontdekken over AI-agenten, kun je de [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) bekijken.
+Als je meer wilt ontdekken over AI-agent onderwerpen, kun je de [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) bekijken.
 
 ### Ontmoet andere leerlingen, krijg antwoord op je vragen
 
@@ -44,7 +52,7 @@ Deze cursus gebruikt momenteel het volgende:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Zorg ervoor dat je toegang hebt tot deze services voordat je begint.
+Zorg ervoor dat je toegang hebt tot deze diensten voordat je begint.
 
 Meer opties rond modelhosting en services volgen binnenkort.
 
@@ -52,16 +60,16 @@ Meer opties rond modelhosting en services volgen binnenkort.
 
 | **Les**            | **Beschrijving**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Agent Design](./lesson-1-agent-design/README.md)       | Een introductie tot onze "Developer Onboarding" Agent Use Case en hoe je effectieve agenten ontwerpt  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Met het Microsoft Agent Framework (MAF) maak je 3 agenten om nieuwe ontwikkelaars te helpen onboarden.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Met Microsoft Foundry ontdek je hoe goed onze AI-agenten presteren en hoe je ze kunt verbeteren. |
-| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Met de Hosted Agents en OpenAI Chatkit zie je hoe je een AI-agent in productie brengt.       |
+| [Agentontwerp](./lesson-1-agent-design/README.md)       | Een introductie tot onze "Developer Onboarding" Agent Use Case en hoe je effectieve agenten ontwerpt  |
+| [Agentontwikkeling](./lesson-2-agent-development/README.md)  | Met het Microsoft Agent Framework (MAF) maak je 3 agenten om nieuwe ontwikkelaars te helpen onboarden.       |
+| [Agentbeoordelingen](./lesson-3-agent-evals/README.md)  | Met Microsoft Foundry ontdek je hoe goed onze AI-agenten presteren en hoe je ze kunt verbeteren. |
+| [Agentimplementatie](./lesson-4-agent-deployment/README.md)   | Met de Hosted Agents en OpenAI Chatkit zie je hoe je een AI-agent in productie brengt.       |
 
 ## Bijdragen
 
 Dit project verwelkomt bijdragen en suggesties. De meeste bijdragen vereisen dat je akkoord gaat met een
 Contributor License Agreement (CLA) waarin je verklaart dat je het recht hebt en daadwerkelijk verleent
-dat wij de rechten krijgen om je bijdrage te gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
+dat wij jouw bijdrage mogen gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
 
 Wanneer je een pull request indient, bepaalt een CLA-bot automatisch of je een CLA moet aanleveren
 en voorziet het PR van de juiste aanduidingen (bijv. statuscontrole, commentaar). Volg gewoon de instructies
@@ -73,7 +81,7 @@ neem contact op met [opencode@microsoft.com](mailto:opencode@microsoft.com) voor
 
 ## Handelsmerken
 
-Dit project kan handelsmerken of logo's bevatten van projecten, producten of diensten. Het geautoriseerd gebruik van Microsoft
+Dit project kan handelsmerken of logo's bevatten van projecten, producten of diensten. Geautoriseerd gebruik van Microsoft
 handelsmerken of logo's is onderhevig aan en moet voldoen aan
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Gebruik van Microsoft handelsmerken of logo's in gewijzigde versies van dit project mag geen verwarring veroorzaken of Microsoft-sponsoring impliceren.

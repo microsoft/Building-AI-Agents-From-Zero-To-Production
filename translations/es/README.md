@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T16:50:30+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:07:47+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # Construyendo Agentes de IA desde Cero hasta Producción
 
 ![Construyendo Agentes de IA desde Cero hasta Producción](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.es.png)
+
+### 🌐 Soporte Multilingüe
+
+#### Soportado mediante GitHub Action (Automatizado y Siempre Actualizado)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](./README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Un curso que te enseña los fundamentos del Ciclo de Vida del Desarrollo de Agentes de IA
 
@@ -23,7 +31,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Comenzando
 
-Este curso tiene lecciones que cubren los fundamentos para construir y desplegar Agentes de IA.
+Este curso tiene lecciones que cubren los fundamentos de construir y desplegar Agentes de IA.
 
 Cada lección se basa en la anterior, por lo que recomendamos comenzar desde el principio y avanzar hasta el final.
 
@@ -31,7 +39,7 @@ Si quieres explorar más sobre temas de Agentes de IA, puedes consultar el [Curs
 
 ### Conoce a Otros Estudiantes, Resuelve tus Dudas
 
-Si te quedas atascado o tienes alguna pregunta sobre cómo construir Agentes de IA, únete a nuestro canal dedicado en Discord en el [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Si te quedas atascado o tienes alguna pregunta sobre cómo construir Agentes de IA, únete a nuestro canal dedicado de Discord en el [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Lo que Necesitas
 
@@ -46,7 +54,7 @@ Este curso actualmente utiliza lo siguiente:
 
 Por favor, asegúrate de tener acceso a estos servicios antes de comenzar.
 
-Próximamente más opciones sobre alojamiento de modelos y servicios.
+Más opciones sobre alojamiento de modelos y servicios próximamente.
 
 ## 🗃️ Lecciones
 
@@ -63,8 +71,8 @@ Este proyecto da la bienvenida a contribuciones y sugerencias. La mayoría de la
 Acuerdo de Licencia de Contribuidor (CLA) declarando que tienes el derecho y realmente otorgas
 los derechos para usar tu contribución. Para más detalles, visita <https://cla.opensource.microsoft.com>.
 
-Cuando envíes un pull request, un bot de CLA determinará automáticamente si necesitas proporcionar
-un CLA y decorará el PR apropiadamente (por ejemplo, verificación de estado, comentario). Simplemente sigue las instrucciones
+Cuando envíes una solicitud de extracción, un bot de CLA determinará automáticamente si necesitas proporcionar
+un CLA y decorará la PR apropiadamente (por ejemplo, verificación de estado, comentario). Simplemente sigue las instrucciones
 proporcionadas por el bot. Solo necesitarás hacer esto una vez en todos los repositorios que usan nuestro CLA.
 
 Este proyecto ha adoptado el [Código de Conducta de Código Abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/).
@@ -73,9 +81,9 @@ contacta a [opencode@microsoft.com](mailto:opencode@microsoft.com) con cualquier
 
 ## Marcas Registradas
 
-Este proyecto puede contener marcas registradas o logotipos de proyectos, productos o servicios. El uso autorizado de marcas
+Este proyecto puede contener marcas registradas o logotipos de proyectos, productos o servicios. El uso autorizado de las marcas
 o logotipos de Microsoft está sujeto a y debe seguir
-[las Directrices de Marca y Uso de Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[las Directrices de Marca y Marca Registrada de Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 El uso de marcas o logotipos de Microsoft en versiones modificadas de este proyecto no debe causar confusión ni implicar patrocinio de Microsoft.
 Cualquier uso de marcas o logotipos de terceros está sujeto a las políticas de esos terceros.
 

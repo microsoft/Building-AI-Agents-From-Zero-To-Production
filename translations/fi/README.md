@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:04:12+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:26:32+00:00",
   "source_file": "README.md",
   "language_code": "fi"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # Rakennetaan tekoälyagentteja alusta tuotantoon
 
 ![Rakennetaan tekoälyagentteja alusta tuotantoon](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.fi.png)
+
+### 🌐 Monikielinen tuki
+
+#### Tuettu GitHub Actionin kautta (automaattinen ja aina ajan tasalla)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](./README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Kurssi, joka opettaa tekoälyagenttien kehityssyklin perusteet
 
@@ -27,7 +35,7 @@ Tämä kurssi sisältää oppitunteja, jotka käsittelevät tekoälyagenttien ra
 
 Jokainen oppitunti rakentuu edellisen päälle, joten suosittelemme aloittamaan alusta ja etenemään loppuun asti.
 
-Jos haluat tutustua lisää tekoälyagenttiaiheisiin, voit tutustua [AI Agents For Beginners -kurssiin](https://aka.ms/ai-agents-beginners).
+Jos haluat tutustua lisää tekoälyagenttien aiheisiin, voit tutustua [AI Agents For Beginners -kurssiin](https://aka.ms/ai-agents-beginners).
 
 ### Tapaa muita oppijoita, saa vastauksia kysymyksiisi
 
@@ -53,28 +61,27 @@ Lisävaihtoehtoja mallien isännöintiin ja palveluihin tulossa pian.
 | **Oppitunti**         | **Kuvaus**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agentin suunnittelu](./lesson-1-agent-design/README.md)       | Johdanto "Kehittäjän perehdytys" -agenttikäyttötapaukseen ja tehokkaiden agenttien suunnitteluun  |
-| [Agentin kehitys](./lesson-2-agent-development/README.md)  | Microsoft Agent Frameworkin (MAF) avulla luodaan 3 agenttia auttamaan uusia kehittäjiä perehtymään.       |
-| [Agentin arvioinnit](./lesson-3-agent-evals/README.md)  | Microsoft Foundryn avulla selvitetään, miten hyvin tekoälyagenttimme toimivat ja miten niitä voi parantaa. |
-| [Agentin käyttöönotto](./lesson-4-agent-deployment/README.md)   | Hosted Agentsin ja OpenAI Chatkitin avulla opitaan, miten tekoälyagentti otetaan tuotantoon.       |
+| [Agentin kehitys](./lesson-2-agent-development/README.md)  | Microsoft Agent Frameworkin (MAF) avulla luodaan 3 agenttia auttamaan uusia kehittäjiä perehdytyksessä.       |
+| [Agenttien arvioinnit](./lesson-3-agent-evals/README.md)  | Microsoft Foundryn avulla selvitetään, miten hyvin tekoälyagenttimme toimivat ja miten niitä voi parantaa. |
+| [Agentin käyttöönotto](./lesson-4-agent-deployment/README.md)   | Käyttämällä Hosted Agents- ja OpenAI Chatkit -työkaluja, opi miten tekoälyagentti otetaan tuotantoon.       |
 
 ## Osallistuminen
 
-Tämä projekti toivottaa tervetulleiksi osallistumiset ja ehdotukset. Useimmat osallistumiset edellyttävät, että hyväksyt
+Tämä projekti toivottaa tervetulleiksi panokset ja ehdotukset. Useimmat panokset edellyttävät, että hyväksyt
 Contributor License Agreementin (CLA), jossa vakuutat, että sinulla on oikeus ja todella myönnät meille
-oikeudet käyttää panostustasi. Lisätietoja löytyy osoitteesta <https://cla.opensource.microsoft.com>.
+oikeudet käyttää panostasi. Lisätietoja löytyy osoitteesta <https://cla.opensource.microsoft.com>.
 
-Kun lähetät pull requestin, CLA-botti määrittää automaattisesti, tarvitsetko toimittaa CLA:n ja merkitsee PR:n asianmukaisesti (esim. tilantarkistus, kommentti). Noudata vain botin antamia ohjeita. Tämä tarvitsee tehdä vain kerran kaikissa CLA:ta käyttävissä repostoissa.
+Kun lähetät pull requestin, CLA-botti määrittää automaattisesti, tarvitsetko CLA:n ja merkitsee PR:n asianmukaisesti (esim. tilantarkistus, kommentti). Noudata vain botin antamia ohjeita. Tämä täytyy tehdä vain kerran kaikissa CLA:ta käyttävissä repositorioissa.
 
 Tämä projekti on ottanut käyttöön [Microsoftin avoimen lähdekoodin käytösohjeet](https://opensource.microsoft.com/codeofconduct/).
 Lisätietoja löytyy [Käytösohjeiden UKK:sta](https://opensource.microsoft.com/codeofconduct/faq/) tai ota yhteyttä osoitteeseen [opencode@microsoft.com](mailto:opencode@microsoft.com) lisäkysymyksissä tai kommenteissa.
 
 ## Tavamerkit
 
-Tämä projekti saattaa sisältää tavamerkkejä tai logoja projekteista, tuotteista tai palveluista. Microsoftin tavamerkkien tai logojen valtuutettu käyttö on
-aiheena ja sen on noudatettava
-[Microsoftin tavaramerkkien ja brändiohjeita](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Microsoftin tavaramerkkien tai logojen käyttö muokatuissa versioissa tästä projektista ei saa aiheuttaa sekaannusta tai antaa ymmärtää Microsoftin sponsoroivan.
-Kolmansien osapuolien tavaramerkkien tai logojen käyttö on näiden kolmansien osapuolien sääntöjen alaista.
+Tämä projekti saattaa sisältää tavamerkkejä tai logoja projekteista, tuotteista tai palveluista. Microsoftin tavamerkkien tai logojen valtuutettu käyttö on ehdollista ja sen on noudatettava
+[Microsoftin tavaramerkki- ja brändiohjeita](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Microsoftin tavaramerkkien tai logojen käyttö muokatuissa versioissa tästä projektista ei saa aiheuttaa sekaannusta tai antaa vaikutelmaa Microsoftin sponsoroinnista.
+Kolmansien osapuolien tavaramerkkien tai logojen käyttö on kolmansien osapuolien sääntöjen alaista.
 
 ## Apua saatavilla
 
@@ -82,13 +89,13 @@ Jos jäät jumiin tai sinulla on kysyttävää tekoälysovellusten rakentamisest
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Jos sinulla on tuotepalautetta tai virheitä rakentamisen aikana, käy:
+Jos sinulla on tuotepalautetta tai kohtaat virheitä rakentamisen aikana, käy:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Vastuuvapauslauseke**:  
-Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Pyrimme tarkkuuteen, mutta huomioithan, että automaattikäännöksissä saattaa esiintyä virheitä tai epätarkkuuksia. Alkuperäinen asiakirja sen alkuperäiskielellä on virallinen lähde. Tärkeissä asioissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa tämän käännöksen käytöstä aiheutuvista väärinymmärryksistä tai tulkinnoista.
+**Vastuuvapauslauseke**:
+Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, otathan huomioon, että automaattikäännöksissä saattaa esiintyä virheitä tai epätarkkuuksia. Alkuperäistä asiakirjaa sen alkuperäiskielellä tulee pitää virallisena lähteenä. Tärkeissä asioissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa tämän käännöksen käytöstä aiheutuvista väärinymmärryksistä tai tulkinnoista.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

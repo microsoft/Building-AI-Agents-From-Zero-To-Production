@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:08:15+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:32:50+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # Vytváření AI agentů od nuly až do produkce
 
 ![Vytváření AI agentů od nuly až do produkce](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.cs.png)
+
+### 🌐 Podpora více jazyků
+
+#### Podporováno přes GitHub Action (automatizované a vždy aktuální)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](./README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Kurz, který vás naučí základy životního cyklu vývoje AI agentů
 
@@ -23,13 +31,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Začínáme
 
-Tento kurz obsahuje lekce pokrývající základy vytváření a nasazování AI agentů.
+Tento kurz obsahuje lekce pokrývající základy vytváření a nasazení AI agentů.
 
 Každá lekce navazuje na předchozí, proto doporučujeme začít od začátku a postupovat až do konce.
 
 Pokud chcete prozkoumat více témat o AI agentech, můžete se podívat na [Kurz AI agentů pro začátečníky](https://aka.ms/ai-agents-beginners).
 
-### Seznamte se s ostatními studenty, získejte odpovědi na své otázky
+### Poznejte ostatní studenty, získejte odpovědi na své otázky
 
 Pokud narazíte na problém nebo máte otázky ohledně vytváření AI agentů, připojte se k našemu specializovanému Discord kanálu v [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -37,7 +45,7 @@ Pokud narazíte na problém nebo máte otázky ohledně vytváření AI agentů,
 
 Každá lekce má svůj vlastní ukázkový kód, který můžete spustit lokálně. Můžete si [forknout tento repozitář](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) a vytvořit si tak vlastní kopii.
 
-Tento kurz aktuálně používá následující:
+Tento kurz aktuálně využívá následující:
 
 - [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
 - [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
@@ -52,10 +60,10 @@ Brzy přibudou další možnosti ohledně hostování modelů a služeb.
 
 | **Lekce**         | **Popis**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do našeho případu použití "Developer Onboarding" agenta a jak navrhnout efektivní agenty  |
+| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do našeho případu použití "Onboarding vývojáře" a jak navrhnout efektivní agenty  |
 | [Vývoj agenta](./lesson-2-agent-development/README.md)  | Pomocí Microsoft Agent Framework (MAF) vytvořte 3 agenty, kteří pomohou novým vývojářům s onboardováním.       |
-| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak dobře naši AI agenti fungují a jak je zlepšit. |
-| [Nasazení agenta](./lesson-4-agent-deployment/README.md)   | Pomocí Hosted Agents a OpenAI Chatkit uvidíte, jak nasadit AI agenta do produkce.       |
+| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak si naši AI agenti vedou a jak je zlepšit. |
+| [Nasazení agenta](./lesson-4-agent-deployment/README.md)   | Pomocí Hosted Agents a OpenAI Chatkit zjistěte, jak nasadit AI agenta do produkce.       |
 
 ## Přispívání
 
@@ -64,8 +72,8 @@ Licenční smlouvou přispěvatele (CLA), která potvrzuje, že máte právo a s
 práva k použití vašeho příspěvku. Podrobnosti najdete na <https://cla.opensource.microsoft.com>.
 
 Když odešlete pull request, bot CLA automaticky zjistí, zda musíte poskytnout
-CLA a označí PR odpovídajícím způsobem (např. kontrola stavu, komentář). Stačí postupovat podle pokynů
-bota. Toto budete muset udělat pouze jednou pro všechny repozitáře používající naši CLA.
+CLA a příslušně označí PR (např. kontrola stavu, komentář). Stačí postupovat podle pokynů
+poskytnutých botem. Toto budete muset udělat pouze jednou pro všechny repozitáře používající naši CLA.
 
 Tento projekt přijal [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 Pro více informací viz [Často kladené otázky k Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) nebo
@@ -92,5 +100,5 @@ Pokud máte zpětnou vazbu k produktu nebo chyby při vývoji, navštivte:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Prohlášení o vyloučení odpovědnosti**:  
-Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatizované překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
+Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatické překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

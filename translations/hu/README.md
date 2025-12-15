@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:07:44+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:32:17+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -11,13 +11,21 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![AI ügynökök építése nulláról a termelésig](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.hu.png)
 
-## Egy tanfolyam, amely az AI ügynök fejlesztési életciklusának alapjait tanítja
+### 🌐 Többnyelvű támogatás
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+#### GitHub Action által támogatott (Automatizált és mindig naprakész)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arab](../ar/README.md) | [Bengáli](../bn/README.md) | [Bolgár](../bg/README.md) | [Burmai (Mianmar)](../my/README.md) | [Kínai (egyszerűsített)](../zh/README.md) | [Kínai (hagyományos, Hongkong)](../hk/README.md) | [Kínai (hagyományos, Makaó)](../mo/README.md) | [Kínai (hagyományos, Tajvan)](../tw/README.md) | [Horvát](../hr/README.md) | [Cseh](../cs/README.md) | [Dán](../da/README.md) | [Holland](../nl/README.md) | [Észt](../et/README.md) | [Finn](../fi/README.md) | [Francia](../fr/README.md) | [Német](../de/README.md) | [Görög](../el/README.md) | [Héber](../he/README.md) | [Hindi](../hi/README.md) | [Magyar](./README.md) | [Indonéz](../id/README.md) | [Olasz](../it/README.md) | [Japán](../ja/README.md) | [Kannada](../kn/README.md) | [Koreai](../ko/README.md) | [Litván](../lt/README.md) | [Maláj](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepáli](../ne/README.md) | [Nigériai pidgin](../pcm/README.md) | [Norvég](../no/README.md) | [Perzsa (Fárszi)](../fa/README.md) | [Lengyel](../pl/README.md) | [Portugál (Brazília)](../br/README.md) | [Portugál (Portugália)](../pt/README.md) | [Pandzsábi (Gurmukhi)](../pa/README.md) | [Román](../ro/README.md) | [Orosz](../ru/README.md) | [Szerb (cirill)](../sr/README.md) | [Szlovák](../sk/README.md) | [Szlovén](../sl/README.md) | [Spanyol](../es/README.md) | [Szuahéli](../sw/README.md) | [Svéd](../sv/README.md) | [Tagalog (Filippínó)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Török](../tr/README.md) | [Ukrán](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnami](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## Egy tanfolyam, amely megtanítja az AI ügynök fejlesztési életciklusának alapjait
+
+[![GitHub licenc](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub közreműködők](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub hibák](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-kérelmek](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PR-k üdvözölve](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -25,11 +33,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 Ez a tanfolyam az AI ügynökök építésének és telepítésének alapjait tárgyalja.
 
-Minden lecke az előzőre épül, ezért javasoljuk, hogy kezd az elejétől, és haladj végig a tanfolyamon.
+Minden lecke az előzőre épül, ezért javasoljuk, hogy az elejétől kezdve haladj végig rajtuk.
 
-Ha többet szeretnél megtudni az AI ügynök témákról, nézd meg az [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) tanfolyamot.
+Ha többet szeretnél megtudni az AI ügynök témákról, nézd meg az [AI Agents For Beginners tanfolyamot](https://aka.ms/ai-agents-beginners).
 
-### Ismerkedj más tanulókkal, kapj válaszokat kérdéseidre
+### Ismerkedj meg más tanulókkal, kapj választ kérdéseidre
 
 Ha elakadsz vagy kérdésed van az AI ügynökök építésével kapcsolatban, csatlakozz a dedikált Discord csatornánkhoz a [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) szerveren.
 
@@ -46,26 +54,26 @@ Ez a tanfolyam jelenleg a következőket használja:
 
 Kérjük, győződj meg róla, hogy hozzáférsz ezekhez a szolgáltatásokhoz, mielőtt elkezdenéd.
 
-Hamarosan további lehetőségek érkeznek a modell hosztolás és szolgáltatások terén.
+További lehetőségek a modell hosztolás és szolgáltatások terén hamarosan érkeznek.
 
 ## 🗃️ Leckék
 
 | **Lecke**         | **Leírás**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Agent Design](./lesson-1-agent-design/README.md)       | Bevezetés a "Fejlesztői Bevezető" ügynök használati esetünkbe és az eredményes ügynökök tervezésébe  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | A Microsoft Agent Framework (MAF) használatával hozz létre 3 ügynököt, hogy segítsenek az új fejlesztők bevezetésében.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | A Microsoft Foundry segítségével derítsd ki, milyen jól teljesítenek AI ügynökeink, és hogyan javíthatók. |
-| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | A Hosted Agents és OpenAI Chatkit használatával nézd meg, hogyan lehet egy AI ügynököt élesben telepíteni.       |
+| [Ügynök tervezés](./lesson-1-agent-design/README.md)       | Bevezetés a "Fejlesztői Bevezetés" ügynök esettanulmányba és az eredményes ügynökök tervezésébe  |
+| [Ügynök fejlesztés](./lesson-2-agent-development/README.md)  | A Microsoft Agent Framework (MAF) használatával hozz létre 3 ügynököt, hogy segítsenek az új fejlesztők bevezetésében.       |
+| [Ügynök értékelések](./lesson-3-agent-evals/README.md)  | A Microsoft Foundry segítségével derítsd ki, milyen jól teljesítenek AI ügynökeink, és hogyan javíthatók. |
+| [Ügynök telepítés](./lesson-4-agent-deployment/README.md)   | A Hosted Agents és OpenAI Chatkit használatával nézd meg, hogyan lehet AI ügynököt élesben telepíteni.       |
 
 ## Közreműködés
 
 Ez a projekt szívesen fogad hozzájárulásokat és javaslatokat. A legtöbb hozzájáruláshoz el kell fogadnod egy
-Contributor License Agreement (CLA) megállapodást, amelyben kijelented, hogy jogod van a hozzájárulásod használatára, és ténylegesen megadod nekünk ezt a jogot. Részletekért látogass el a <https://cla.opensource.microsoft.com> oldalra.
+Contributor License Agreement (CLA) szerződést, amelyben kijelented, hogy jogod van a hozzájárulásod használatára, és ténylegesen meg is adod ezt a jogot. Részletekért látogass el a <https://cla.opensource.microsoft.com> oldalra.
 
-Amikor pull request-et küldesz be, egy CLA bot automatikusan megállapítja, hogy szükséges-e CLA-t benyújtanod, és ennek megfelelően jelöli a PR-t (pl. státusz ellenőrzés, komment). Egyszerűen kövesd a bot utasításait. Ezt csak egyszer kell megtenned az összes CLA-t használó repóban.
+Amikor pull request-et küldesz be, egy CLA bot automatikusan megállapítja, hogy szükséges-e CLA-t benyújtanod, és ennek megfelelően jelöli meg a PR-t (pl. státusz ellenőrzés, komment). Egyszerűen kövesd a bot utasításait. Ezt csak egyszer kell megtenned az összes CLA-t használó repóban.
 
 Ez a projekt elfogadta a [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) irányelveit.
-További információkért lásd a [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) oldalt, vagy írj az [opencode@microsoft.com](mailto:opencode@microsoft.com) címre további kérdésekkel vagy észrevételekkel.
+További információkért lásd a [Code of Conduct GYIK](https://opensource.microsoft.com/codeofconduct/faq/) oldalt, vagy írj az [opencode@microsoft.com](mailto:opencode@microsoft.com) címre további kérdésekkel vagy észrevételekkel.
 
 ## Védjegyek
 

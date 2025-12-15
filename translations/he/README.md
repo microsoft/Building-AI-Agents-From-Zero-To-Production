@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:05:11+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:28:13+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # בניית סוכני בינה מלאכותית מאפס ועד הפקה
 
 ![בניית סוכני בינה מלאכותית מאפס ועד הפקה](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.he.png)
+
+### 🌐 תמיכה בריבוי שפות
+
+#### נתמך באמצעות GitHub Action (אוטומטי ותמיד מעודכן)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](./README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## קורס המלמד את יסודות מחזור חיי פיתוח סוכני בינה מלאכותית
 
@@ -25,13 +33,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 קורס זה כולל שיעורים המכסים את יסודות בניית והפצת סוכני בינה מלאכותית.
 
-כל שיעור בונה על השיעור הקודם, לכן אנו ממליצים להתחיל מההתחלה ולעבוד עד הסוף.
+כל שיעור בונה על השיעור הקודם, לכן מומלץ להתחיל מההתחלה ולהתקדם עד הסוף.
 
-אם ברצונך לחקור עוד על נושאי סוכני בינה מלאכותית, תוכל לבדוק את [קורס סוכני בינה מלאכותית למתחילים](https://aka.ms/ai-agents-beginners).
+אם ברצונך לחקור עוד נושאים הקשורים לסוכני בינה מלאכותית, תוכל לבדוק את [קורס סוכני בינה מלאכותית למתחילים](https://aka.ms/ai-agents-beginners).
 
-### פגוש לומדים אחרים, קבל תשובות לשאלותיך
+### פגוש לומדים אחרים, קבל מענה לשאלותיך
 
-אם תיתקל בקשיים או יש לך שאלות לגבי בניית סוכני בינה מלאכותית, הצטרף לערוץ ה-Discord הייעודי שלנו ב-[Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+אם נתקעת או יש לך שאלות לגבי בניית סוכני בינה מלאכותית, הצטרף לערוץ ה-Discord הייעודי שלנו ב-[Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### מה אתה צריך
 
@@ -54,12 +62,12 @@ CO_OP_TRANSLATOR_METADATA:
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [עיצוב סוכן](./lesson-1-agent-design/README.md)       | מבוא למקרה השימוש "הכנסת מפתחים" של הסוכן שלנו ואיך לעצב סוכנים יעילים  |
 | [פיתוח סוכן](./lesson-2-agent-development/README.md)  | שימוש במסגרת סוכנים של מיקרוסופט (MAF), יצירת 3 סוכנים שיעזרו למפתחים חדשים להיכנס למערכת.       |
-| [הערכת סוכן](./lesson-3-agent-evals/README.md)  | שימוש ב-Microsoft Foundry, לגלות עד כמה הסוכנים שלנו מתפקדים ואיך לשפר אותם. |
+| [הערכות סוכן](./lesson-3-agent-evals/README.md)  | שימוש ב-Microsoft Foundry, לגלות עד כמה הסוכנים שלנו מתפקדים ואיך לשפר אותם. |
 | [הפצת סוכן](./lesson-4-agent-deployment/README.md)   | שימוש בסוכנים מאוחסנים ו-OpenAI Chatkit, לראות איך לפרוס סוכן בינה מלאכותית לייצור.       |
 
 ## תרומה
 
-פרויקט זה מקבל בברכה תרומות והצעות. רוב התרומות דורשות שתסכים להסכם רישיון תורם (CLA) המצהיר שיש לך את הזכות, ושאתה אכן מעניק לנו את הזכויות להשתמש בתרומתך. לפרטים, בקר בכתובת <https://cla.opensource.microsoft.com>.
+פרויקט זה מקבל בברכה תרומות והצעות. רוב התרומות דורשות שתסכים להסכם רישיון תורם (CLA) המצהיר שיש לך את הזכות, ושאתה אכן מעניק לנו את הזכויות להשתמש בתרומתך. לפרטים, בקר ב-<https://cla.opensource.microsoft.com>.
 
 כאשר אתה מגיש בקשת משיכה, בוט CLA יקבע אוטומטית אם עליך לספק CLA ויעטר את בקשת המשיכה בהתאם (למשל, בדיקת סטטוס, תגובה). פשוט עקוב אחר ההוראות שמספק הבוט. תצטרך לעשות זאת רק פעם אחת בכל המאגרי הקוד שמשתמשים ב-CLA שלנו.
 
@@ -68,14 +76,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## סימני מסחר
 
-פרויקט זה עשוי להכיל סימני מסחר או לוגואים של פרויקטים, מוצרים או שירותים. שימוש מורשה בסימני המסחר או בלוגואים של מיקרוסופט כפוף וצריך לעקוב אחרי
-[הנחיות סימני המסחר והמותג של מיקרוסופט](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-שימוש בסימני המסחר או בלוגואים של מיקרוסופט בגרסאות מותאמות של פרויקט זה לא יגרום לבלבול או יביע חסות של מיקרוסופט.
+פרויקט זה עשוי להכיל סימני מסחר או לוגואים של פרויקטים, מוצרים או שירותים. שימוש מורשה בסימני המסחר או בלוגואים של מיקרוסופט כפוף וצריך לעקוב אחר [הנחיות סימני המסחר והמותג של מיקרוסופט](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+שימוש בסימני מסחר או בלוגואים של מיקרוסופט בגרסאות מותאמות של פרויקט זה אסור שיגרום לבלבול או יביע חסות של מיקרוסופט.
 כל שימוש בסימני מסחר או לוגואים של צד שלישי כפוף למדיניות של אותם צדדים שלישיים.
 
 ## קבלת עזרה
 
-אם תיתקל בקשיים או יש לך שאלות לגבי בניית אפליקציות בינה מלאכותית, הצטרף:
+אם נתקעת או יש לך שאלות לגבי בניית אפליקציות בינה מלאכותית, הצטרף:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
