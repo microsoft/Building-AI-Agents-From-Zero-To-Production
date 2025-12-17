@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:51:00+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:01:17+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Ang kursong ito ay may mga aralin na sumasaklaw sa mga pundasyon ng paggawa at pag-deploy ng AI Agents.
 
-Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula sa simula at magpatuloy hanggang sa dulo.
+Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula ka sa simula at magpatuloy hanggang sa katapusan.
 
 Kung nais mong tuklasin pa ang mga paksa tungkol sa AI Agent, maaari mong tingnan ang [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
@@ -61,15 +61,15 @@ May mga karagdagang opsyon tungkol sa pagho-host ng modelo at mga serbisyo na pa
 | **Aralin**         | **Paglalarawan**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | Isang pagpapakilala sa aming "Developer Onboarding" Agent Use Case at kung paano magdisenyo ng epektibong mga agent  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer na mag-onboard.       |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer sa onboarding.       |
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Gamit ang Microsoft Foundry, alamin kung gaano kahusay ang pagganap ng aming mga AI Agents at kung paano sila mapapabuti. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Gamit ang Hosted Agents at OpenAI Chatkit, tingnan kung paano i-deploy ang isang AI Agent sa produksyon.       |
 
-## Pagsusulong
+## Pag-aambag
 
 Malugod na tinatanggap ng proyektong ito ang mga kontribusyon at mungkahi. Karamihan sa mga kontribusyon ay nangangailangan na sumang-ayon ka sa isang
-Contributor License Agreement (CLA) na nagsasaad na ikaw ay may karapatan, at talagang nagbibigay, sa amin ng
-mga karapatan na gamitin ang iyong kontribusyon. Para sa mga detalye, bisitahin ang <https://cla.opensource.microsoft.com>.
+Contributor License Agreement (CLA) na nagsasaad na ikaw ay may karapatan, at talagang nagbibigay sa amin
+ng mga karapatan na gamitin ang iyong kontribusyon. Para sa mga detalye, bisitahin ang <https://cla.opensource.microsoft.com>.
 
 Kapag nagsumite ka ng pull request, awtomatikong tutukuyin ng CLA bot kung kailangan mong magbigay ng
 CLA at bibigyan ng angkop na dekorasyon ang PR (hal., status check, komento). Sundin lamang ang mga tagubiling

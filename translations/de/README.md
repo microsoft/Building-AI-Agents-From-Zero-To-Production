@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:29:31+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:37:03+00:00",
   "source_file": "README.md",
   "language_code": "de"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Dieser Kurs enthält Lektionen, die die Grundlagen des Aufbaus und der Bereitstellung von KI-Agenten abdecken.
 
-Jede Lektion baut auf der vorherigen auf, daher empfehlen wir, am Anfang zu beginnen und sich bis zum Ende durchzuarbeiten.
+Jede Lektion baut auf der vorherigen auf, daher empfehlen wir, von Anfang an zu beginnen und sich bis zum Ende durchzuarbeiten.
 
 Wenn Sie mehr über KI-Agenten erfahren möchten, können Sie den [KI-Agenten für Anfänger Kurs](https://aka.ms/ai-agents-beginners) besuchen.
 
@@ -43,7 +43,7 @@ Wenn Sie nicht weiterkommen oder Fragen zum Aufbau von KI-Agenten haben, treten 
 
 ### Was Sie benötigen
 
-Jede Lektion hat ein eigenes Codebeispiel, das Sie lokal ausführen können. Sie können dieses Repo [forken](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), um Ihre eigene Kopie zu erstellen.
+Jede Lektion hat ein eigenes Codebeispiel, das Sie lokal ausführen können. Sie können dieses Repository [forken](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), um Ihre eigene Kopie zu erstellen.
 
 Dieser Kurs verwendet derzeit Folgendes:
 
@@ -62,18 +62,18 @@ Weitere Optionen für Modell-Hosting und Dienste folgen in Kürze.
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | Eine Einführung in unseren "Developer Onboarding" Agenten-Anwendungsfall und wie man effektive Agenten entwirft  |
 | [Agent Development](./lesson-2-agent-development/README.md)  | Mit dem Microsoft Agent Framework (MAF) erstellen Sie 3 Agenten, die neuen Entwicklern beim Onboarding helfen.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Mit Microsoft Foundry erfahren Sie, wie gut unsere KI-Agenten arbeiten und wie man sie verbessert. |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Mit Microsoft Foundry erfahren Sie, wie gut unsere KI-Agenten funktionieren und wie man sie verbessert. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Mit den gehosteten Agenten und OpenAI Chatkit sehen Sie, wie man einen KI-Agenten in der Produktion bereitstellt.       |
 
 ## Mitwirken
 
 Dieses Projekt freut sich über Beiträge und Vorschläge. Die meisten Beiträge erfordern, dass Sie einer
 Contributor License Agreement (CLA) zustimmen, die erklärt, dass Sie das Recht haben und tatsächlich
-uns die Rechte zur Nutzung Ihres Beitrags gewähren. Für Details besuchen Sie <https://cla.opensource.microsoft.com>.
+uns die Rechte zur Nutzung Ihres Beitrags gewähren. Details finden Sie unter <https://cla.opensource.microsoft.com>.
 
 Wenn Sie eine Pull-Anfrage einreichen, bestimmt ein CLA-Bot automatisch, ob Sie eine CLA bereitstellen müssen
 und kennzeichnet die PR entsprechend (z. B. Statusprüfung, Kommentar). Folgen Sie einfach den Anweisungen
-des Bots. Dies müssen Sie nur einmal für alle Repos mit unserer CLA tun.
+des Bots. Dies müssen Sie nur einmal für alle Repositories mit unserer CLA tun.
 
 Dieses Projekt hat den [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) übernommen.
 Weitere Informationen finden Sie in den [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) oder
@@ -101,5 +101,5 @@ Wenn Sie Produktfeedback oder Fehler beim Erstellen haben, besuchen Sie:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Haftungsausschluss**:  
-Dieses Dokument wurde mit dem KI-Übersetzungsdienst [Co-op Translator](https://github.com/Azure/co-op-translator) übersetzt. Obwohl wir uns um Genauigkeit bemühen, beachten Sie bitte, dass automatisierte Übersetzungen Fehler oder Ungenauigkeiten enthalten können. Das Originaldokument in seiner Ursprungssprache gilt als maßgebliche Quelle. Für wichtige Informationen wird eine professionelle menschliche Übersetzung empfohlen. Wir übernehmen keine Haftung für Missverständnisse oder Fehlinterpretationen, die aus der Nutzung dieser Übersetzung entstehen.
+Dieses Dokument wurde mit dem KI-Übersetzungsdienst [Co-op Translator](https://github.com/Azure/co-op-translator) übersetzt. Obwohl wir uns um Genauigkeit bemühen, beachten Sie bitte, dass automatisierte Übersetzungen Fehler oder Ungenauigkeiten enthalten können. Das Originaldokument in seiner Ursprungssprache ist als maßgebliche Quelle zu betrachten. Für wichtige Informationen wird eine professionelle menschliche Übersetzung empfohlen. Wir übernehmen keine Haftung für Missverständnisse oder Fehlinterpretationen, die aus der Nutzung dieser Übersetzung entstehen.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

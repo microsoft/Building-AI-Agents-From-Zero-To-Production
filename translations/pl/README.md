@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:42:37+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:50:50+00:00",
   "source_file": "README.md",
   "language_code": "pl"
 }
@@ -35,7 +35,7 @@ Ten kurs zawiera lekcje obejmujące podstawy budowania i wdrażania agentów AI.
 
 Każda lekcja opiera się na poprzedniej, dlatego zalecamy rozpoczęcie od początku i przechodzenie kolejno do końca.
 
-Jeśli chcesz zgłębić więcej tematów związanych z agentami AI, możesz sprawdzić [Kurs dla początkujących o agentach AI](https://aka.ms/ai-agents-beginners).
+Jeśli chcesz zgłębić więcej tematów związanych z agentami AI, możesz sprawdzić [Kurs dla początkujących agentów AI](https://aka.ms/ai-agents-beginners).
 
 ### Poznaj innych uczących się, uzyskaj odpowiedzi na swoje pytania
 
@@ -73,7 +73,7 @@ praw do korzystania z Twojego wkładu. Szczegóły znajdziesz na <https://cla.op
 
 Po przesłaniu pull requesta, bot CLA automatycznie sprawdzi, czy musisz dostarczyć
 CLA i odpowiednio oznaczy PR (np. status, komentarz). Po prostu postępuj zgodnie z instrukcjami
-podanymi przez bota. Musisz to zrobić tylko raz dla wszystkich repozytoriów korzystających z naszego CLA.
+podanymi przez bota. Będziesz musiał to zrobić tylko raz dla wszystkich repozytoriów korzystających z naszego CLA.
 
 Ten projekt przyjął [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 Więcej informacji znajdziesz w [FAQ dotyczących Kodeksu Postępowania](https://opensource.microsoft.com/codeofconduct/faq/) lub
@@ -83,7 +83,7 @@ skontaktuj się z [opencode@microsoft.com](mailto:opencode@microsoft.com) w razi
 
 Ten projekt może zawierać znaki towarowe lub logotypy projektów, produktów lub usług. Autoryzowane użycie znaków towarowych lub logotypów Microsoft
 podlega i musi przestrzegać
-[Zasad dotyczących znaków towarowych i marki Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Użycie znaków towarowych lub logotypów Microsoft w zmodyfikowanych wersjach tego projektu nie może powodować zamieszania ani sugerować sponsorowania przez Microsoft.
 Każde użycie znaków towarowych lub logotypów stron trzecich podlega politykom tych stron trzecich.
 

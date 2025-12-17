@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:30:10+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:37:34+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 #### Поддерживается через GitHub Action (автоматически и всегда актуально)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](./README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Арабский](../ar/README.md) | [Бенгальский](../bn/README.md) | [Болгарский](../bg/README.md) | [Бирманский (Мьянма)](../my/README.md) | [Китайский (упрощённый)](../zh/README.md) | [Китайский (традиционный, Гонконг)](../hk/README.md) | [Китайский (традиционный, Макао)](../mo/README.md) | [Китайский (традиционный, Тайвань)](../tw/README.md) | [Хорватский](../hr/README.md) | [Чешский](../cs/README.md) | [Датский](../da/README.md) | [Нидерландский](../nl/README.md) | [Эстонский](../et/README.md) | [Финский](../fi/README.md) | [Французский](../fr/README.md) | [Немецкий](../de/README.md) | [Греческий](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Венгерский](../hu/README.md) | [Индонезийский](../id/README.md) | [Итальянский](../it/README.md) | [Японский](../ja/README.md) | [Каннада](../kn/README.md) | [Корейский](../ko/README.md) | [Литовский](../lt/README.md) | [Малайский](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непальский](../ne/README.md) | [Нигерийский пиджин](../pcm/README.md) | [Норвежский](../no/README.md) | [Персидский (фарси)](../fa/README.md) | [Польский](../pl/README.md) | [Португальский (Бразилия)](../br/README.md) | [Португальский (Португалия)](../pt/README.md) | [Пенджаби (гурмукхи)](../pa/README.md) | [Румынский](../ro/README.md) | [Русский](./README.md) | [Сербский (кириллица)](../sr/README.md) | [Словацкий](../sk/README.md) | [Словенский](../sl/README.md) | [Испанский](../es/README.md) | [Суахили](../sw/README.md) | [Шведский](../sv/README.md) | [Тагальский (филиппинский)](../tl/README.md) | [Тамильский](../ta/README.md) | [Телугу](../te/README.md) | [Тайский](../th/README.md) | [Турецкий](../tr/README.md) | [Украинский](../uk/README.md) | [Урду](../ur/README.md) | [Вьетнамский](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Курс, обучающий основам жизненного цикла разработки AI-агентов
@@ -37,13 +37,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 Если вы хотите узнать больше о темах AI-агентов, вы можете ознакомиться с [Курсом для начинающих по AI-агентам](https://aka.ms/ai-agents-beginners).
 
-### Познакомьтесь с другими учащимися, получите ответы на свои вопросы
+### Встречайтесь с другими учащимися, получайте ответы на свои вопросы
 
 Если вы застряли или у вас есть вопросы по созданию AI-агентов, присоединяйтесь к нашему специализированному Discord-каналу в [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Что вам нужно
 
-Каждый урок содержит собственный пример кода, который вы можете запустить локально. Вы можете [форкнуть этот репозиторий](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), чтобы создать свою копию.
+Каждый урок содержит собственный пример кода, который вы можете запускать локально. Вы можете [форкнуть этот репозиторий](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), чтобы создать свою копию.
 
 В настоящее время курс использует следующее:
 
@@ -60,20 +60,20 @@ CO_OP_TRANSLATOR_METADATA:
 
 | **Урок**           | **Описание**                                                                                     |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| [Дизайн агента](./lesson-1-agent-design/README.md)       | Введение в наш кейс использования "Введение разработчика" и как проектировать эффективных агентов |
+| [Проектирование агента](./lesson-1-agent-design/README.md)       | Введение в наш кейс использования "Введение разработчика" и как проектировать эффективных агентов |
 | [Разработка агента](./lesson-2-agent-development/README.md)  | Используя Microsoft Agent Framework (MAF), создайте 3 агента, чтобы помочь новым разработчикам адаптироваться. |
 | [Оценка агента](./lesson-3-agent-evals/README.md)  | Используя Microsoft Foundry, узнайте, насколько хорошо работают наши AI-агенты и как их улучшить. |
 | [Развертывание агента](./lesson-4-agent-deployment/README.md)   | Используя Hosted Agents и OpenAI Chatkit, узнайте, как развернуть AI-агента в производстве.       |
 
 ## Вклад в проект
 
-Этот проект приветствует вклады и предложения. Большинство вкладов требуют согласия с
+Этот проект приветствует вклады и предложения. Большинство вкладов требует согласия с
 Лицензионным соглашением для контрибьюторов (CLA), подтверждающим, что вы имеете право и действительно предоставляете нам
 права на использование вашего вклада. Для подробностей посетите <https://cla.opensource.microsoft.com>.
 
-При отправке запроса на слияние, бот CLA автоматически определит, нужно ли вам предоставить
-CLA и отметит PR соответствующим образом (например, проверка статуса, комментарий). Просто следуйте инструкциям,
-предоставленным ботом. Вам нужно будет сделать это только один раз для всех репозиториев, использующих наш CLA.
+При отправке запроса на слияние бот CLA автоматически определит, нужно ли вам предоставить
+CLA и отметит PR соответствующим образом (например, проверка статуса, комментарий). Просто следуйте инструкциям
+бота. Вам нужно будет сделать это только один раз для всех репозиториев, использующих наш CLA.
 
 Этот проект принял [Кодекс поведения Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
 Для получения дополнительной информации смотрите [FAQ по Кодексу поведения](https://opensource.microsoft.com/codeofconduct/faq/) или
@@ -81,8 +81,8 @@ CLA и отметит PR соответствующим образом (напр
 
 ## Торговые марки
 
-Этот проект может содержать торговые марки или логотипы проектов, продуктов или сервисов. Авторизованное использование торговых марок или логотипов Microsoft подчиняется и должно соответствовать
-[Руководству по торговым маркам и брендам Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+В этом проекте могут содержаться торговые марки или логотипы проектов, продуктов или сервисов. Авторизованное использование торговых марок или логотипов Microsoft подчиняется и должно соответствовать
+[Руководству Microsoft по торговым маркам и брендам](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Использование торговых марок или логотипов Microsoft в изменённых версиях этого проекта не должно вызывать путаницу или подразумевать спонсорство Microsoft.
 Любое использование торговых марок или логотипов третьих сторон подчиняется политикам этих третьих сторон.
 
@@ -100,5 +100,5 @@ CLA и отметит PR соответствующим образом (напр
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Отказ от ответственности**:  
-Этот документ был переведен с помощью сервиса автоматического перевода [Co-op Translator](https://github.com/Azure/co-op-translator). Несмотря на наши усилия обеспечить точность, имейте в виду, что автоматические переводы могут содержать ошибки или неточности. Оригинальный документ на его исходном языке следует считать авторитетным источником. Для получения критически важной информации рекомендуется обращаться к профессиональному переводу, выполненному человеком. Мы не несем ответственности за любые недоразумения или неправильные толкования, возникшие в результате использования данного перевода.
+Этот документ был переведен с помощью сервиса автоматического перевода [Co-op Translator](https://github.com/Azure/co-op-translator). Несмотря на наши усилия по обеспечению точности, имейте в виду, что автоматический перевод может содержать ошибки или неточности. Оригинальный документ на его исходном языке следует считать авторитетным источником. Для получения критически важной информации рекомендуется обращаться к профессиональному переводу, выполненному человеком. Мы не несем ответственности за любые недоразумения или неправильные толкования, возникшие в результате использования данного перевода.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:44:18+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:53:48+00:00",
   "source_file": "README.md",
   "language_code": "th"
 }
@@ -52,7 +52,7 @@ CO_OP_TRANSLATOR_METADATA:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-โปรดตรวจสอบว่าคุณสามารถเข้าถึงบริการเหล่านี้ได้ก่อนเริ่มใช้งาน
+โปรดตรวจสอบว่าคุณสามารถเข้าถึงบริการเหล่านี้ได้ก่อนเริ่มต้น
 
 ตัวเลือกเพิ่มเติมเกี่ยวกับการโฮสต์โมเดลและบริการจะมาในเร็ว ๆ นี้
 
@@ -63,15 +63,17 @@ CO_OP_TRANSLATOR_METADATA:
 | [การออกแบบเอเจนต์](./lesson-1-agent-design/README.md)       | บทนำสู่กรณีการใช้งาน "การเริ่มต้นสำหรับนักพัฒนา" ของเอเจนต์ และวิธีการออกแบบเอเจนต์ที่มีประสิทธิภาพ  |
 | [การพัฒนาเอเจนต์](./lesson-2-agent-development/README.md)  | ใช้ Microsoft Agent Framework (MAF) สร้างเอเจนต์ 3 ตัวเพื่อช่วยนักพัฒนาใหม่เริ่มต้นใช้งาน       |
 | [การประเมินเอเจนต์](./lesson-3-agent-evals/README.md)  | ใช้ Microsoft Foundry เพื่อดูว่าเอเจนต์ AI ของเราทำงานได้ดีแค่ไหนและวิธีปรับปรุง               |
-| [การปรับใช้เอเจนต์](./lesson-4-agent-deployment/README.md)   | ใช้ Hosted Agents และ OpenAI Chatkit ดูวิธีการปรับใช้เอเจนต์ AI สู่การผลิต                   |
+| [การปรับใช้เอเจนต์](./lesson-4-agent-deployment/README.md)   | ใช้ Hosted Agents และ OpenAI Chatkit ดูวิธีการปรับใช้เอเจนต์ AI สู่การผลิต                    |
 
 ## การมีส่วนร่วม
 
-โครงการนี้ยินดีต้อนรับการมีส่วนร่วมและข้อเสนอแนะ ส่วนใหญ่การมีส่วนร่วมจะต้องให้คุณยอมรับ
-ข้อตกลงสิทธิ์การใช้งานผู้ร่วมพัฒนา (Contributor License Agreement - CLA) ที่ระบุว่าคุณมีสิทธิ์และอนุญาตให้เรา
-ใช้ผลงานของคุณ สำหรับรายละเอียดเพิ่มเติม โปรดเยี่ยมชม <https://cla.opensource.microsoft.com>
+โครงการนี้ยินดีรับการมีส่วนร่วมและข้อเสนอแนะ ส่วนใหญ่การมีส่วนร่วมจะต้องให้คุณยอมรับ
+ข้อตกลงสิทธิ์การใช้งานผู้ร่วมพัฒนา (Contributor License Agreement - CLA) ที่ระบุว่าคุณมีสิทธิ์และอนุญาตให้เราใช้
+ผลงานของคุณ สำหรับรายละเอียดเพิ่มเติม โปรดเยี่ยมชม <https://cla.opensource.microsoft.com>
 
-เมื่อคุณส่ง pull request ระบบ CLA bot จะตรวจสอบโดยอัตโนมัติว่าคุณต้องส่ง CLA หรือไม่ และจะประดับ PR อย่างเหมาะสม (เช่น การตรวจสอบสถานะ, ความคิดเห็น) เพียงทำตามคำแนะนำที่บอทให้มา คุณจะต้องทำเพียงครั้งเดียวสำหรับทุก repo ที่ใช้ CLA ของเรา
+เมื่อคุณส่งคำขอดึง (pull request) บอท CLA จะตรวจสอบโดยอัตโนมัติว่าคุณต้องส่ง CLA หรือไม่
+และประดับคำขอดึงอย่างเหมาะสม (เช่น การตรวจสอบสถานะ, ความคิดเห็น) เพียงทำตามคำแนะนำที่บอทให้มา
+คุณจะต้องทำเพียงครั้งเดียวสำหรับทุก repo ที่ใช้ CLA ของเรา
 
 โครงการนี้ได้นำ [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) มาใช้
 สำหรับข้อมูลเพิ่มเติมดูที่ [คำถามที่พบบ่อยเกี่ยวกับ Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) หรือ
@@ -79,12 +81,12 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## เครื่องหมายการค้า
 
-โครงการนี้อาจมีเครื่องหมายการค้าหรือโลโก้สำหรับโครงการ ผลิตภัณฑ์ หรือบริการ การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft อย่างถูกต้องต้องเป็นไปตาม
-[แนวทางเครื่องหมายการค้าและแบรนด์ของ Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)
+โครงการนี้อาจมีเครื่องหมายการค้าหรือโลโก้สำหรับโครงการ ผลิตภัณฑ์ หรือบริการ การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft
+ต้องเป็นไปตามและปฏิบัติตาม [แนวทางเครื่องหมายการค้าและแบรนด์ของ Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)
 การใช้เครื่องหมายการค้าหรือโลโก้ของ Microsoft ในเวอร์ชันที่แก้ไขของโครงการนี้ต้องไม่ก่อให้เกิดความสับสนหรือบ่งชี้ว่ามีการสนับสนุนจาก Microsoft
 การใช้เครื่องหมายการค้าหรือโลโก้ของบุคคลที่สามต้องเป็นไปตามนโยบายของบุคคลที่สามเหล่านั้น
 
-## การขอความช่วยเหลือ
+## ขอความช่วยเหลือ
 
 หากคุณติดขัดหรือมีคำถามเกี่ยวกับการสร้างแอป AI เข้าร่วม:
 

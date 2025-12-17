@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:39:47+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:47:56+00:00",
   "source_file": "README.md",
   "language_code": "pt"
 }
@@ -39,7 +39,7 @@ Se quiser explorar mais sobre tópicos de Agentes de IA, pode consultar o [Curso
 
 ### Conheça Outros Alunos, Tire as Suas Dúvidas
 
-Se ficar bloqueado ou tiver alguma dúvida sobre a construção de Agentes de IA, junte-se ao nosso canal dedicado no Discord em [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Se ficar bloqueado ou tiver alguma questão sobre a construção de Agentes de IA, junte-se ao nosso Canal dedicado no Discord em [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### O Que Precisa
 
@@ -60,18 +60,19 @@ Mais opções sobre alojamento de modelos e serviços em breve.
 
 | **Lição**         | **Descrição**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Design do Agente](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso Caso de Uso "Integração de Desenvolvedor" e como desenhar agentes eficazes  |
-| [Desenvolvimento do Agente](./lesson-2-agent-development/README.md)  | Usando o Microsoft Agent Framework (MAF), crie 3 agentes para ajudar novos desenvolvedores a integrar-se.       |
-| [Avaliações do Agente](./lesson-3-agent-evals/README.md)  | Usando o Microsoft Foundry, descubra o desempenho dos nossos Agentes de IA e como melhorá-los. |
-| [Implementação do Agente](./lesson-4-agent-deployment/README.md)   | Usando os Agentes Hospedados e OpenAI Chatkit, veja como implementar um Agente de IA em produção.       |
+| [Design de Agentes](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso Caso de Uso "Integração de Desenvolvedor" e como desenhar agentes eficazes  |
+| [Desenvolvimento de Agentes](./lesson-2-agent-development/README.md)  | Usando o Microsoft Agent Framework (MAF), crie 3 agentes para ajudar novos desenvolvedores a integrar-se.       |
+| [Avaliações de Agentes](./lesson-3-agent-evals/README.md)  | Usando o Microsoft Foundry, descubra o desempenho dos nossos Agentes de IA e como melhorá-los. |
+| [Implementação de Agentes](./lesson-4-agent-deployment/README.md)   | Usando os Agentes Hospedados e OpenAI Chatkit, veja como implementar um Agente de IA em produção.       |
 
 ## Contribuir
 
 Este projeto aceita contribuições e sugestões. A maioria das contribuições requer que concorde com um
-Acordo de Licença de Contribuidor (CLA) declarando que tem o direito, e de facto concede, os direitos para usarmos a sua contribuição. Para detalhes, visite <https://cla.opensource.microsoft.com>.
+Acordo de Licença de Contribuidor (CLA) declarando que tem o direito, e de facto concede,
+os direitos para usarmos a sua contribuição. Para detalhes, visite <https://cla.opensource.microsoft.com>.
 
 Quando submeter um pull request, um bot CLA determinará automaticamente se precisa fornecer
-um CLA e decorará o PR adequadamente (por exemplo, verificação de estado, comentário). Basta seguir as instruções
+um CLA e decorará o PR adequadamente (ex.: verificação de estado, comentário). Basta seguir as instruções
 fornecidas pelo bot. Só precisará fazer isto uma vez em todos os repositórios que usam o nosso CLA.
 
 Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).
@@ -87,7 +88,7 @@ Qualquer uso de marcas comerciais ou logótipos de terceiros está sujeito às p
 
 ## Obter Ajuda
 
-Se ficar bloqueado ou tiver dúvidas sobre a construção de aplicações de IA, junte-se a:
+Se ficar bloqueado ou tiver alguma questão sobre a construção de aplicações de IA, junte-se a:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 

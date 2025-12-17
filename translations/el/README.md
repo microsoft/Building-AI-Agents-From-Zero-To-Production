@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:43:40+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:52:38+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
 -->
 # Δημιουργία Πρακτόρων Τεχνητής Νοημοσύνης από το Μηδέν έως την Παραγωγή
 
-![Δημιουργία Πρακτόρων Τεχνητής Νοημοσύνης από το Μηδέν έως την Παραγωγή](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.el.png)
+![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.el.png)
 
 ### 🌐 Υποστήριξη Πολλών Γλωσσών
 
@@ -92,7 +92,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Αν έχετε σχόλια προϊόντος ή σφάλματα κατά την ανάπτυξη, επισκεφθείτε:
+Αν έχετε σχόλια προϊόντος ή σφάλματα κατά τη δημιουργία, επισκεφθείτε:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

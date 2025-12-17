@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:50:34+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:00:45+00:00",
   "source_file": "README.md",
   "language_code": "ms"
 }
@@ -35,9 +35,9 @@ Kursus ini mempunyai pelajaran yang merangkumi asas-asas membina dan menyebarkan
 
 Setiap pelajaran dibina berdasarkan pelajaran sebelumnya, jadi kami mengesyorkan bermula dari awal dan meneruskan sehingga akhir.
 
-Jika anda ingin meneroka lebih lanjut tentang topik Ejen AI, anda boleh semak [Kursus Ejen AI Untuk Pemula](https://aka.ms/ai-agents-beginners).
+Jika anda ingin meneroka lebih lanjut tentang topik Ejen AI, anda boleh semak [Kursus Ejen AI untuk Pemula](https://aka.ms/ai-agents-beginners).
 
-### Berjumpa Pelajar Lain, Dapatkan Jawapan untuk Soalan Anda
+### Berjumpa dengan Pelajar Lain, Dapatkan Jawapan untuk Soalan Anda
 
 Jika anda tersekat atau mempunyai sebarang soalan tentang membina Ejen AI, sertai Saluran Discord khusus kami di [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -59,7 +59,7 @@ Pilihan lebih lanjut mengenai hosting model dan perkhidmatan akan datang tidak l
 ## 🗃️ Pelajaran
 
 | **Pelajaran**         | **Penerangan**                                                                                  |
-|--------------------|--------------------------------------------------------------------------------------------------|
+|-----------------------|------------------------------------------------------------------------------------------------|
 | [Reka Bentuk Ejen](./lesson-1-agent-design/README.md)       | Pengenalan kepada Kes Penggunaan Ejen "Developer Onboarding" kami dan cara mereka bentuk ejen yang berkesan  |
 | [Pembangunan Ejen](./lesson-2-agent-development/README.md)  | Menggunakan Microsoft Agent Framework (MAF), cipta 3 ejen untuk membantu pembangun baru memulakan.       |
 | [Penilaian Ejen](./lesson-3-agent-evals/README.md)  | Menggunakan Microsoft Foundry, ketahui sejauh mana prestasi Ejen AI kami dan cara memperbaikinya. |
@@ -76,7 +76,7 @@ CLA dan menghias PR dengan sewajarnya (contohnya, pemeriksaan status, komen). Ik
 yang diberikan oleh bot. Anda hanya perlu melakukan ini sekali sahaja untuk semua repos yang menggunakan CLA kami.
 
 Projek ini telah mengamalkan [Kod Etika Sumber Terbuka Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Untuk maklumat lanjut lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
+Untuk maklumat lanjut, lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
 hubungi [opencode@microsoft.com](mailto:opencode@microsoft.com) untuk sebarang soalan atau komen tambahan.
 
 ## Tanda Dagangan

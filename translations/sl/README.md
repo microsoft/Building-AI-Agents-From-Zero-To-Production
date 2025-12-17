@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:57:45+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:08:58+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
@@ -59,7 +59,7 @@ Več možnosti glede gostovanja modelov in storitev prihaja kmalu.
 ## 🗃️ Lekcije
 
 | **Lekcija**         | **Opis**                                                                                  |
-|--------------------|-------------------------------------------------------------------------------------------|
+|--------------------|--------------------------------------------------------------------------------------------------|
 | [Oblikovanje agenta](./lesson-1-agent-design/README.md)       | Uvod v naš primer uporabe "Onboarding razvijalca" in kako oblikovati učinkovite agente  |
 | [Razvoj agenta](./lesson-2-agent-development/README.md)  | Z uporabo Microsoft Agent Framework (MAF) ustvarite 3 agente, ki pomagajo novim razvijalcem pri uvajanju.       |
 | [Evalvacije agentov](./lesson-3-agent-evals/README.md)  | Z uporabo Microsoft Foundry ugotovite, kako dobro delujejo naši AI agenti in kako jih izboljšati. |
@@ -68,11 +68,12 @@ Več možnosti glede gostovanja modelov in storitev prihaja kmalu.
 ## Prispevanje
 
 Ta projekt sprejema prispevke in predloge. Večina prispevkov zahteva, da se strinjate z
-Licenčno pogodbo za prispevke (CLA), ki potrjuje, da imate pravico in dejansko dajete pravice za uporabo vašega prispevka. Za podrobnosti obiščite <https://cla.opensource.microsoft.com>.
+Licenčno pogodbo za prispevke (CLA), ki potrjuje, da imate pravico in dejansko podeljujete
+pravice za uporabo vašega prispevka. Za podrobnosti obiščite <https://cla.opensource.microsoft.com>.
 
 Ko oddate pull request, bo bot za CLA samodejno ugotovil, ali morate predložiti
-CLA in ustrezno označil PR (npr. statusni pregled, komentar). Preprosto sledite navodilom
-bota. To boste morali storiti samo enkrat za vse repozitorije, ki uporabljajo naš CLA.
+CLA in ustrezno označil PR (npr. statusni pregled, komentar). Preprosto sledite navodilom,
+ki jih poda bot. To boste morali storiti samo enkrat za vse repozitorije, ki uporabljajo naš CLA.
 
 Ta projekt je sprejel [Microsoftov kodeks ravnanja za odprto kodo](https://opensource.microsoft.com/codeofconduct/).
 Za več informacij si oglejte [Pogosta vprašanja o kodeksu ravnanja](https://opensource.microsoft.com/codeofconduct/faq/) ali
@@ -82,7 +83,7 @@ kontaktirajte [opencode@microsoft.com](mailto:opencode@microsoft.com) za dodatna
 
 Ta projekt lahko vsebuje blagovne znamke ali logotipe za projekte, izdelke ali storitve. Pooblaščena uporaba Microsoftovih
 blagovnih znamk ali logotipov je predmet in mora slediti
-[Microsoftovim smernicam za uporabo blagovnih znamk in znamk](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Microsoftovim smernicam za blagovne znamke in znamčenje](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Uporaba Microsoftovih blagovnih znamk ali logotipov v spremenjenih različicah tega projekta ne sme povzročati zmede ali nakazovati sponzorstva Microsofta.
 Vsaka uporaba blagovnih znamk ali logotipov tretjih oseb je predmet pravil teh tretjih oseb.
 
@@ -100,5 +101,5 @@ Vsaka uporaba blagovnih znamk ali logotipov tretjih oseb je predmet pravil teh t
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Omejitev odgovornosti**:
-Ta dokument je bil preveden z uporabo storitve za prevajanje z umetno inteligenco [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas opozarjamo, da avtomatizirani prevodi lahko vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku velja za avtoritativni vir. Za ključne informacije priporočamo strokovni človeški prevod. Za morebitne nesporazume ali napačne interpretacije, ki izhajajo iz uporabe tega prevoda, ne odgovarjamo.
+Ta dokument je bil preveden z uporabo storitve za prevajanje z umetno inteligenco [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas opozarjamo, da avtomatizirani prevodi lahko vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku velja za avtoritativni vir. Za ključne informacije priporočamo strokovni človeški prevod. Za morebitna nesporazume ali napačne interpretacije, ki izhajajo iz uporabe tega prevoda, ne odgovarjamo.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

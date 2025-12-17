@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:41:34+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:49:48+00:00",
   "source_file": "README.md",
   "language_code": "it"
 }
@@ -37,13 +37,13 @@ Ogni lezione si basa sulla precedente, quindi consigliamo di iniziare dall'inizi
 
 Se vuoi esplorare di più sugli argomenti degli Agenti AI, puoi dare un'occhiata al [Corso per Principianti sugli Agenti AI](https://aka.ms/ai-agents-beginners).
 
-### Incontra Altri Studenti, Ricevi Risposte alle Tue Domande
+### Incontra Altri Studenti, Fatti Rispondere alle Tue Domande
 
 Se rimani bloccato o hai domande sulla costruzione di Agenti AI, unisciti al nostro canale Discord dedicato nel [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Cosa Ti Serve
 
-Ogni lezione ha il proprio esempio di codice che puoi eseguire localmente. Puoi [forkare questo repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) per creare la tua copia.
+Ogni lezione ha il proprio esempio di codice che puoi eseguire localmente. Puoi [fare il fork di questo repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) per creare la tua copia.
 
 Questo corso attualmente utilizza i seguenti strumenti:
 
@@ -54,7 +54,7 @@ Questo corso attualmente utilizza i seguenti strumenti:
 
 Assicurati di avere accesso a questi servizi prima di iniziare.
 
-Altre opzioni per l'hosting di modelli e servizi arriveranno presto.
+Altre opzioni per l'hosting dei modelli e servizi in arrivo a breve.
 
 ## 🗃️ Lezioni
 
@@ -101,5 +101,5 @@ Se hai feedback sul prodotto o errori durante la costruzione visita:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Disclaimer**:  
-Questo documento è stato tradotto utilizzando il servizio di traduzione automatica [Co-op Translator](https://github.com/Azure/co-op-translator). Pur impegnandoci per garantire l’accuratezza, si prega di notare che le traduzioni automatiche possono contenere errori o imprecisioni. Il documento originale nella sua lingua nativa deve essere considerato la fonte autorevole. Per informazioni critiche, si raccomanda una traduzione professionale effettuata da un umano. Non ci assumiamo alcuna responsabilità per eventuali malintesi o interpretazioni errate derivanti dall’uso di questa traduzione.
+Questo documento è stato tradotto utilizzando il servizio di traduzione automatica [Co-op Translator](https://github.com/Azure/co-op-translator). Pur impegnandoci per garantire l’accuratezza, si prega di notare che le traduzioni automatiche possono contenere errori o imprecisioni. Il documento originale nella sua lingua nativa deve essere considerato la fonte autorevole. Per informazioni critiche, si raccomanda una traduzione professionale effettuata da un traduttore umano. Non ci assumiamo alcuna responsabilità per eventuali malintesi o interpretazioni errate derivanti dall’uso di questa traduzione.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

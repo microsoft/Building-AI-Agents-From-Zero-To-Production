@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:57:15+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:07:59+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
@@ -59,7 +59,7 @@ Više opcija za hosting modela i usluge uskoro dolazi.
 ## 🗃️ Lekcije
 
 | **Lekcija**         | **Opis**                                                                                  |
-|--------------------|-------------------------------------------------------------------------------------------|
+|--------------------|--------------------------------------------------------------------------------------------------|
 | [Dizajn agenta](./lesson-1-agent-design/README.md)       | Uvod u naš "Developer Onboarding" slučaj upotrebe agenta i kako dizajnirati učinkovite agente  |
 | [Razvoj agenta](./lesson-2-agent-development/README.md)  | Korištenjem Microsoft Agent Frameworka (MAF), kreirajte 3 agenta koji pomažu novim developerima u onboardingu.       |
 | [Evaluacije agenta](./lesson-3-agent-evals/README.md)  | Korištenjem Microsoft Foundry, saznajte koliko dobro naši AI agenti rade i kako ih poboljšati. |
@@ -72,7 +72,7 @@ Ugovorom o licenci za doprinositelje (CLA) kojim izjavljujete da imate pravo i d
 prava na korištenje vašeg doprinosa. Za detalje posjetite <https://cla.opensource.microsoft.com>.
 
 Kada pošaljete pull request, CLA bot će automatski odrediti trebate li dostaviti
-CLA i označiti PR na odgovarajući način (npr. status provjere, komentar). Jednostavno slijedite upute
+CLA i označiti PR prikladno (npr. status provjere, komentar). Jednostavno slijedite upute
 koje daje bot. Ovo ćete trebati napraviti samo jednom za sve repozitorije koji koriste naš CLA.
 
 Ovaj projekt je usvojio [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -101,5 +101,5 @@ Ako imate povratne informacije o proizvodu ili greške tijekom izgradnje, posjet
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Odricanje od odgovornosti**:
-Ovaj dokument preveden je pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
+Ovaj dokument je preveden pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

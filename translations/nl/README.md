@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:48:41+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:58:39+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
 -->
 # AI-agenten bouwen van nul tot productie
 
-![AI-agenten bouwen van nul tot productie](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.nl.png)
+![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.nl.png)
 
 ### 🌐 Meertalige ondersteuning
 
@@ -19,7 +19,7 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabisch](../ar/README.md) | [Bengaals](../bn/README.md) | [Bulgaars](../bg/README.md) | [Birmaans (Myanmar)](../my/README.md) | [Chinees (Vereenvoudigd)](../zh/README.md) | [Chinees (Traditioneel, Hong Kong)](../hk/README.md) | [Chinees (Traditioneel, Macau)](../mo/README.md) | [Chinees (Traditioneel, Taiwan)](../tw/README.md) | [Kroatisch](../hr/README.md) | [Tsjechisch](../cs/README.md) | [Deens](../da/README.md) | [Nederlands](./README.md) | [Ests](../et/README.md) | [Fins](../fi/README.md) | [Frans](../fr/README.md) | [Duits](../de/README.md) | [Grieks](../el/README.md) | [Hebreeuws](../he/README.md) | [Hindi](../hi/README.md) | [Hongaars](../hu/README.md) | [Indonesisch](../id/README.md) | [Italiaans](../it/README.md) | [Japans](../ja/README.md) | [Kannada](../kn/README.md) | [Koreaans](../ko/README.md) | [Litouws](../lt/README.md) | [Maleis](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalees](../ne/README.md) | [Nigeriaans Pidgin](../pcm/README.md) | [Noors](../no/README.md) | [Perzisch (Farsi)](../fa/README.md) | [Pools](../pl/README.md) | [Portugees (Brazilië)](../br/README.md) | [Portugees (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Roemeens](../ro/README.md) | [Russisch](../ru/README.md) | [Servisch (Cyrillisch)](../sr/README.md) | [Slowaaks](../sk/README.md) | [Sloveens](../sl/README.md) | [Spaans](../es/README.md) | [Swahili](../sw/README.md) | [Zweeds](../sv/README.md) | [Tagalog (Filipijns)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thais](../th/README.md) | [Turks](../tr/README.md) | [Oekraïens](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamees](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Een cursus die je de basisprincipes van de AI-agentontwikkelingslevenscyclus leert
+## Een cursus die je de basisprincipes van de AI Agent Ontwikkelingslevenscyclus leert
 
 [![GitHub-licentie](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub-bijdragers](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -31,11 +31,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Aan de slag
 
-Deze cursus bevat lessen over de basisprincipes van het bouwen en implementeren van AI-agenten.
+Deze cursus bevat lessen die de basisprincipes van het bouwen en implementeren van AI-agenten behandelen.
 
 Elke les bouwt voort op de vorige, dus we raden aan om bij het begin te beginnen en door te werken tot het einde.
 
-Als je meer wilt ontdekken over AI-agentonderwerpen, kun je de [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) bekijken.
+Als je meer wilt ontdekken over AI-agenten, kun je de [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) bekijken.
 
 ### Ontmoet andere leerlingen, krijg antwoord op je vragen
 
@@ -69,7 +69,7 @@ Meer opties rond modelhosting en services volgen binnenkort.
 
 Dit project verwelkomt bijdragen en suggesties. De meeste bijdragen vereisen dat je akkoord gaat met een
 Contributor License Agreement (CLA) waarin je verklaart dat je het recht hebt en daadwerkelijk verleent
-dat wij jouw bijdrage mogen gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
+dat wij de rechten krijgen om je bijdrage te gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
 
 Wanneer je een pull request indient, bepaalt een CLA-bot automatisch of je een CLA moet aanleveren
 en voorziet het PR van de juiste aanduidingen (bijv. statuscontrole, commentaar). Volg gewoon de instructies
@@ -100,6 +100,6 @@ Als je productfeedback hebt of fouten tegenkomt tijdens het bouwen, bezoek:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Disclaimer**:  
+**Disclaimer**:
 Dit document is vertaald met behulp van de AI-vertalingsdienst [Co-op Translator](https://github.com/Azure/co-op-translator). Hoewel we streven naar nauwkeurigheid, dient u er rekening mee te houden dat geautomatiseerde vertalingen fouten of onnauwkeurigheden kunnen bevatten. Het originele document in de oorspronkelijke taal moet als de gezaghebbende bron worden beschouwd. Voor cruciale informatie wordt professionele menselijke vertaling aanbevolen. Wij zijn niet aansprakelijk voor eventuele misverstanden of verkeerde interpretaties die voortvloeien uit het gebruik van deze vertaling.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:33:59+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:42:22+00:00",
   "source_file": "README.md",
   "language_code": "hk"
 }
@@ -39,7 +39,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 認識其他學習者，獲得問題解答
 
-如果你遇到困難或對構建 AI 代理有任何疑問，請加入我們在 [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) 的專用 Discord 頻道。
+如果你遇到困難或對構建 AI 代理有任何疑問，歡迎加入我們在 [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) 的專屬 Discord 頻道。
 
 ### 你需要準備的東西
 
@@ -86,7 +86,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 尋求協助
 
-如果你遇到困難或對構建 AI 應用有任何疑問，請加入：
+如果你遇到困難或對構建 AI 應用有任何疑問，歡迎加入：
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -98,5 +98,5 @@ CO_OP_TRANSLATOR_METADATA:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **免責聲明**：  
-本文件由 AI 翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而引起的任何誤解或誤釋承擔責任。
+本文件由 AI 翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而引起的任何誤解或誤釋承擔責任。
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

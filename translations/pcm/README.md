@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T12:01:57+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:13:24+00:00",
   "source_file": "README.md",
   "language_code": "pcm"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Dis course get lessons wey dey cover di fundamentals of building and deploying AI Agents.
 
-Each lesson dey build on top di one wey come before am, so we recommend sey make you start from di beginning and waka your way go di end.
+Each lesson dey build on top di one wey come before am, so we recommend sey make you start from di beginning and waka your way go reach di end.
 
 If you want explore more about AI Agent topics, you fit check di [AI Agents For Beginenrs Course](https://aka.ms/ai-agents-beginners).
 
@@ -89,7 +89,7 @@ Any use of third-party trademarks or logos dey subject to those third-parties' p
 
 ## Getting Help
 
-If you jam wahala or get any questions about building AI apps, join:
+If you jam wahala or get any question about building AI apps, join:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -101,5 +101,5 @@ If you get product feedback or errors while building, visit:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Disclaimer**:
-Dis document don translate wit AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translation fit get some mistakes or wrong parts. Di original document wey dey im own language na di correct one. If na serious matter, e better make human professional translate am. We no go responsible for any misunderstanding or wrong meaning wey fit come from dis translation.
+Dis document don translate wit AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translation fit get some errors or wahala. Di original document wey dey im own language na di correct one. If na serious matter, e better make human professional translate am. We no go responsible for any misunderstanding or wrong meaning wey fit show because of dis translation.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
