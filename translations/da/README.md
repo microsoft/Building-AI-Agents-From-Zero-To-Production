@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:25:09+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:46:07+00:00",
   "source_file": "README.md",
   "language_code": "da"
 }
@@ -31,7 +31,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Kom godt i gang
 
-Dette kursus indeholder lektioner, der dækker grundlæggende om opbygning og implementering af AI-agenter.
+Dette kursus har lektioner, der dækker grundlæggende om opbygning og implementering af AI-agenter.
 
 Hver lektion bygger videre på den forrige, så vi anbefaler at starte fra begyndelsen og arbejde dig igennem til slutningen.
 
@@ -52,7 +52,7 @@ Dette kursus bruger i øjeblikket følgende:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Sørg for, at du har adgang til disse tjenester, før du går i gang.
+Sørg venligst for, at du har adgang til disse tjenester, før du går i gang.
 
 Flere muligheder omkring modelhosting og tjenester kommer snart.
 
@@ -84,8 +84,8 @@ kontakt [opencode@microsoft.com](mailto:opencode@microsoft.com) med eventuelle y
 Dette projekt kan indeholde varemærker eller logoer for projekter, produkter eller tjenester. Autoriseret brug af Microsoft
 varemærker eller logoer er underlagt og skal følge
 [Microsofts varemærke- og brandretningslinjer](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Brug af Microsofts varemærker eller logoer i modificerede versioner af dette projekt må ikke skabe forvirring eller antyde Microsofts sponsorat.
-Enhver brug af tredjeparts varemærker eller logoer er underlagt disse tredjeparts politikker.
+Brug af Microsoft-varemærker eller logoer i modificerede versioner af dette projekt må ikke skabe forvirring eller antyde Microsoft-sponsorering.
+Enhver brug af tredjepartsvaremærker eller logoer er underlagt disse tredjeparts politikker.
 
 ## Få hjælp
 

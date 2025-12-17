@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:12:48+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:33:59+00:00",
   "source_file": "README.md",
   "language_code": "hk"
 }
@@ -59,7 +59,7 @@ CO_OP_TRANSLATOR_METADATA:
 ## 🗃️ 課程列表
 
 | **課程**         | **說明**                                                                                  |
-|------------------|------------------------------------------------------------------------------------------|
+|------------------|-------------------------------------------------------------------------------------------|
 | [代理設計](./lesson-1-agent-design/README.md)       | 介紹我們的「開發者入門」代理使用案例及如何設計有效的代理                                  |
 | [代理開發](./lesson-2-agent-development/README.md)  | 使用 Microsoft Agent Framework (MAF)，建立三個代理協助新開發者入門                        |
 | [代理評估](./lesson-3-agent-evals/README.md)        | 使用 Microsoft Foundry，了解我們的 AI 代理表現如何及如何改進                              |
@@ -98,5 +98,5 @@ CO_OP_TRANSLATOR_METADATA:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **免責聲明**：  
-本文件由 AI 翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而引起的任何誤解或誤釋承擔責任。
+本文件由 AI 翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件的母語版本應被視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而引起的任何誤解或誤釋承擔責任。
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

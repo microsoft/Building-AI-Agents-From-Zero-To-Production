@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:36:51+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:57:15+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
@@ -13,7 +13,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 🌐 Podrška za više jezika
 
-#### Podržano putem GitHub akcije (automatski i uvijek ažurirano)
+#### Podržano putem GitHub akcije (Automatski i uvijek ažurirano)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](./README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
@@ -35,7 +35,7 @@ Ovaj tečaj sadrži lekcije koje pokrivaju osnove izgradnje i implementacije AI 
 
 Svaka lekcija nadograđuje prethodnu, stoga preporučujemo da započnete od početka i radite redom do kraja.
 
-Ako želite istražiti više o temama AI agenata, možete pogledati [Tečaj za početnike o AI agentima](https://aka.ms/ai-agents-beginners).
+Ako želite istražiti više o temama AI agenata, možete pogledati [Tečaj AI agenata za početnike](https://aka.ms/ai-agents-beginners).
 
 ### Upoznajte druge polaznike, dobijte odgovore na svoja pitanja
 
@@ -69,10 +69,10 @@ Više opcija za hosting modela i usluge uskoro dolazi.
 
 Ovaj projekt pozdravlja doprinose i prijedloge. Većina doprinosa zahtijeva da se složite s
 Ugovorom o licenci za doprinositelje (CLA) kojim izjavljujete da imate pravo i doista dajete
-prava za korištenje vašeg doprinosa. Za detalje posjetite <https://cla.opensource.microsoft.com>.
+prava na korištenje vašeg doprinosa. Za detalje posjetite <https://cla.opensource.microsoft.com>.
 
 Kada pošaljete pull request, CLA bot će automatski odrediti trebate li dostaviti
-CLA i označiti PR prikladno (npr. status provjere, komentar). Jednostavno slijedite upute
+CLA i označiti PR na odgovarajući način (npr. status provjere, komentar). Jednostavno slijedite upute
 koje daje bot. Ovo ćete trebati napraviti samo jednom za sve repozitorije koji koriste naš CLA.
 
 Ovaj projekt je usvojio [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -83,8 +83,8 @@ kontaktirajte [opencode@microsoft.com](mailto:opencode@microsoft.com) za dodatna
 
 Ovaj projekt može sadržavati zaštitne znakove ili logotipe za projekte, proizvode ili usluge. Ovlaštena upotreba Microsoftovih
 zaštitnih znakova ili logotipa podliježe i mora slijediti
-[Microsoftove smjernice za zaštitne znakove i brend](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Korištenje Microsoftovih zaštitnih znakova ili logotipa u izmijenjenim verzijama ovog projekta ne smije izazvati zabunu niti implicirati Microsoftovo sponzorstvo.
+[Microsoftove smjernice za zaštitne znakove i brendiranje](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Upotreba Microsoftovih zaštitnih znakova ili logotipa u izmijenjenim verzijama ovog projekta ne smije izazvati zabunu niti implicirati sponzorstvo Microsofta.
 Svaka upotreba zaštitnih znakova ili logotipa trećih strana podliježe pravilima tih trećih strana.
 
 ## Dobivanje pomoći
@@ -101,5 +101,5 @@ Ako imate povratne informacije o proizvodu ili greške tijekom izgradnje, posjet
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Odricanje od odgovornosti**:
-Ovaj dokument je preveden pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
+Ovaj dokument preveden je pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

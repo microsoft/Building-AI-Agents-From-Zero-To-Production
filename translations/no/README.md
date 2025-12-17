@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:26:05+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:47:09+00:00",
   "source_file": "README.md",
   "language_code": "no"
 }
@@ -37,7 +37,7 @@ Hver leksjon bygger på den forrige, så vi anbefaler å starte fra begynnelsen 
 
 Hvis du vil utforske mer om AI-agentemner, kan du sjekke ut [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
-### Møt andre elever, få svar på spørsmålene dine
+### Møt andre lærende, få svar på spørsmålene dine
 
 Hvis du står fast eller har spørsmål om å bygge AI-agenter, bli med i vår dedikerte Discord-kanal i [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:29:59+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:50:34+00:00",
   "source_file": "README.md",
   "language_code": "ms"
 }
@@ -35,7 +35,7 @@ Kursus ini mempunyai pelajaran yang merangkumi asas-asas membina dan menyebarkan
 
 Setiap pelajaran dibina berdasarkan pelajaran sebelumnya, jadi kami mengesyorkan bermula dari awal dan meneruskan sehingga akhir.
 
-Jika anda ingin meneroka lebih lanjut tentang topik Ejen AI, anda boleh semak [Kursus Ejen AI untuk Pemula](https://aka.ms/ai-agents-beginners).
+Jika anda ingin meneroka lebih lanjut tentang topik Ejen AI, anda boleh semak [Kursus Ejen AI Untuk Pemula](https://aka.ms/ai-agents-beginners).
 
 ### Berjumpa Pelajar Lain, Dapatkan Jawapan untuk Soalan Anda
 
@@ -59,16 +59,16 @@ Pilihan lebih lanjut mengenai hosting model dan perkhidmatan akan datang tidak l
 ## 🗃️ Pelajaran
 
 | **Pelajaran**         | **Penerangan**                                                                                  |
-|-----------------------|------------------------------------------------------------------------------------------------|
+|--------------------|--------------------------------------------------------------------------------------------------|
 | [Reka Bentuk Ejen](./lesson-1-agent-design/README.md)       | Pengenalan kepada Kes Penggunaan Ejen "Developer Onboarding" kami dan cara mereka bentuk ejen yang berkesan  |
 | [Pembangunan Ejen](./lesson-2-agent-development/README.md)  | Menggunakan Microsoft Agent Framework (MAF), cipta 3 ejen untuk membantu pembangun baru memulakan.       |
-| [Penilaian Ejen](./lesson-3-agent-evals/README.md)  | Menggunakan Microsoft Foundry, ketahui prestasi Ejen AI kami dan cara memperbaikinya. |
+| [Penilaian Ejen](./lesson-3-agent-evals/README.md)  | Menggunakan Microsoft Foundry, ketahui sejauh mana prestasi Ejen AI kami dan cara memperbaikinya. |
 | [Pengeluaran Ejen](./lesson-4-agent-deployment/README.md)   | Menggunakan Hosted Agents dan OpenAI Chatkit, lihat cara menyebarkan Ejen AI ke dalam pengeluaran.       |
 
 ## Menyumbang
 
 Projek ini mengalu-alukan sumbangan dan cadangan. Kebanyakan sumbangan memerlukan anda bersetuju dengan
-Perjanjian Lesen Penyumbang (CLA) yang menyatakan bahawa anda mempunyai hak, dan benar-benar memberikan kami
+Perjanjian Lesen Penyumbang (CLA) yang menyatakan bahawa anda mempunyai hak, dan benar-benar memberi kami
 hak untuk menggunakan sumbangan anda. Untuk maklumat lanjut, lawati <https://cla.opensource.microsoft.com>.
 
 Apabila anda menghantar permintaan tarik, bot CLA akan secara automatik menentukan sama ada anda perlu menyediakan
@@ -76,14 +76,14 @@ CLA dan menghias PR dengan sewajarnya (contohnya, pemeriksaan status, komen). Ik
 yang diberikan oleh bot. Anda hanya perlu melakukan ini sekali sahaja untuk semua repos yang menggunakan CLA kami.
 
 Projek ini telah mengamalkan [Kod Etika Sumber Terbuka Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Untuk maklumat lanjut, lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
+Untuk maklumat lanjut lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
 hubungi [opencode@microsoft.com](mailto:opencode@microsoft.com) untuk sebarang soalan atau komen tambahan.
 
 ## Tanda Dagangan
 
 Projek ini mungkin mengandungi tanda dagangan atau logo untuk projek, produk, atau perkhidmatan. Penggunaan sah tanda dagangan atau logo Microsoft tertakluk kepada dan mesti mengikuti
 [Garisan Panduan Tanda Dagangan & Jenama Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Penggunaan tanda dagangan atau logo Microsoft dalam versi projek yang diubah suai tidak boleh menyebabkan kekeliruan atau memberi gambaran bahawa Microsoft menaja.
+Penggunaan tanda dagangan atau logo Microsoft dalam versi projek yang diubah suai tidak boleh menyebabkan kekeliruan atau memberi implikasi penajaan Microsoft.
 Sebarang penggunaan tanda dagangan atau logo pihak ketiga tertakluk kepada polisi pihak ketiga tersebut.
 
 ## Mendapatkan Bantuan

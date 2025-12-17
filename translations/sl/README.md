@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:37:55+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:57:45+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
@@ -43,7 +43,7 @@ Vsaka lekcija gradi na prejšnji, zato priporočamo, da začnete od začetka in 
 
 ### Kaj potrebujete
 
-Vsaka lekcija ima svojo kodo, ki jo lahko zaženete lokalno. Lahko [forkate ta repozitorij](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) in ustvarite svojo kopijo.
+Vsaka lekcija ima svoj vzorčni kodo, ki jo lahko zaženete lokalno. Lahko [forkate ta repozitorij](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) in ustvarite svojo kopijo.
 
 Ta tečaj trenutno uporablja naslednje:
 
@@ -52,7 +52,7 @@ Ta tečaj trenutno uporablja naslednje:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Pred začetkom se prepričajte, da imate dostop do teh storitev.
+Prosimo, zagotovite, da imate dostop do teh storitev, preden začnete.
 
 Več možnosti glede gostovanja modelov in storitev prihaja kmalu.
 
@@ -68,10 +68,9 @@ Več možnosti glede gostovanja modelov in storitev prihaja kmalu.
 ## Prispevanje
 
 Ta projekt sprejema prispevke in predloge. Večina prispevkov zahteva, da se strinjate z
-Licenčno pogodbo za prispevke (CLA), ki potrjuje, da imate pravico in dejansko podeljujete
-pravice za uporabo vašega prispevka. Za podrobnosti obiščite <https://cla.opensource.microsoft.com>.
+Licenčno pogodbo za prispevke (CLA), ki potrjuje, da imate pravico in dejansko dajete pravice za uporabo vašega prispevka. Za podrobnosti obiščite <https://cla.opensource.microsoft.com>.
 
-Ko oddate pull request, bo bot CLA samodejno ugotovil, ali morate predložiti
+Ko oddate pull request, bo bot za CLA samodejno ugotovil, ali morate predložiti
 CLA in ustrezno označil PR (npr. statusni pregled, komentar). Preprosto sledite navodilom
 bota. To boste morali storiti samo enkrat za vse repozitorije, ki uporabljajo naš CLA.
 
@@ -101,5 +100,5 @@ Vsaka uporaba blagovnih znamk ali logotipov tretjih oseb je predmet pravil teh t
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Omejitev odgovornosti**:
-Ta dokument je bil preveden z uporabo storitve za prevajanje z umetno inteligenco [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas prosimo, da upoštevate, da lahko avtomatizirani prevodi vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku velja za avtoritativni vir. Za ključne informacije priporočamo strokovni človeški prevod. Za morebitne nesporazume ali napačne interpretacije, ki izhajajo iz uporabe tega prevoda, ne odgovarjamo.
+Ta dokument je bil preveden z uporabo storitve za prevajanje z umetno inteligenco [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas opozarjamo, da avtomatizirani prevodi lahko vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku velja za avtoritativni vir. Za ključne informacije priporočamo strokovni človeški prevod. Za morebitne nesporazume ali napačne interpretacije, ki izhajajo iz uporabe tega prevoda, ne odgovarjamo.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

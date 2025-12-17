@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:30:26+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:51:00+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Ang kursong ito ay may mga aralin na sumasaklaw sa mga pundasyon ng paggawa at pag-deploy ng AI Agents.
 
-Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula ka sa simula at magpatuloy hanggang sa katapusan.
+Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula sa simula at magpatuloy hanggang sa dulo.
 
 Kung nais mong tuklasin pa ang mga paksa tungkol sa AI Agent, maaari mong tingnan ang [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
@@ -65,7 +65,7 @@ May mga karagdagang opsyon tungkol sa pagho-host ng modelo at mga serbisyo na pa
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Gamit ang Microsoft Foundry, alamin kung gaano kahusay ang pagganap ng aming mga AI Agents at kung paano sila mapapabuti. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Gamit ang Hosted Agents at OpenAI Chatkit, tingnan kung paano i-deploy ang isang AI Agent sa produksyon.       |
 
-## Pag-aambag
+## Pagsusulong
 
 Malugod na tinatanggap ng proyektong ito ang mga kontribusyon at mungkahi. Karamihan sa mga kontribusyon ay nangangailangan na sumang-ayon ka sa isang
 Contributor License Agreement (CLA) na nagsasaad na ikaw ay may karapatan, at talagang nagbibigay, sa amin ng
