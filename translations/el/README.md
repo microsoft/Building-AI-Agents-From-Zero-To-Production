@@ -1,23 +1,31 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:00:19+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:22:14+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
 -->
 # Δημιουργία Πρακτόρων Τεχνητής Νοημοσύνης από το Μηδέν έως την Παραγωγή
 
-![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.el.png)
+![Δημιουργία Πρακτόρων Τεχνητής Νοημοσύνης από το Μηδέν έως την Παραγωγή](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.el.png)
+
+### 🌐 Υποστήριξη Πολλών Γλωσσών
+
+#### Υποστηρίζεται μέσω GitHub Action (Αυτοματοποιημένο & Πάντα Ενημερωμένο)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Αραβικά](../ar/README.md) | [Μπενγκάλι](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανικά](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κανάντα](../kn/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαϊκά](../ms/README.md) | [Μαλαγιαλάμ](../ml/README.md) | [Μαράθι](../mr/README.md) | [Νεπάλ](../ne/README.md) | [Νιγηριανή Πίτζιν](../pcm/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πουντζάμπι (Γκουρμούκι)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκάλογκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Τελούγκου](../te/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Ένα μάθημα που διδάσκει τα βασικά του Κύκλου Ζωής Ανάπτυξης Πρακτόρων Τεχνητής Νοημοσύνης
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![Άδεια GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![Συνεισφέροντες GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![Θέματα GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![Αιτήματα έλξης GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![Καλωσορίζουμε PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -27,7 +35,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Κάθε μάθημα βασίζεται στο προηγούμενο, οπότε προτείνουμε να ξεκινήσετε από την αρχή και να προχωρήσετε μέχρι το τέλος.
 
-Αν θέλετε να εξερευνήσετε περισσότερα για θέματα Πρακτόρων Τεχνητής Νοημοσύνης, μπορείτε να δείτε το [Μάθημα Πρακτόρων Τεχνητής Νοημοσύνης για Αρχάριους](https://aka.ms/ai-agents-beginners).
+Αν θέλετε να εξερευνήσετε περισσότερα θέματα σχετικά με τους Πράκτορες Τεχνητής Νοημοσύνης, μπορείτε να δείτε το [Μάθημα Πρακτόρων Τεχνητής Νοημοσύνης για Αρχάριους](https://aka.ms/ai-agents-beginners).
 
 ### Γνωρίστε Άλλους Μαθητές, Λάβετε Απαντήσεις στις Ερωτήσεις σας
 
@@ -52,10 +60,10 @@ CO_OP_TRANSLATOR_METADATA:
 
 | **Μάθημα**         | **Περιγραφή**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Σχεδιασμός Πράκτορα](./lesson-1-agent-design/README.md)       | Μια εισαγωγή στη χρήση του Πράκτορα "Εισαγωγή Προγραμματιστή" και πώς να σχεδιάζετε αποτελεσματικούς πράκτορες  |
-| [Ανάπτυξη Πράκτορα](./lesson-2-agent-development/README.md)  | Χρησιμοποιώντας το Microsoft Agent Framework (MAF), δημιουργήστε 3 πράκτορες για να βοηθήσετε νέους προγραμματιστές να ενσωματωθούν.       |
-| [Αξιολογήσεις Πράκτορα](./lesson-3-agent-evals/README.md)  | Χρησιμοποιώντας το Microsoft Foundry, μάθετε πόσο καλά αποδίδουν οι Πράκτορές μας και πώς να τους βελτιώσετε. |
-| [Ανάπτυξη Πράκτορα](./lesson-4-agent-deployment/README.md)   | Χρησιμοποιώντας τους Φιλοξενούμενους Πράκτορες και το OpenAI Chatkit, δείτε πώς να αναπτύξετε έναν Πράκτορα Τεχνητής Νοημοσύνης σε παραγωγή.       |
+| [Σχεδιασμός Πράκτορα](./lesson-1-agent-design/README.md)       | Μια εισαγωγή στην περίπτωση χρήσης "Εισαγωγή Προγραμματιστή" και πώς να σχεδιάσετε αποτελεσματικούς πράκτορες  |
+| [Ανάπτυξη Πράκτορα](./lesson-2-agent-development/README.md)  | Χρησιμοποιώντας το Microsoft Agent Framework (MAF), δημιουργήστε 3 πράκτορες για να βοηθήσετε νέους προγραμματιστές.       |
+| [Αξιολογήσεις Πράκτορα](./lesson-3-agent-evals/README.md)  | Χρησιμοποιώντας το Microsoft Foundry, μάθετε πόσο καλά αποδίδουν οι Πράκτορες Τεχνητής Νοημοσύνης και πώς να τους βελτιώσετε. |
+| [Ανάπτυξη Πράκτορα](./lesson-4-agent-deployment/README.md)   | Χρησιμοποιώντας τους Φιλοξενούμενους Πράκτορες και το OpenAI Chatkit, δείτε πώς να αναπτύξετε έναν Πράκτορα Τεχνητής Νοημοσύνης στην παραγωγή.       |
 
 ## Συνεισφορά
 
@@ -63,19 +71,19 @@ CO_OP_TRANSLATOR_METADATA:
 Συμφωνία Άδειας Συνεισφοράς (CLA) που δηλώνει ότι έχετε το δικαίωμα και πράγματι παραχωρείτε σε εμάς
 τα δικαιώματα να χρησιμοποιήσουμε τη συνεισφορά σας. Για λεπτομέρειες, επισκεφθείτε <https://cla.opensource.microsoft.com>.
 
-Όταν υποβάλλετε ένα pull request, ένα bot CLA θα καθορίσει αυτόματα αν χρειάζεται να παρέχετε
+Όταν υποβάλλετε ένα αίτημα έλξης, ένα bot CLA θα καθορίσει αυτόματα αν χρειάζεται να παρέχετε
 μια CLA και θα διακοσμήσει το PR κατάλληλα (π.χ., έλεγχος κατάστασης, σχόλιο). Απλώς ακολουθήστε τις οδηγίες
 που παρέχονται από το bot. Θα χρειαστεί να το κάνετε μόνο μία φορά σε όλα τα αποθετήρια που χρησιμοποιούν την CLA μας.
 
 Αυτό το έργο έχει υιοθετήσει τον [Κώδικα Δεοντολογίας Ανοιχτού Κώδικα της Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Για περισσότερες πληροφορίες δείτε τις [Συχνές Ερωτήσεις για τον Κώδικα Δεοντολογίας](https://opensource.microsoft.com/codeofconduct/faq/) ή
+Για περισσότερες πληροφορίες δείτε τις [Συχνές Ερωτήσεις Κώδικα Δεοντολογίας](https://opensource.microsoft.com/codeofconduct/faq/) ή
 επικοινωνήστε με [opencode@microsoft.com](mailto:opencode@microsoft.com) για επιπλέον ερωτήσεις ή σχόλια.
 
 ## Εμπορικά Σήματα
 
 Αυτό το έργο μπορεί να περιέχει εμπορικά σήματα ή λογότυπα για έργα, προϊόντα ή υπηρεσίες. Η εξουσιοδοτημένη χρήση των εμπορικών σημάτων ή λογότυπων της Microsoft υπόκειται και πρέπει να ακολουθεί
 τις [Οδηγίες Χρήσης Εμπορικών Σημάτων & Επωνυμίας της Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Η χρήση εμπορικών σημάτων ή λογότυπων της Microsoft σε τροποποιημένες εκδόσεις αυτού του έργου δεν πρέπει να προκαλεί σύγχυση ή να υπονοεί χορηγία από τη Microsoft.
+Η χρήση των εμπορικών σημάτων ή λογότυπων της Microsoft σε τροποποιημένες εκδόσεις αυτού του έργου δεν πρέπει να προκαλεί σύγχυση ή να υπονοεί χορηγία από τη Microsoft.
 Οποιαδήποτε χρήση εμπορικών σημάτων ή λογότυπων τρίτων υπόκειται στις πολιτικές αυτών των τρίτων.
 
 ## Λήψη Βοήθειας
@@ -84,7 +92,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Αν έχετε σχόλια προϊόντος ή σφάλματα κατά την ανάπτυξη, επισκεφθείτε:
+Αν έχετε σχόλια προϊόντος ή σφάλματα κατά τη δημιουργία, επισκεφθείτε:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

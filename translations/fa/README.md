@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T16:52:43+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:10:38+00:00",
   "source_file": "README.md",
   "language_code": "fa"
 }
@@ -11,27 +11,35 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![ساخت عامل‌های هوش مصنوعی از صفر تا تولید](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.fa.png)
 
+### 🌐 پشتیبانی چندزبانه
+
+#### پشتیبانی از طریق GitHub Action (خودکار و همیشه به‌روز)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[عربی](../ar/README.md) | [بنگالی](../bn/README.md) | [بلغاری](../bg/README.md) | [برمه‌ای (میانمار)](../my/README.md) | [چینی (ساده‌شده)](../zh/README.md) | [چینی (سنتی، هنگ‌کنگ)](../hk/README.md) | [چینی (سنتی، ماکائو)](../mo/README.md) | [چینی (سنتی، تایوان)](../tw/README.md) | [کرواتی](../hr/README.md) | [چکی](../cs/README.md) | [دانمارکی](../da/README.md) | [هلندی](../nl/README.md) | [استونیایی](../et/README.md) | [فنلاندی](../fi/README.md) | [فرانسوی](../fr/README.md) | [آلمانی](../de/README.md) | [یونانی](../el/README.md) | [عبری](../he/README.md) | [هندی](../hi/README.md) | [مجارستانی](../hu/README.md) | [اندونزیایی](../id/README.md) | [ایتالیایی](../it/README.md) | [ژاپنی](../ja/README.md) | [کانادا](../kn/README.md) | [کره‌ای](../ko/README.md) | [لیتوانیایی](../lt/README.md) | [مالایی](../ms/README.md) | [مالایالام](../ml/README.md) | [مراتی](../mr/README.md) | [نپالی](../ne/README.md) | [پیدجین نیجریه‌ای](../pcm/README.md) | [نروژی](../no/README.md) | [فارسی](./README.md) | [لهستانی](../pl/README.md) | [پرتغالی (برزیل)](../br/README.md) | [پرتغالی (پرتغال)](../pt/README.md) | [پنجابی (گورمخی)](../pa/README.md) | [رومانیایی](../ro/README.md) | [روسی](../ru/README.md) | [صربی (سیریلیک)](../sr/README.md) | [اسلواکی](../sk/README.md) | [اسلوونیایی](../sl/README.md) | [اسپانیایی](../es/README.md) | [سواحیلی](../sw/README.md) | [سوئدی](../sv/README.md) | [تاگالوگ (فیلیپینی)](../tl/README.md) | [تامیل](../ta/README.md) | [تلگو](../te/README.md) | [تایلندی](../th/README.md) | [ترکی](../tr/README.md) | [اوکراینی](../uk/README.md) | [اردو](../ur/README.md) | [ویتنامی](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ## دوره‌ای که اصول چرخه عمر توسعه عامل هوش مصنوعی را به شما آموزش می‌دهد
 
-[![مجوز گیت‌هاب](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![همکاران گیت‌هاب](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![مسائل گیت‌هاب](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![درخواست‌های کشش گیت‌هاب](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![مجوز GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![مشارکت‌کنندگان GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![مسائل GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![درخواست‌های کشش GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
 [![خوش‌آمدگویی به PRها](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
-[![دیسکورد Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
 ## 🌱 شروع به کار
 
 این دوره شامل درس‌هایی است که اصول ساخت و استقرار عامل‌های هوش مصنوعی را پوشش می‌دهد.
 
-هر درس بر درس قبلی بنا شده است، بنابراین توصیه می‌کنیم از ابتدا شروع کرده و تا انتها پیش بروید.
+هر درس بر درس قبلی بنا شده است، بنابراین توصیه می‌کنیم از ابتدا شروع کنید و تا انتها پیش بروید.
 
 اگر می‌خواهید بیشتر درباره موضوعات عامل‌های هوش مصنوعی کاوش کنید، می‌توانید دوره [عامل‌های هوش مصنوعی برای مبتدیان](https://aka.ms/ai-agents-beginners) را بررسی کنید.
 
 ### ملاقات با دیگر یادگیرندگان، دریافت پاسخ سوالاتتان
 
-اگر گیر کردید یا سوالی درباره ساخت عامل‌های هوش مصنوعی داشتید، به کانال دیسکورد اختصاصی ما در [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) بپیوندید.
+اگر گیر کردید یا سوالی درباره ساخت عامل‌های هوش مصنوعی داشتید، به کانال اختصاصی ما در دیسکورد [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) بپیوندید.
 
 ### آنچه نیاز دارید
 
@@ -54,38 +62,30 @@ CO_OP_TRANSLATOR_METADATA:
 |-----------------|----------------------------------------------------------------------------------------------|
 | [طراحی عامل](./lesson-1-agent-design/README.md)       | معرفی مورد استفاده "آموزش توسعه‌دهنده" و نحوه طراحی عامل‌های مؤثر  |
 | [توسعه عامل](./lesson-2-agent-development/README.md)  | با استفاده از چارچوب عامل مایکروسافت (MAF)، سه عامل برای کمک به توسعه‌دهندگان جدید بسازید.       |
-| [ارزیابی عامل](./lesson-3-agent-evals/README.md)  | با استفاده از Microsoft Foundry، عملکرد عامل‌های هوش مصنوعی ما را بسنجید و نحوه بهبود آن‌ها را بیاموزید. |
+| [ارزیابی عامل](./lesson-3-agent-evals/README.md)  | با استفاده از Microsoft Foundry، عملکرد عامل‌های هوش مصنوعی ما را بسنجید و راه‌های بهبود آن‌ها را بیابید. |
 | [استقرار عامل](./lesson-4-agent-deployment/README.md)   | با استفاده از عامل‌های میزبانی شده و OpenAI Chatkit، نحوه استقرار یک عامل هوش مصنوعی در تولید را ببینید.       |
 
 ## مشارکت
 
-این پروژه از مشارکت‌ها و پیشنهادات استقبال می‌کند. بیشتر مشارکت‌ها نیازمند موافقت شما با
-توافقنامه مجوز مشارکت‌کننده (CLA) است که اعلام می‌کند شما حق دارید و واقعاً حقوق استفاده از مشارکت خود را به ما می‌دهید.
-برای جزئیات، به <https://cla.opensource.microsoft.com> مراجعه کنید.
+این پروژه از مشارکت‌ها و پیشنهادات استقبال می‌کند. بیشتر مشارکت‌ها نیازمند موافقت شما با توافقنامه مجوز مشارکت‌کننده (CLA) است که اعلام می‌کند شما حق دارید و واقعاً حقوق استفاده از مشارکت خود را به ما می‌دهید. برای جزئیات، به <https://cla.opensource.microsoft.com> مراجعه کنید.
 
-وقتی درخواست کشش (pull request) ارسال می‌کنید، ربات CLA به طور خودکار تعیین می‌کند که آیا نیاز به ارائه
-CLA دارید و درخواست را به طور مناسب علامت‌گذاری می‌کند (مثلاً بررسی وضعیت، نظر). فقط کافی است دستورالعمل‌های
-ربات را دنبال کنید. شما فقط یک بار برای همه مخازن استفاده‌کننده از CLA ما باید این کار را انجام دهید.
+وقتی درخواست کشش (pull request) ارسال می‌کنید، ربات CLA به طور خودکار تعیین می‌کند که آیا نیاز به ارائه CLA دارید و درخواست را به طور مناسب علامت‌گذاری می‌کند (مثلاً بررسی وضعیت، نظر). فقط کافی است دستورالعمل‌های ارائه شده توسط ربات را دنبال کنید. شما فقط یک بار در تمام مخازن استفاده‌کننده از CLA ما باید این کار را انجام دهید.
 
-این پروژه [کد رفتار منبع باز مایکروسافت](https://opensource.microsoft.com/codeofconduct/) را پذیرفته است.
-برای اطلاعات بیشتر به [سؤالات متداول کد رفتار](https://opensource.microsoft.com/codeofconduct/faq/) مراجعه کنید یا با [opencode@microsoft.com](mailto:opencode@microsoft.com) تماس بگیرید.
+این پروژه [کد رفتار منبع باز مایکروسافت](https://opensource.microsoft.com/codeofconduct/) را پذیرفته است. برای اطلاعات بیشتر به [سوالات متداول کد رفتار](https://opensource.microsoft.com/codeofconduct/faq/) مراجعه کنید یا با [opencode@microsoft.com](mailto:opencode@microsoft.com) تماس بگیرید.
 
 ## علائم تجاری
 
-این پروژه ممکن است شامل علائم تجاری یا لوگوهایی برای پروژه‌ها، محصولات یا خدمات باشد. استفاده مجاز از علائم تجاری یا لوگوهای مایکروسافت مشروط به رعایت
-[راهنمای علائم تجاری و برند مایکروسافت](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) است.
-استفاده از علائم تجاری یا لوگوهای مایکروسافت در نسخه‌های تغییر یافته این پروژه نباید باعث سردرگمی یا القای حمایت مایکروسافت شود.
-هرگونه استفاده از علائم تجاری یا لوگوهای شخص ثالث تابع سیاست‌های آن‌ها است.
+این پروژه ممکن است شامل علائم تجاری یا لوگوهایی برای پروژه‌ها، محصولات یا خدمات باشد. استفاده مجاز از علائم تجاری یا لوگوهای مایکروسافت مشروط به رعایت [راهنمای علائم تجاری و برند مایکروسافت](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) است. استفاده از علائم تجاری یا لوگوهای مایکروسافت در نسخه‌های تغییر یافته این پروژه نباید باعث سردرگمی شود یا حمایت مایکروسافت را القا کند. هرگونه استفاده از علائم تجاری یا لوگوهای شخص ثالث تابع سیاست‌های آن‌ها است.
 
 ## دریافت کمک
 
 اگر گیر کردید یا سوالی درباره ساخت برنامه‌های هوش مصنوعی داشتید، بپیوندید به:
 
-[![دیسکورد Microsoft Foundry](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
 اگر بازخورد محصول یا خطاهایی هنگام ساخت داشتید، مراجعه کنید به:
 
-[![انجمن توسعه‌دهندگان Microsoft Foundry](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 

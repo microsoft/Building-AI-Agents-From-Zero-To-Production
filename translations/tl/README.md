@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:06:42+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:30:26+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -10,6 +10,14 @@ CO_OP_TRANSLATOR_METADATA:
 # Paggawa ng AI Agents mula Zero hanggang Produksyon
 
 ![Building AI Agents from Zero to Production](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.tl.png)
+
+### 🌐 Suporta sa Maramihang Wika
+
+#### Sinusuportahan sa pamamagitan ng GitHub Action (Awtomatiko at Laging Napapanahon)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](./README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Isang kurso na nagtuturo sa iyo ng mga pundasyon ng AI Agent Development Lifecycle
 
@@ -25,13 +33,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 Ang kursong ito ay may mga aralin na sumasaklaw sa mga pundasyon ng paggawa at pag-deploy ng AI Agents.
 
-Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula ka sa simula at magpatuloy hanggang sa dulo.
+Bawat aralin ay nakabatay sa naunang aralin, kaya inirerekomenda naming magsimula ka sa simula at magpatuloy hanggang sa katapusan.
 
 Kung nais mong tuklasin pa ang mga paksa tungkol sa AI Agent, maaari mong tingnan ang [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
 ### Makipagkilala sa Iba Pang mga Nag-aaral, Sagutin ang Iyong mga Tanong
 
-Kung ikaw ay mahirapan o may mga tanong tungkol sa paggawa ng AI Agents, sumali sa aming dedikadong Discord Channel sa [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Kung ikaw ay ma-stuck o may mga tanong tungkol sa paggawa ng AI Agents, sumali sa aming dedikadong Discord Channel sa [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Ano ang Kailangan Mo
 
@@ -53,22 +61,22 @@ May mga karagdagang opsyon tungkol sa pagho-host ng modelo at mga serbisyo na pa
 | **Aralin**         | **Paglalarawan**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | Isang pagpapakilala sa aming "Developer Onboarding" Agent Use Case at kung paano magdisenyo ng epektibong mga agent  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer sa onboarding.       |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer na mag-onboard.       |
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Gamit ang Microsoft Foundry, alamin kung gaano kahusay ang pagganap ng aming mga AI Agents at kung paano sila mapapabuti. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Gamit ang Hosted Agents at OpenAI Chatkit, tingnan kung paano i-deploy ang isang AI Agent sa produksyon.       |
 
 ## Pag-aambag
 
 Malugod na tinatanggap ng proyektong ito ang mga kontribusyon at mungkahi. Karamihan sa mga kontribusyon ay nangangailangan na sumang-ayon ka sa isang
-Contributor License Agreement (CLA) na nagsasaad na may karapatan ka, at talagang binibigyan mo kami
-ng mga karapatan na gamitin ang iyong kontribusyon. Para sa mga detalye, bisitahin ang <https://cla.opensource.microsoft.com>.
+Contributor License Agreement (CLA) na nagsasaad na ikaw ay may karapatan, at talagang nagbibigay, sa amin ng
+mga karapatan na gamitin ang iyong kontribusyon. Para sa mga detalye, bisitahin ang <https://cla.opensource.microsoft.com>.
 
 Kapag nagsumite ka ng pull request, awtomatikong tutukuyin ng CLA bot kung kailangan mong magbigay ng
 CLA at bibigyan ng angkop na dekorasyon ang PR (hal., status check, komento). Sundin lamang ang mga tagubiling
 ibinibigay ng bot. Isang beses mo lang ito kailangang gawin sa lahat ng mga repo na gumagamit ng aming CLA.
 
-Inampon ng proyektong ito ang [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-Para sa karagdagang impormasyon tingnan ang [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) o
+Ang proyektong ito ay nagpatibay ng [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+Para sa karagdagang impormasyon, tingnan ang [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) o
 makipag-ugnayan sa [opencode@microsoft.com](mailto:opencode@microsoft.com) para sa anumang karagdagang tanong o komento.
 
 ## Mga Trademark
@@ -80,7 +88,7 @@ Anumang paggamit ng mga trademark o logo ng third-party ay napapailalim sa mga p
 
 ## Pagkuha ng Tulong
 
-Kung ikaw ay mahirapan o may mga tanong tungkol sa paggawa ng AI apps, sumali sa:
+Kung ikaw ay ma-stuck o may mga tanong tungkol sa paggawa ng AI apps, sumali sa:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -91,6 +99,6 @@ Kung mayroon kang feedback sa produkto o mga error habang gumagawa, bisitahin:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Paunawa**:
+**Paalala**:
 Ang dokumentong ito ay isinalin gamit ang AI translation service na [Co-op Translator](https://github.com/Azure/co-op-translator). Bagamat nagsusumikap kami para sa katumpakan, pakatandaan na ang mga awtomatikong pagsasalin ay maaaring maglaman ng mga pagkakamali o di-tumpak na impormasyon. Ang orihinal na dokumento sa orihinal nitong wika ang dapat ituring na pangunahing sanggunian. Para sa mahahalagang impormasyon, inirerekomenda ang propesyonal na pagsasalin ng tao. Hindi kami mananagot sa anumang hindi pagkakaunawaan o maling interpretasyon na maaaring magmula sa paggamit ng pagsasaling ito.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

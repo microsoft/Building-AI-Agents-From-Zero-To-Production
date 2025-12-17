@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T16:51:14+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:08:42+00:00",
   "source_file": "README.md",
   "language_code": "de"
 }
@@ -11,10 +11,18 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![KI-Agenten von Grund auf bis zur Produktion entwickeln](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.de.png)
 
+### 🌐 Mehrsprachige Unterstützung
+
+#### Unterstützt über GitHub Action (Automatisiert & Immer Aktuell)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabisch](../ar/README.md) | [Bengalisch](../bn/README.md) | [Bulgarisch](../bg/README.md) | [Birmanisch (Myanmar)](../my/README.md) | [Chinesisch (vereinfacht)](../zh/README.md) | [Chinesisch (traditionell, Hongkong)](../hk/README.md) | [Chinesisch (traditionell, Macau)](../mo/README.md) | [Chinesisch (traditionell, Taiwan)](../tw/README.md) | [Kroatisch](../hr/README.md) | [Tschechisch](../cs/README.md) | [Dänisch](../da/README.md) | [Niederländisch](../nl/README.md) | [Estnisch](../et/README.md) | [Finnisch](../fi/README.md) | [Französisch](../fr/README.md) | [Deutsch](./README.md) | [Griechisch](../el/README.md) | [Hebräisch](../he/README.md) | [Hindi](../hi/README.md) | [Ungarisch](../hu/README.md) | [Indonesisch](../id/README.md) | [Italienisch](../it/README.md) | [Japanisch](../ja/README.md) | [Kannada](../kn/README.md) | [Koreanisch](../ko/README.md) | [Litauisch](../lt/README.md) | [Malaiisch](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalesisch](../ne/README.md) | [Nigerianisches Pidgin](../pcm/README.md) | [Norwegisch](../no/README.md) | [Persisch (Farsi)](../fa/README.md) | [Polnisch](../pl/README.md) | [Portugiesisch (Brasilien)](../br/README.md) | [Portugiesisch (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumänisch](../ro/README.md) | [Russisch](../ru/README.md) | [Serbisch (Kyrillisch)](../sr/README.md) | [Slowakisch](../sk/README.md) | [Slowenisch](../sl/README.md) | [Spanisch](../es/README.md) | [Swahili](../sw/README.md) | [Schwedisch](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thailändisch](../th/README.md) | [Türkisch](../tr/README.md) | [Ukrainisch](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamesisch](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ## Ein Kurs, der Ihnen die Grundlagen des Entwicklungszyklus von KI-Agenten vermittelt
 
 [![GitHub-Lizenz](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub-Beitragende](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub-Mitwirkende](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
 [![GitHub-Issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
 [![GitHub-Pull-Requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
 [![PRs Willkommen](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
@@ -25,17 +33,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 Dieser Kurs enthält Lektionen, die die Grundlagen des Aufbaus und der Bereitstellung von KI-Agenten abdecken.
 
-Jede Lektion baut auf der vorherigen auf, daher empfehlen wir, von Anfang an zu beginnen und sich bis zum Ende durchzuarbeiten.
+Jede Lektion baut auf der vorherigen auf, daher empfehlen wir, am Anfang zu beginnen und sich bis zum Ende durchzuarbeiten.
 
 Wenn Sie mehr über KI-Agenten-Themen erfahren möchten, können Sie den [KI-Agenten für Anfänger Kurs](https://aka.ms/ai-agents-beginners) besuchen.
 
 ### Treffen Sie andere Lernende, erhalten Sie Antworten auf Ihre Fragen
 
-Wenn Sie stecken bleiben oder Fragen zum Aufbau von KI-Agenten haben, treten Sie unserem dedizierten Discord-Kanal im [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) bei.
+Wenn Sie nicht weiterkommen oder Fragen zum Aufbau von KI-Agenten haben, treten Sie unserem speziellen Discord-Kanal im [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) bei.
 
 ### Was Sie benötigen
 
-Jede Lektion hat ein eigenes Codebeispiel, das Sie lokal ausführen können. Sie können dieses Repository [forken](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), um Ihre eigene Kopie zu erstellen.
+Jede Lektion hat ein eigenes Codebeispiel, das Sie lokal ausführen können. Sie können dieses Repo [forken](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), um Ihre eigene Kopie zu erstellen.
 
 Dieser Kurs verwendet derzeit Folgendes:
 
@@ -44,9 +52,9 @@ Dieser Kurs verwendet derzeit Folgendes:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Bitte stellen Sie sicher, dass Sie vor Beginn Zugriff auf diese Dienste haben.
+Bitte stellen Sie sicher, dass Sie Zugriff auf diese Dienste haben, bevor Sie beginnen.
 
-Weitere Optionen rund um Modell-Hosting und Dienste folgen in Kürze.
+Weitere Optionen für Modellhosting und Dienste folgen in Kürze.
 
 ## 🗃️ Lektionen
 
@@ -54,18 +62,18 @@ Weitere Optionen rund um Modell-Hosting und Dienste folgen in Kürze.
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | Eine Einführung in unseren "Developer Onboarding" Agenten-Anwendungsfall und wie man effektive Agenten entwirft  |
 | [Agent Development](./lesson-2-agent-development/README.md)  | Mit dem Microsoft Agent Framework (MAF) erstellen Sie 3 Agenten, die neuen Entwicklern beim Onboarding helfen.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Mit Microsoft Foundry erfahren Sie, wie gut unsere KI-Agenten funktionieren und wie man sie verbessert. |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Mit Microsoft Foundry erfahren Sie, wie gut unsere KI-Agenten arbeiten und wie man sie verbessert. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Mit den gehosteten Agenten und OpenAI Chatkit sehen Sie, wie man einen KI-Agenten in der Produktion bereitstellt.       |
 
 ## Mitwirken
 
 Dieses Projekt freut sich über Beiträge und Vorschläge. Die meisten Beiträge erfordern, dass Sie einer
-Contributor License Agreement (CLA) zustimmen, die erklärt, dass Sie das Recht haben und tatsächlich die Rechte einräumen,
-uns Ihre Beiträge zu nutzen. Für Details besuchen Sie <https://cla.opensource.microsoft.com>.
+Contributor License Agreement (CLA) zustimmen, die erklärt, dass Sie das Recht haben und tatsächlich
+uns die Rechte zur Nutzung Ihres Beitrags gewähren. Für Details besuchen Sie <https://cla.opensource.microsoft.com>.
 
 Wenn Sie eine Pull-Anfrage einreichen, bestimmt ein CLA-Bot automatisch, ob Sie eine CLA bereitstellen müssen
 und kennzeichnet die PR entsprechend (z. B. Statusprüfung, Kommentar). Folgen Sie einfach den Anweisungen
-des Bots. Dies müssen Sie nur einmal für alle Repositories tun, die unsere CLA verwenden.
+des Bots. Dies müssen Sie nur einmal für alle Repos mit unserer CLA tun.
 
 Dieses Projekt hat den [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) übernommen.
 Weitere Informationen finden Sie in den [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) oder
@@ -73,14 +81,15 @@ kontaktieren Sie [opencode@microsoft.com](mailto:opencode@microsoft.com) bei wei
 
 ## Marken
 
-Dieses Projekt kann Marken oder Logos für Projekte, Produkte oder Dienstleistungen enthalten. Die autorisierte Nutzung von Microsoft-
-Marken oder Logos unterliegt den [Microsoft Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Dieses Projekt kann Marken oder Logos für Projekte, Produkte oder Dienstleistungen enthalten. Die autorisierte Nutzung von Microsoft
+Marken oder Logos unterliegt und muss den
+[Microsoft Marken- & Markenrichtlinien](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) folgen.
 Die Verwendung von Microsoft-Marken oder Logos in modifizierten Versionen dieses Projekts darf keine Verwirrung stiften oder eine Microsoft-Unterstützung implizieren.
 Jegliche Nutzung von Marken oder Logos Dritter unterliegt den Richtlinien dieser Dritten.
 
 ## Hilfe erhalten
 
-Wenn Sie stecken bleiben oder Fragen zum Erstellen von KI-Anwendungen haben, treten Sie bei:
+Wenn Sie nicht weiterkommen oder Fragen zum Erstellen von KI-Anwendungen haben, treten Sie bei:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 

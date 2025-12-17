@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "2799ceaaefbd8571688459ac03eac5aa",
-  "translation_date": "2025-12-12T17:12:20+00:00",
+  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
+  "translation_date": "2025-12-15T14:39:05+00:00",
   "source_file": "README.md",
   "language_code": "uk"
 }
@@ -11,12 +11,20 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![Створення AI агентів від нуля до виробництва](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.uk.png)
 
-## Курс, який навчає основам життєвого циклу розробки AI агентів
+### 🌐 Підтримка кількох мов
 
-[![Ліцензія GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![Співавтори GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![Проблеми GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![Запити на злиття GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+#### Підтримується через GitHub Action (автоматично та завжди актуально)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](./README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+## Курс, що навчає основам життєвого циклу розробки AI агентів
+
+[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
@@ -51,31 +59,31 @@ CO_OP_TRANSLATOR_METADATA:
 ## 🗃️ Уроки
 
 | **Урок**           | **Опис**                                                                                         |
-|--------------------|-------------------------------------------------------------------------------------------------|
-| [Agent Design](./lesson-1-agent-design/README.md)       | Вступ до нашого кейсу використання "Developer Onboarding" агента та як проектувати ефективних агентів  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Використовуючи Microsoft Agent Framework (MAF), створіть 3 агентів, щоб допомогти новим розробникам адаптуватися.       |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| [Agent Design](./lesson-1-agent-design/README.md)       | Вступ до нашого кейсу використання "Ознайомлення розробника" та як проектувати ефективних агентів  |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Використовуючи Microsoft Agent Framework (MAF), створіть 3 агентів, щоб допомогти новим розробникам ознайомитися.       |
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Використовуючи Microsoft Foundry, дізнайтеся, наскільки добре працюють наші AI агенти і як їх покращити. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Використовуючи Hosted Agents та OpenAI Chatkit, дізнайтеся, як розгорнути AI агента у виробництво.       |
 
 ## Внесок у проект
 
-Цей проект вітає внески та пропозиції. Більшість внесків вимагають, щоб ви погодилися з
+Цей проєкт вітає внески та пропозиції. Більшість внесків вимагають, щоб ви погодилися з
 Угодою про ліцензію для контрибуторів (CLA), яка підтверджує, що ви маєте право і фактично надаєте нам
 права на використання вашого внеску. Деталі дивіться на <https://cla.opensource.microsoft.com>.
 
-Коли ви подаєте запит на злиття, бот CLA автоматично визначить, чи потрібно вам надати
+Коли ви подаєте pull request, бот CLA автоматично визначить, чи потрібно вам надати
 CLA і відповідно позначить PR (наприклад, перевірка статусу, коментар). Просто дотримуйтесь інструкцій,
-які надає бот. Вам потрібно буде зробити це лише один раз для всіх репозиторіїв, що використовують наш CLA.
+наданих ботом. Вам потрібно буде зробити це лише один раз для всіх репозиторіїв, що використовують нашу CLA.
 
-Цей проект прийняв [Кодекс поведінки Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
+Цей проєкт прийняв [Кодекс поведінки Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
 Для отримання додаткової інформації дивіться [FAQ Кодексу поведінки](https://opensource.microsoft.com/codeofconduct/faq/) або
 зв’яжіться з [opencode@microsoft.com](mailto:opencode@microsoft.com) з будь-якими додатковими питаннями чи коментарями.
 
 ## Торгові марки
 
-Цей проект може містити торгові марки або логотипи проектів, продуктів чи сервісів. Авторизоване використання торгових марок або логотипів Microsoft підпорядковується і має відповідати
+Цей проєкт може містити торгові марки або логотипи проєктів, продуктів чи сервісів. Авторизоване використання торгових марок або логотипів Microsoft підпорядковується і має відповідати
 [Правилам використання торгових марок та брендів Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Використання торгових марок або логотипів Microsoft у змінених версіях цього проекту не повинно викликати плутанину або припускати спонсорство Microsoft.
+Використання торгових марок або логотипів Microsoft у змінених версіях цього проєкту не повинно викликати плутанину або припускати спонсорство Microsoft.
 Будь-яке використання торгових марок або логотипів третіх сторін підпорядковується політикам цих третіх сторін.
 
 ## Отримання допомоги
@@ -91,6 +99,6 @@ CLA і відповідно позначить PR (наприклад, пере�
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Відмова від відповідальності**:
+**Відмова від відповідальності**:  
 Цей документ було перекладено за допомогою сервісу автоматичного перекладу [Co-op Translator](https://github.com/Azure/co-op-translator). Хоча ми прагнемо до точності, будь ласка, майте на увазі, що автоматичні переклади можуть містити помилки або неточності. Оригінальний документ рідною мовою слід вважати авторитетним джерелом. Для критично важливої інформації рекомендується звертатися до професійного людського перекладу. Ми не несемо відповідальності за будь-які непорозуміння або неправильні тлумачення, що виникли внаслідок використання цього перекладу.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
