@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:15:30+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:36:53+00:00",
   "source_file": "README.md",
   "language_code": "bn"
 }
@@ -19,7 +19,7 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](./README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## AI এজেন্ট ডেভেলপমেন্ট লাইফসাইকেলের মৌলিক বিষয় শেখার একটি কোর্স
+## AI এজেন্ট ডেভেলপমেন্ট লাইফসাইকেলের মৌলিক বিষয় শেখানোর একটি কোর্স
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -43,7 +43,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### আপনার যা প্রয়োজন
 
-প্রতিটি পাঠের নিজস্ব কোড স্যাম্পল রয়েছে যা আপনি লোকালি চালাতে পারেন। আপনি [এই রিপোটি fork করতে পারেন](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) আপনার নিজের কপি তৈরি করার জন্য।
+প্রতিটি পাঠের নিজস্ব কোড স্যাম্পল রয়েছে যা আপনি লোকালি চালাতে পারেন। আপনি [এই রিপোটি fork করতে পারেন](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) আপনার নিজস্ব কপি তৈরি করার জন্য।
 
 এই কোর্স বর্তমানে নিম্নলিখিতগুলি ব্যবহার করে:
 
@@ -62,16 +62,16 @@ CO_OP_TRANSLATOR_METADATA:
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | আমাদের "ডেভেলপার অনবোর্ডিং" এজেন্ট ইউজ কেসের পরিচিতি এবং কার্যকর এজেন্ট ডিজাইন করার পদ্ধতি  |
 | [Agent Development](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) ব্যবহার করে নতুন ডেভেলপারদের সাহায্যের জন্য ৩টি এজেন্ট তৈরি করা।       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundry ব্যবহার করে আমাদের AI এজেন্টগুলি কতটা কার্যকর তা নির্ণয় এবং উন্নত করার উপায়। |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundry ব্যবহার করে আমাদের AI এজেন্টগুলি কতটা কার্যকর তা নির্ণয় এবং উন্নতি করার উপায়। |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Hosted Agents এবং OpenAI Chatkit ব্যবহার করে AI এজেন্টকে প্রোডাকশনে ডিপ্লয় করার পদ্ধতি।       |
 
 ## অবদান রাখা
 
-এই প্রকল্পে অবদান এবং পরামর্শ স্বাগত। বেশিরভাগ অবদানের জন্য আপনাকে একটি Contributor License Agreement (CLA) এ সম্মত হতে হবে যা ঘোষণা করে যে আপনি আপনার অবদান ব্যবহারের অধিকার রাখেন এবং তা আমাদের প্রদান করছেন। বিস্তারিত জানতে <https://cla.opensource.microsoft.com> দেখুন।
+এই প্রকল্প অবদান এবং পরামর্শ স্বাগত জানায়। বেশিরভাগ অবদানের জন্য আপনাকে একটি Contributor License Agreement (CLA) এ সম্মত হতে হবে যা ঘোষণা করে যে আপনার অবদান ব্যবহারের জন্য আমাদের অধিকার দেওয়ার অধিকার এবং বাস্তবিক ক্ষমতা রয়েছে। বিস্তারিত জানতে <https://cla.opensource.microsoft.com> দেখুন।
 
-যখন আপনি একটি pull request জমা দেবেন, CLA বট স্বয়ংক্রিয়ভাবে নির্ধারণ করবে আপনি CLA প্রদান করতে হবে কিনা এবং PR-কে উপযুক্তভাবে চিহ্নিত করবে (যেমন, স্ট্যাটাস চেক, মন্তব্য)। বটের নির্দেশনা অনুসরণ করুন। আমাদের CLA ব্যবহার করা সমস্ত রিপোতে আপনাকে এটি একবারই করতে হবে।
+যখন আপনি একটি pull request জমা দেবেন, একটি CLA বট স্বয়ংক্রিয়ভাবে নির্ধারণ করবে আপনি CLA প্রদান করতে হবে কিনা এবং PR যথাযথভাবে সাজাবে (যেমন, স্ট্যাটাস চেক, মন্তব্য)। বটের নির্দেশনা অনুসরণ করুন। আমাদের CLA ব্যবহার করা সমস্ত রিপোতে আপনাকে এটি একবারই করতে হবে।
 
-এই প্রকল্পে [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) গ্রহণ করা হয়েছে। আরও তথ্যের জন্য [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) দেখুন অথবা [opencode@microsoft.com](mailto:opencode@microsoft.com) এ যোগাযোগ করুন।
+এই প্রকল্প [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) গ্রহণ করেছে। আরও তথ্যের জন্য [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) দেখুন অথবা [opencode@microsoft.com](mailto:opencode@microsoft.com) এ যোগাযোগ করুন।
 
 ## ট্রেডমার্ক
 
@@ -83,7 +83,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-যদি আপনার পণ্য সম্পর্কিত প্রতিক্রিয়া বা ত্রুটি থাকে, দেখুন:
+যদি আপনার পণ্য প্রতিক্রিয়া বা ত্রুটি থাকে, দেখুন:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:42:18+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T12:01:57+00:00",
   "source_file": "README.md",
   "language_code": "pcm"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Dis course get lessons wey dey cover di fundamentals of building and deploying AI Agents.
 
-Each lesson dey build on top di one wey come before am, so we recommend say make you start from di beginning and waka your way go reach di end.
+Each lesson dey build on top di one wey come before am, so we recommend sey make you start from di beginning and waka your way go di end.
 
 If you want explore more about AI Agent topics, you fit check di [AI Agents For Beginenrs Course](https://aka.ms/ai-agents-beginners).
 
@@ -52,7 +52,7 @@ Dis course dey use dis ones now:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Make sure say you get access to these services before you start.
+Make sure sey you get access to these services before you start.
 
 More options about model hosting and services go show soon.
 
@@ -67,11 +67,11 @@ More options about model hosting and services go show soon.
 
 ## Contributing
 
-Dis project dey welcome contributions and suggestions. Most contributions need say you agree to a
-Contributor License Agreement (CLA) wey talk say you get di right, and you really dey give us
+Dis project dey welcome contributions and suggestions. Most contributions need sey you agree to a
+Contributor License Agreement (CLA) wey talk sey you get di right, and you really dey give us
 di rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
-When you submit pull request, CLA bot go automatically check whether you need to provide
+When you submit pull request, CLA bot go automatically check if you need provide
 CLA and go put di correct decoration for di PR (like status check, comment). Just follow di instructions
 wey di bot give you. You go only need do am once for all repos wey dey use our CLA.
 
@@ -84,16 +84,16 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) if you get any m
 Dis project fit get trademarks or logos for projects, products, or services. Authorized use of Microsoft
 trademarks or logos dey subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos for modified versions of dis project no suppose cause confusion or make people think say Microsoft dey sponsor am.
+Use of Microsoft trademarks or logos for modified versions of dis project no suppose cause confusion or make people think sey Microsoft dey sponsor am.
 Any use of third-party trademarks or logos dey subject to those third-parties' policies.
 
 ## Getting Help
 
-If you jam wahala or get any question about building AI apps, join:
+If you jam wahala or get any questions about building AI apps, join:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-If you get product feedback or errors while you dey build, visit:
+If you get product feedback or errors while building, visit:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -101,5 +101,5 @@ If you get product feedback or errors while you dey build, visit:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Disclaimer**:
-Dis document don translate wit AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translation fit get some errors or mistakes. Di original document wey dey im own language na di correct one. If na serious matter, e better make human professional translate am. We no go responsible for any misunderstanding or wrong meaning wey fit come from dis translation.
+Dis document don translate wit AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translation fit get some mistakes or wrong parts. Di original document wey dey im own language na di correct one. If na serious matter, e better make human professional translate am. We no go responsible for any misunderstanding or wrong meaning wey fit come from dis translation.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

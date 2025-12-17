@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:33:17+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:53:53+00:00",
   "source_file": "README.md",
   "language_code": "sk"
 }
@@ -33,17 +33,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 Tento kurz obsahuje lekcie pokrývajúce základy budovania a nasadzovania AI agentov.
 
-Každá lekcia nadväzuje na predchádzajúcu, preto odporúčame začať od začiatku a postupne prejsť až na koniec.
+Každá lekcia nadväzuje na predchádzajúcu, preto odporúčame začať od začiatku a postupovať až do konca.
 
 Ak chcete preskúmať viac tém o AI agentoch, môžete si pozrieť [Kurz AI agentov pre začiatočníkov](https://aka.ms/ai-agents-beginners).
 
-### Spoznajte ďalších študentov, získajte odpovede na svoje otázky
+### Spoznajte ostatných študentov, získajte odpovede na svoje otázky
 
-Ak sa zaseknete alebo máte otázky ohľadom budovania AI agentov, pripojte sa k nášmu špecializovanému Discord kanálu v [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Ak sa zaseknete alebo máte otázky o budovaní AI agentov, pripojte sa k nášmu vyhradenému Discord kanálu v [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Čo potrebujete
 
-Každá lekcia má vlastný ukážkový kód, ktorý môžete spustiť lokálne. Môžete si [forknúť tento repozitár](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) a vytvoriť si tak vlastnú kópiu.
+Každá lekcia má svoj vlastný ukážkový kód, ktorý môžete spustiť lokálne. Môžete si [forknúť tento repozitár](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) a vytvoriť si tak vlastnú kópiu.
 
 Tento kurz momentálne používa:
 
@@ -60,8 +60,8 @@ Pred začatím sa uistite, že máte prístup k týmto službám.
 
 | **Lekcia**         | **Popis**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------|
-| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do nášho prípadu použitia "Developer Onboarding" a ako navrhovať efektívnych agentov  |
-| [Vývoj agenta](./lesson-2-agent-development/README.md)  | Pomocou Microsoft Agent Framework (MAF) vytvorte 3 agentov, ktorí pomôžu novým vývojárom pri onboardingu.       |
+| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do nášho prípadu použitia "Developer Onboarding" agenta a ako navrhovať efektívnych agentov  |
+| [Vývoj agenta](./lesson-2-agent-development/README.md)  | Pomocou Microsoft Agent Framework (MAF) vytvorte 3 agentov, ktorí pomôžu novým vývojárom s onboardovaním.       |
 | [Hodnotenie agentov](./lesson-3-agent-evals/README.md)  | Pomocou Microsoft Foundry zistite, ako dobre naše AI agenti fungujú a ako ich zlepšiť. |
 | [Nasadenie agenta](./lesson-4-agent-deployment/README.md)   | Pomocou Hosted Agents a OpenAI Chatkit si pozrite, ako nasadiť AI agenta do produkcie.       |
 
@@ -88,11 +88,11 @@ Akékoľvek použitie ochranných známok alebo log tretích strán podlieha pra
 
 ## Získanie pomoci
 
-Ak sa zaseknete alebo máte otázky ohľadom budovania AI aplikácií, pripojte sa:
+Ak sa zaseknete alebo máte otázky o budovaní AI aplikácií, pripojte sa:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Ak máte spätnú väzbu k produktu alebo chyby počas vývoja, navštívte:
+Ak máte spätnú väzbu k produktu alebo chyby pri budovaní, navštívte:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

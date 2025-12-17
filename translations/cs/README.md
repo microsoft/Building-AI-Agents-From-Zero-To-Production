@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:32:50+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:53:24+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
@@ -31,13 +31,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Začínáme
 
-Tento kurz obsahuje lekce pokrývající základy vytváření a nasazení AI agentů.
+Tento kurz obsahuje lekce pokrývající základy vytváření a nasazování AI agentů.
 
 Každá lekce navazuje na předchozí, proto doporučujeme začít od začátku a postupovat až do konce.
 
 Pokud chcete prozkoumat více témat o AI agentech, můžete se podívat na [Kurz AI agentů pro začátečníky](https://aka.ms/ai-agents-beginners).
 
-### Poznejte ostatní studenty, získejte odpovědi na své otázky
+### Seznamte se s ostatními studenty, získejte odpovědi na své otázky
 
 Pokud narazíte na problém nebo máte otázky ohledně vytváření AI agentů, připojte se k našemu specializovanému Discord kanálu v [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -45,7 +45,7 @@ Pokud narazíte na problém nebo máte otázky ohledně vytváření AI agentů,
 
 Každá lekce má svůj vlastní ukázkový kód, který můžete spustit lokálně. Můžete si [forknout tento repozitář](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) a vytvořit si tak vlastní kopii.
 
-Tento kurz aktuálně využívá následující:
+Tento kurz aktuálně používá následující:
 
 - [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
 - [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
@@ -62,7 +62,7 @@ Brzy přibudou další možnosti ohledně hostování modelů a služeb.
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do našeho případu použití "Onboarding vývojáře" a jak navrhnout efektivní agenty  |
 | [Vývoj agenta](./lesson-2-agent-development/README.md)  | Pomocí Microsoft Agent Framework (MAF) vytvořte 3 agenty, kteří pomohou novým vývojářům s onboardováním.       |
-| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak si naši AI agenti vedou a jak je zlepšit. |
+| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak dobře naši AI agenti fungují a jak je zlepšit. |
 | [Nasazení agenta](./lesson-4-agent-deployment/README.md)   | Pomocí Hosted Agents a OpenAI Chatkit zjistěte, jak nasadit AI agenta do produkce.       |
 
 ## Přispívání
@@ -100,5 +100,5 @@ Pokud máte zpětnou vazbu k produktu nebo chyby při vývoji, navštivte:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Prohlášení o vyloučení odpovědnosti**:  
-Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatické překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
+Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatizované překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

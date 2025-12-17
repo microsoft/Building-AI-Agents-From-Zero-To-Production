@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:18:20+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:39:47+00:00",
   "source_file": "README.md",
   "language_code": "pt"
 }
@@ -43,7 +43,7 @@ Se ficar bloqueado ou tiver alguma dúvida sobre a construção de Agentes de IA
 
 ### O Que Precisa
 
-Cada lição tem o seu próprio exemplo de código que pode executar localmente. Pode [forkar este repositório](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) para criar a sua própria cópia.
+Cada lição tem o seu próprio exemplo de código que pode executar localmente. Pode [fazer fork deste repositório](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) para criar a sua própria cópia.
 
 Este curso utiliza atualmente o seguinte:
 
@@ -71,8 +71,8 @@ Este projeto aceita contribuições e sugestões. A maioria das contribuições 
 Acordo de Licença de Contribuidor (CLA) declarando que tem o direito, e de facto concede, os direitos para usarmos a sua contribuição. Para detalhes, visite <https://cla.opensource.microsoft.com>.
 
 Quando submeter um pull request, um bot CLA determinará automaticamente se precisa fornecer
-um CLA e decorará o PR adequadamente (ex.: verificação de estado, comentário). Basta seguir as instruções
-fornecidas pelo bot. Só precisará de fazer isto uma vez em todos os repositórios que usam o nosso CLA.
+um CLA e decorará o PR adequadamente (por exemplo, verificação de estado, comentário). Basta seguir as instruções
+fornecidas pelo bot. Só precisará fazer isto uma vez em todos os repositórios que usam o nosso CLA.
 
 Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).
 Para mais informações veja as [FAQ do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
@@ -81,7 +81,7 @@ contacte [opencode@microsoft.com](mailto:opencode@microsoft.com) para quaisquer 
 ## Marcas Comerciais
 
 Este projeto pode conter marcas comerciais ou logótipos de projetos, produtos ou serviços. O uso autorizado das marcas comerciais ou logótipos da Microsoft está sujeito e deve seguir
-as [Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 O uso de marcas comerciais ou logótipos da Microsoft em versões modificadas deste projeto não deve causar confusão nem implicar patrocínio da Microsoft.
 Qualquer uso de marcas comerciais ou logótipos de terceiros está sujeito às políticas desses terceiros.
 

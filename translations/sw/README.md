@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:31:24+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:52:06+00:00",
   "source_file": "README.md",
   "language_code": "sw"
 }
 -->
-# Kujenga Wakala wa AI Kutoka Mwanzo hadi Uzalishaji
+# Kujenga Wakala wa AI Kutoka Mwanzo Hadi Uzalishaji
 
-![Kujenga Wakala wa AI Kutoka Mwanzo hadi Uzalishaji](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.sw.png)
+![Kujenga Wakala wa AI Kutoka Mwanzo Hadi Uzalishaji](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.sw.png)
 
 ### 🌐 Msaada wa Lugha Nyingi
 
@@ -24,7 +24,7 @@ CO_OP_TRANSLATOR_METADATA:
 [![Leseni ya GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![Wachangiaji wa GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
 [![Masuala ya GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![Maombi ya kuvuta GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![Maombi ya kuvuta ya GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
 [![Karibu PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
@@ -35,7 +35,7 @@ Kozi hii ina masomo yanayofunika misingi ya kujenga na kupeleka Wakala wa AI.
 
 Kila somo linaendelea na lile lililotangulia, kwa hivyo tunapendekeza kuanza kutoka mwanzo na kufuata hadi mwisho.
 
-Ikiwa unataka kuchunguza zaidi kuhusu mada za Wakala wa AI, unaweza kuangalia [Kozi ya Wakala wa AI kwa Waanzilishi](https://aka.ms/ai-agents-beginners).
+Ikiwa unataka kuchunguza zaidi kuhusu mada za Wakala wa AI, unaweza kutembelea [Kozi ya Wakala wa AI kwa Waanzilishi](https://aka.ms/ai-agents-beginners).
 
 ### Kutana na Wanafunzi Wengine, Pata Majibu ya Maswali Yako
 
@@ -43,7 +43,7 @@ Ikiwa unakumbwa na shida au una maswali yoyote kuhusu kujenga Wakala wa AI, jiun
 
 ### Unachohitaji
 
-Kila Somo lina sampuli yake ya msimbo ambayo unaweza kuendesha kwa ndani. Unaweza [kuforka repo hii](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) kuunda nakala yako mwenyewe.
+Kila Somo lina sampuli yake ya msimbo ambayo unaweza kuendesha kwa ndani. Unaweza [kufork hii repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) kuunda nakala yako mwenyewe.
 
 Kozi hii kwa sasa inatumia yafuatayo:
 
@@ -60,29 +60,28 @@ Chaguzi zaidi kuhusu mwenyeji wa modeli na huduma zitakuja hivi karibuni.
 
 | **Somo**           | **Maelezo**                                                                                     |
 |--------------------|------------------------------------------------------------------------------------------------|
-| [Ubunifu wa Wakala](./lesson-1-agent-design/README.md)       | Utangulizi wa "Kuanzisha Mwanaendelezaji" kwa Wakala na jinsi ya kubuni wakala bora            |
+| [Ubunifu wa Wakala](./lesson-1-agent-design/README.md)       | Utangulizi wa "Kesi ya Matumizi ya Kuanzisha Mwanaendelezaji" na jinsi ya kubuni wakala bora  |
 | [Maendeleo ya Wakala](./lesson-2-agent-development/README.md)  | Kutumia Microsoft Agent Framework (MAF), tengeneza wakala 3 kusaidia waendelezaji wapya kuanza. |
-| [Tathmini za Wakala](./lesson-3-agent-evals/README.md)  | Kutumia Microsoft Foundry, pata jinsi Wakala wetu wa AI wanavyofanya kazi na jinsi ya kuboresha. |
-| [Uwekaji Wakala](./lesson-4-agent-deployment/README.md)   | Kutumia Wakala Waliohifadhiwa na OpenAI Chatkit, ona jinsi ya kuweka Wakala wa AI uzalishaji.  |
+| [Tathmini za Wakala](./lesson-3-agent-evals/README.md)  | Kutumia Microsoft Foundry, gundua jinsi Wakala wetu wa AI wanavyofanya kazi na jinsi ya kuboresha. |
+| [Uwekaji Wakala](./lesson-4-agent-deployment/README.md)   | Kutumia Wakala Waliohifadhiwa na OpenAI Chatkit, ona jinsi ya kuweka Wakala wa AI uzalishaji.   |
 
 ## Kuchangia
 
 Mradi huu unakaribisha michango na mapendekezo. Michango mingi inahitaji kukubaliana na
-Makubaliano ya Leseni ya Mchango (CLA) yanayosema kuwa una haki ya, na kwa kweli unatoa,
+Mkataba wa Leseni ya Mchango (CLA) unaosema kuwa una haki, na kwa kweli unatoa,
 haki za kutumia mchango wako. Kwa maelezo, tembelea <https://cla.opensource.microsoft.com>.
 
 Unapowasilisha ombi la kuvuta, bot wa CLA atabaini moja kwa moja kama unahitaji kutoa
 CLA na kupamba PR ipasavyo (mfano, ukaguzi wa hali, maoni). Fuata tu maelekezo
 yanayotolewa na bot. Hii itahitajika mara moja tu kwa repos zote zinazotumia CLA yetu.
 
-Mradi huu umechukua [Kanuni ya Maadili ya Chanzo Huria ya Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Kwa maelezo zaidi angalia [Maswali Yanayoulizwa Mara kwa Mara kuhusu Kanuni ya Maadili](https://opensource.microsoft.com/codeofconduct/faq/) au
+Mradi huu umechukua [Kanuni za Maadili za Chanzo Huria za Microsoft](https://opensource.microsoft.com/codeofconduct/).
+Kwa maelezo zaidi angalia [Maswali ya Kanuni za Maadili](https://opensource.microsoft.com/codeofconduct/faq/) au
 wasiliana na [opencode@microsoft.com](mailto:opencode@microsoft.com) kwa maswali au maoni zaidi.
 
 ## Alama za Biashara
 
-Mradi huu unaweza kuwa na alama za biashara au nembo za miradi, bidhaa, au huduma. Matumizi ya idhini ya alama za biashara au nembo za Microsoft
-yanategemea na lazima yafuatilie
+Mradi huu unaweza kuwa na alama za biashara au nembo za miradi, bidhaa, au huduma. Matumizi ya alama za biashara au nembo za Microsoft yanaruhusiwa na lazima yafuatilie
 [Mwongozo wa Alama za Biashara & Brand wa Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Matumizi ya alama za biashara au nembo za Microsoft katika matoleo yaliyobadilishwa ya mradi huu hayapaswi kusababisha mkanganyiko au kuashiria udhamini wa Microsoft.
 Matumizi yoyote ya alama za biashara au nembo za wahusika wengine yanategemea sera za wahusika hao.
@@ -100,6 +99,6 @@ Ikiwa una maoni kuhusu bidhaa au makosa wakati wa kujenga tembelea:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Kiarifu cha Kutotegemea**:
-Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kwa usahihi, tafadhali fahamu kwamba tafsiri za kiotomatiki zinaweza kuwa na makosa au upungufu wa usahihi. Hati ya asili katika lugha yake ya asili inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, tafsiri ya kitaalamu ya binadamu inapendekezwa. Hatuna dhamana kwa kutoelewana au tafsiri potofu zinazotokana na matumizi ya tafsiri hii.
+**Kiarifa cha Kukataa**:
+Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kwa usahihi, tafadhali fahamu kuwa tafsiri za kiotomatiki zinaweza kuwa na makosa au upungufu wa usahihi. Hati ya asili katika lugha yake ya asili inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, tafsiri ya kitaalamu ya binadamu inapendekezwa. Hatubebei dhamana kwa kutoelewana au tafsiri potofu zinazotokana na matumizi ya tafsiri hii.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

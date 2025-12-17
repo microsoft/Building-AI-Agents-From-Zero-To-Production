@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:24:01+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:45:10+00:00",
   "source_file": "README.md",
   "language_code": "sv"
 }
@@ -68,11 +68,11 @@ Fler alternativ kring modellhosting och tjänster kommer snart.
 ## Bidra
 
 Detta projekt välkomnar bidrag och förslag. De flesta bidrag kräver att du godkänner ett
-Contributor License Agreement (CLA) som intygar att du har rätt att, och faktiskt gör, ge oss
+Contributor License Agreement (CLA) som intygar att du har rätt att, och faktiskt gör det, ge oss
 rättigheterna att använda ditt bidrag. För detaljer, besök <https://cla.opensource.microsoft.com>.
 
-När du skickar en pull request kommer en CLA-bot automatiskt avgöra om du behöver tillhandahålla
-en CLA och märka PR lämpligt (t.ex. statuskontroll, kommentar). Följ helt enkelt instruktionerna
+När du skickar in en pull request kommer en CLA-bot automatiskt att avgöra om du behöver tillhandahålla
+en CLA och märka PR lämpligt (t.ex. statuskontroll, kommentar). Följ bara instruktionerna
 från boten. Du behöver bara göra detta en gång för alla repos som använder vår CLA.
 
 Detta projekt har antagit [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).

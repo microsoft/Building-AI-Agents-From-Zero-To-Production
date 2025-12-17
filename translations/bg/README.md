@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:34:36+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:54:59+00:00",
   "source_file": "README.md",
   "language_code": "bg"
 }
@@ -11,20 +11,20 @@ CO_OP_TRANSLATOR_METADATA:
 
 ![Създаване на AI агенти от нулата до продукция](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.bg.png)
 
-### 🌐 Многоезична поддръжка
+### 🌐 Поддръжка на множество езици
 
 #### Поддържа се чрез GitHub Action (Автоматизирано и винаги актуално)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Арабски](../ar/README.md) | [Бенгалски](../bn/README.md) | [Български](./README.md) | [Бирмански (Мианмар)](../my/README.md) | [Китайски (опростен)](../zh/README.md) | [Китайски (традиционен, Хонконг)](../hk/README.md) | [Китайски (традиционен, Макао)](../mo/README.md) | [Китайски (традиционен, Тайван)](../tw/README.md) | [Хърватски](../hr/README.md) | [Чешки](../cs/README.md) | [Датски](../da/README.md) | [Холандски](../nl/README.md) | [Естонски](../et/README.md) | [Фински](../fi/README.md) | [Френски](../fr/README.md) | [Немски](../de/README.md) | [Гръцки](../el/README.md) | [Иврит](../he/README.md) | [Хинди](../hi/README.md) | [Унгарски](../hu/README.md) | [Индонезийски](../id/README.md) | [Италиански](../it/README.md) | [Японски](../ja/README.md) | [Каннада](../kn/README.md) | [Корейски](../ko/README.md) | [Литовски](../lt/README.md) | [Малайски](../ms/README.md) | [Малаялам](../ml/README.md) | [Маратхи](../mr/README.md) | [Непалски](../ne/README.md) | [Нигерийски пиджин](../pcm/README.md) | [Норвежки](../no/README.md) | [Персийски (фарси)](../fa/README.md) | [Полски](../pl/README.md) | [Португалски (Бразилия)](../br/README.md) | [Португалски (Португалия)](../pt/README.md) | [Пенджабски (Гурмукхи)](../pa/README.md) | [Румънски](../ro/README.md) | [Руски](../ru/README.md) | [Сръбски (кирилица)](../sr/README.md) | [Словашки](../sk/README.md) | [Словенски](../sl/README.md) | [Испански](../es/README.md) | [Суахили](../sw/README.md) | [Шведски](../sv/README.md) | [Тагалог (Филипински)](../tl/README.md) | [Тамилски](../ta/README.md) | [Телугу](../te/README.md) | [Тайски](../th/README.md) | [Турски](../tr/README.md) | [Украински](../uk/README.md) | [Урду](../ur/README.md) | [Виетнамски](../vi/README.md)
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](./README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Курс, който ви учи на основите на жизнения цикъл на разработка на AI агенти
 
-[![GitHub лиценз](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub сътрудници](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub проблеми](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub заявки за изтегляне](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
@@ -33,13 +33,13 @@ CO_OP_TRANSLATOR_METADATA:
 
 Този курс съдържа уроци, обхващащи основите на създаването и внедряването на AI агенти.
 
-Всеки урок надгражда върху предишния, затова препоръчваме да започнете от началото и да продължите до края.
+Всеки урок надгражда предишния, затова препоръчваме да започнете от началото и да продължите до края.
 
 Ако искате да изследвате повече теми за AI агенти, можете да разгледате [Курс за AI агенти за начинаещи](https://aka.ms/ai-agents-beginners).
 
 ### Срещнете други учащи, получете отговори на въпросите си
 
-Ако се затрудните или имате въпроси относно създаването на AI агенти, присъединете се към нашия специализиран Discord канал в [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Ако се затрудните или имате въпроси относно създаването на AI агенти, присъединете се към нашия специален Discord канал в [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Какво ви е необходимо
 
@@ -61,9 +61,9 @@ CO_OP_TRANSLATOR_METADATA:
 | **Урок**           | **Описание**                                                                                     |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | [Дизайн на агент](./lesson-1-agent-design/README.md)       | Въведение в нашия случай на използване "Въвеждане на разработчик" и как да проектираме ефективни агенти  |
-| [Разработка на агент](./lesson-2-agent-development/README.md)  | Използвайки Microsoft Agent Framework (MAF), създайте 3 агента, които да помагат на нови разработчици да се въведат.       |
-| [Оценки на агенти](./lesson-3-agent-evals/README.md)  | Използвайки Microsoft Foundry, разберете колко добре се представят нашите AI агенти и как да ги подобрите. |
-| [Внедряване на агент](./lesson-4-agent-deployment/README.md)   | Използвайки хостваните агенти и OpenAI Chatkit, вижте как да внедрите AI агент в продукция.       |
+| [Разработка на агент](./lesson-2-agent-development/README.md)  | Използвайки Microsoft Agent Framework (MAF), създайте 3 агента, които да помагат на нови разработчици.       |
+| [Оценки на агенти](./lesson-3-agent-evals/README.md)  | Използвайки Microsoft Foundry, разберете колко добре се представят нашите AI агенти и как да ги подобрим. |
+| [Внедряване на агент](./lesson-4-agent-deployment/README.md)   | Използвайки Hosted Agents и OpenAI Chatkit, вижте как да внедрите AI агент в продукция.       |
 
 ## Принос
 
@@ -71,12 +71,12 @@ CO_OP_TRANSLATOR_METADATA:
 Лицензионно споразумение за приносител (CLA), което декларира, че имате правото и наистина предоставяте
 правата ни да използваме вашия принос. За подробности посетете <https://cla.opensource.microsoft.com>.
 
-Когато изпратите заявка за изтегляне, бот за CLA автоматично ще определи дали трябва да предоставите
+Когато изпратите pull request, CLA бот автоматично ще определи дали трябва да предоставите
 CLA и ще маркира PR подходящо (например, проверка на статус, коментар). Просто следвайте инструкциите,
 предоставени от бота. Това трябва да направите само веднъж за всички хранилища, използващи нашия CLA.
 
-Този проект е приел [Кодекса за поведение на Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
-За повече информация вижте [Често задавани въпроси за Кодекса за поведение](https://opensource.microsoft.com/codeofconduct/faq/) или
+Този проект е приел [Кодекса на поведение на Microsoft Open Source](https://opensource.microsoft.com/codeofconduct/).
+За повече информация вижте [Често задавани въпроси за Кодекса на поведение](https://opensource.microsoft.com/codeofconduct/faq/) или
 се свържете с [opencode@microsoft.com](mailto:opencode@microsoft.com) при допълнителни въпроси или коментари.
 
 ## Търговски марки
@@ -99,6 +99,6 @@ CLA и ще маркира PR подходящо (например, провер
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Отказ от отговорност**:
+**Отказ от отговорност**:  
 Този документ е преведен с помощта на AI преводаческа услуга [Co-op Translator](https://github.com/Azure/co-op-translator). Въпреки че се стремим към точност, моля, имайте предвид, че автоматизираните преводи могат да съдържат грешки или неточности. Оригиналният документ на неговия роден език трябва да се счита за авторитетен източник. За критична информация се препоръчва професионален човешки превод. Ние не носим отговорност за каквито и да е недоразумения или неправилни тълкувания, произтичащи от използването на този превод.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

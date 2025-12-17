@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "f8ea8224e106540413202b4151bb2bcd",
-  "translation_date": "2025-12-15T14:21:45+00:00",
+  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
+  "translation_date": "2025-12-17T11:43:11+00:00",
   "source_file": "README.md",
   "language_code": "tr"
 }
@@ -35,17 +35,17 @@ Bu kurs, AI Ajanları oluşturma ve dağıtmanın temellerini kapsayan dersler i
 
 Her ders bir öncekine dayanır, bu yüzden baştan başlayıp sona kadar ilerlemenizi öneririz.
 
-AI Ajan konularını daha fazla keşfetmek isterseniz, [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) kursuna göz atabilirsiniz.
+AI Ajan konularını daha fazla keşfetmek isterseniz, [AI Agents For Beginners Kursu](https://aka.ms/ai-agents-beginners) sayfasını inceleyebilirsiniz.
 
 ### Diğer Öğrenenlerle Tanışın, Sorularınızı Yanıtlayın
 
-AI Ajanları oluştururken takılırsanız veya sorularınız olursa, [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) içindeki özel Discord Kanalımıza katılın.
+AI Ajanları oluştururken takılırsanız veya sorularınız olursa, [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) içindeki özel Discord Kanalımıza katılabilirsiniz.
 
 ### İhtiyacınız Olanlar
 
 Her dersin yerel olarak çalıştırabileceğiniz kendi kod örneği vardır. Kendi kopyanızı oluşturmak için [bu repoyu fork edebilirsiniz](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork).
 
-Bu kurs şu anda şunları kullanmaktadır:
+Bu kurs şu anda aşağıdakileri kullanmaktadır:
 
 - [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
 - [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
@@ -67,11 +67,11 @@ Model barındırma ve hizmetlerle ilgili daha fazla seçenek yakında geliyor.
 
 ## Katkıda Bulunma
 
-Bu proje katkılara ve önerilere açıktır. Çoğu katkı, katkınızı kullanma haklarını bize verdiğinizi ve gerçekten verdiğinizi beyan eden bir Katkı Lisans Anlaşması'na (CLA) katılmanızı gerektirir. Detaylar için <https://cla.opensource.microsoft.com> adresini ziyaret edin.
+Bu proje katkılara ve önerilere açıktır. Çoğu katkı, katkınızın kullanım haklarını bize verdiğinizi beyan eden bir Katkıda Bulunan Lisans Sözleşmesi'ni (CLA) kabul etmenizi gerektirir. Detaylar için <https://cla.opensource.microsoft.com> adresini ziyaret edin.
 
-Bir pull request gönderdiğinizde, bir CLA botu otomatik olarak CLA sağlamanız gerekip gerekmediğini belirler ve PR'ı uygun şekilde işaretler (örneğin, durum kontrolü, yorum). Botun verdiği talimatları izleyin. CLA'yı kullanan tüm repolar için bunu yalnızca bir kez yapmanız yeterlidir.
+Bir pull request gönderdiğinizde, bir CLA botu otomatik olarak CLA sağlamanız gerekip gerekmediğini belirler ve PR'ı uygun şekilde işaretler (örneğin, durum kontrolü, yorum). Botun verdiği talimatları izleyin. CLA işlemini, CLA kullanan tüm repolar için yalnızca bir kez yapmanız yeterlidir.
 
-Bu proje [Microsoft Açık Kaynak Davranış Kuralları](https://opensource.microsoft.com/codeofconduct/)nu benimsemiştir. Daha fazla bilgi için [Davranış Kuralları SSS](https://opensource.microsoft.com/codeofconduct/faq/) sayfasına bakabilir veya ek sorularınız veya yorumlarınız için [opencode@microsoft.com](mailto:opencode@microsoft.com) adresiyle iletişime geçebilirsiniz.
+Bu proje [Microsoft Açık Kaynak Davranış Kuralları](https://opensource.microsoft.com/codeofconduct/)nu benimsemiştir. Daha fazla bilgi için [Davranış Kuralları SSS](https://opensource.microsoft.com/codeofconduct/faq/) sayfasına bakabilir veya ek sorularınız için [opencode@microsoft.com](mailto:opencode@microsoft.com) adresiyle iletişime geçebilirsiniz.
 
 ## Ticari Markalar
 
@@ -91,5 +91,5 @@ AI uygulamaları oluştururken takılırsanız veya sorularınız olursa, katıl
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Feragatname**:  
-Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba gösterilse de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayınız. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çevirinin kullanımı sonucu oluşabilecek yanlış anlamalar veya yorum hatalarından sorumlu değiliz.
+Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba göstersek de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayınız. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çevirinin kullanımı sonucu oluşabilecek yanlış anlamalar veya yorum hatalarından sorumlu değiliz.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
