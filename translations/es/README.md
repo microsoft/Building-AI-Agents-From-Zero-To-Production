@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:28:32+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:36:02+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -31,17 +31,17 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Comenzando
 
-Este curso tiene lecciones que cubren los fundamentos de construir y desplegar Agentes de IA.
+Este curso tiene lecciones que cubren los fundamentos para construir y desplegar Agentes de IA.
 
 Cada lección se basa en la anterior, por lo que recomendamos comenzar desde el principio y avanzar hasta el final.
 
 Si quieres explorar más sobre temas de Agentes de IA, puedes consultar el [Curso de Agentes de IA para Principiantes](https://aka.ms/ai-agents-beginners).
 
-### Conoce a Otros Estudiantes, Obtén Respuestas a Tus Preguntas
+### Conoce a Otros Estudiantes, Resuelve tus Dudas
 
 Si te quedas atascado o tienes alguna pregunta sobre cómo construir Agentes de IA, únete a nuestro canal dedicado de Discord en el [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
-### Lo Que Necesitas
+### Lo que Necesitas
 
 Cada lección tiene su propio ejemplo de código que puedes ejecutar localmente. Puedes [hacer un fork de este repositorio](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) para crear tu propia copia.
 
@@ -81,9 +81,9 @@ contacta a [opencode@microsoft.com](mailto:opencode@microsoft.com) con cualquier
 
 ## Marcas Registradas
 
-Este proyecto puede contener marcas registradas o logotipos de proyectos, productos o servicios. El uso autorizado de marcas
+Este proyecto puede contener marcas registradas o logotipos de proyectos, productos o servicios. El uso autorizado de las marcas
 o logotipos de Microsoft está sujeto a y debe seguir
-[las Directrices de Marcas y Marca de Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[las Directrices de Marca y Uso de Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 El uso de marcas o logotipos de Microsoft en versiones modificadas de este proyecto no debe causar confusión ni implicar patrocinio de Microsoft.
 Cualquier uso de marcas o logotipos de terceros está sujeto a las políticas de esos terceros.
 

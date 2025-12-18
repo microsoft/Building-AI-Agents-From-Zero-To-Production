@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:50:06+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:00:17+00:00",
   "source_file": "README.md",
   "language_code": "id"
 }
@@ -33,9 +33,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 Kursus ini memiliki pelajaran yang mencakup dasar-dasar membangun dan menerapkan Agen AI.
 
-Setiap pelajaran membangun dari pelajaran sebelumnya, jadi kami menyarankan untuk memulai dari awal dan melanjutkan hingga akhir.
+Setiap pelajaran membangun dari yang sebelumnya, jadi kami menyarankan untuk memulai dari awal dan melanjutkan hingga akhir.
 
-Jika Anda ingin mengeksplorasi lebih banyak tentang topik Agen AI, Anda dapat melihat [Kursus Agen AI untuk Pemula](https://aka.ms/ai-agents-beginners).
+Jika Anda ingin mengeksplorasi lebih banyak tentang topik Agen AI, Anda dapat memeriksa [Kursus Agen AI untuk Pemula](https://aka.ms/ai-agents-beginners).
 
 ### Bertemu dengan Pelajar Lain, Dapatkan Jawaban atas Pertanyaan Anda
 
@@ -81,14 +81,14 @@ hubungi [opencode@microsoft.com](mailto:opencode@microsoft.com) untuk pertanyaan
 
 ## Merek Dagang
 
-Proyek ini mungkin berisi merek dagang atau logo untuk proyek, produk, atau layanan. Penggunaan merek dagang atau logo Microsoft yang sah tunduk pada dan harus mengikuti
+Proyek ini mungkin berisi merek dagang atau logo untuk proyek, produk, atau layanan. Penggunaan resmi merek dagang atau logo Microsoft tunduk pada dan harus mengikuti
 [Pedoman Merek Dagang & Merek Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Penggunaan merek dagang atau logo Microsoft dalam versi modifikasi dari proyek ini tidak boleh menyebabkan kebingungan atau menyiratkan sponsor Microsoft.
 Setiap penggunaan merek dagang atau logo pihak ketiga tunduk pada kebijakan pihak ketiga tersebut.
 
 ## Mendapatkan Bantuan
 
-Jika Anda mengalami kesulitan atau memiliki pertanyaan tentang membangun aplikasi AI, bergabunglah dengan:
+Jika Anda mengalami kesulitan atau memiliki pertanyaan tentang membangun aplikasi AI, bergabunglah:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -100,5 +100,5 @@ Jika Anda memiliki umpan balik produk atau menemukan kesalahan saat membangun, k
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Penafian**:  
-Dokumen ini telah diterjemahkan menggunakan layanan terjemahan AI [Co-op Translator](https://github.com/Azure/co-op-translator). Meskipun kami berupaya untuk mencapai akurasi, harap diingat bahwa terjemahan otomatis mungkin mengandung kesalahan atau ketidakakuratan. Dokumen asli dalam bahasa aslinya harus dianggap sebagai sumber yang sahih. Untuk informasi penting, disarankan menggunakan terjemahan profesional oleh manusia. Kami tidak bertanggung jawab atas kesalahpahaman atau salah tafsir yang timbul dari penggunaan terjemahan ini.
+Dokumen ini telah diterjemahkan menggunakan layanan terjemahan AI [Co-op Translator](https://github.com/Azure/co-op-translator). Meskipun kami berusaha untuk akurasi, harap diingat bahwa terjemahan otomatis mungkin mengandung kesalahan atau ketidakakuratan. Dokumen asli dalam bahasa aslinya harus dianggap sebagai sumber yang sahih. Untuk informasi penting, disarankan menggunakan terjemahan profesional oleh manusia. Kami tidak bertanggung jawab atas kesalahpahaman atau salah tafsir yang timbul dari penggunaan terjemahan ini.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:45:10+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T13:54:52+00:00",
   "source_file": "README.md",
   "language_code": "sv"
 }
@@ -68,11 +68,11 @@ Fler alternativ kring modellhosting och tjänster kommer snart.
 ## Bidra
 
 Detta projekt välkomnar bidrag och förslag. De flesta bidrag kräver att du godkänner ett
-Contributor License Agreement (CLA) som intygar att du har rätt att, och faktiskt gör det, ge oss
+Contributor License Agreement (CLA) som intygar att du har rätt att, och faktiskt gör, ge oss
 rättigheterna att använda ditt bidrag. För detaljer, besök <https://cla.opensource.microsoft.com>.
 
 När du skickar in en pull request kommer en CLA-bot automatiskt att avgöra om du behöver tillhandahålla
-en CLA och märka PR lämpligt (t.ex. statuskontroll, kommentar). Följ bara instruktionerna
+en CLA och märka PR:n lämpligt (t.ex. statuskontroll, kommentar). Följ bara instruktionerna
 från boten. Du behöver bara göra detta en gång för alla repos som använder vår CLA.
 
 Detta projekt har antagit [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -101,5 +101,5 @@ Om du har produktfeedback eller fel under byggandet, besök:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Ansvarsfriskrivning**:
-Detta dokument har översatts med hjälp av AI-översättningstjänsten [Co-op Translator](https://github.com/Azure/co-op-translator). Även om vi strävar efter noggrannhet, vänligen observera att automatiska översättningar kan innehålla fel eller brister. Det ursprungliga dokumentet på dess modersmål bör betraktas som den auktoritativa källan. För kritisk information rekommenderas professionell mänsklig översättning. Vi ansvarar inte för några missförstånd eller feltolkningar som uppstår till följd av användningen av denna översättning.
+Detta dokument har översatts med hjälp av AI-översättningstjänsten [Co-op Translator](https://github.com/Azure/co-op-translator). Även om vi strävar efter noggrannhet, vänligen var medveten om att automatiska översättningar kan innehålla fel eller brister. Det ursprungliga dokumentet på dess modersmål bör betraktas som den auktoritativa källan. För kritisk information rekommenderas professionell mänsklig översättning. Vi ansvarar inte för några missförstånd eller feltolkningar som uppstår till följd av användningen av denna översättning.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T12:00:51+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:12:27+00:00",
   "source_file": "README.md",
   "language_code": "et"
 }
@@ -19,7 +19,7 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](./README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Kursus, mis õpetab AI-agentide arenduse elutsükli põhialuseid
+## Kursus, mis õpetab AI-agentide arendustsükli põhialuseid
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -37,9 +37,9 @@ Iga õppetund tugineb eelnevale, seega soovitame alustada algusest ja liikuda j�
 
 Kui soovid AI-agentide teemadel rohkem avastada, võid vaadata [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
-### Kohtuge teiste õppijatega, saage vastused oma küsimustele
+### Tutvu teiste õppijatega, saa vastused oma küsimustele
 
-Kui jääd hätta või sul on AI-agentide loomise kohta küsimusi, liitu meie spetsiaalse Discordi kanaliga Microsoft Foundry Discordis [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Kui jääd hätta või sul on AI-agentide loomise kohta küsimusi, liitu meie spetsiaalse Discordi kanaliga aadressil [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Mida vajad
 
@@ -54,27 +54,27 @@ See kursus kasutab praegu järgmist:
 
 Palun veendu, et sul on nende teenuste kasutusõigus enne alustamist.
 
-Lisavõimalused mudelite majutamiseks ja teenustele tulevad peagi.
+Peagi tulevad lisavõimalused mudelite majutamiseks ja teenustele.
 
 ## 🗃️ Õppetunnid
 
 | **Õppetund**         | **Kirjeldus**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Agentide disain](./lesson-1-agent-design/README.md)       | Sissejuhatus meie "Arendaja sisseelamise" agentide kasutusjuhtumisse ja kuidas disainida tõhusaid agente  |
-| [Agentide arendus](./lesson-2-agent-development/README.md)  | Kasutades Microsoft Agent Frameworki (MAF), loo 3 agenti, kes aitavad uutel arendajatel sisse elada.       |
-| [Agentide hindamine](./lesson-3-agent-evals/README.md)  | Kasutades Microsoft Foundryt, saa teada, kui hästi meie AI-agentid toimivad ja kuidas neid parandada. |
-| [Agentide juurutamine](./lesson-4-agent-deployment/README.md)   | Kasutades hostitud agente ja OpenAI Chatkiti, vaata, kuidas AI-agenti tootmisse juurutada.       |
+| [Agentide disain](./lesson-1-agent-design/README.md)       | Sissejuhatus meie "Arendaja sisseelamise" agentide kasutusjuhtumisse ja tõhusate agentide disainimisele  |
+| [Agentide arendus](./lesson-2-agent-development/README.md)  | Microsoft Agent Frameworki (MAF) kasutades loo 3 agenti, mis aitavad uutel arendajatel sisse elada.       |
+| [Agentide hindamine](./lesson-3-agent-evals/README.md)  | Microsoft Foundry abil saa teada, kui hästi meie AI-agentid toimivad ja kuidas neid parandada. |
+| [Agentide juurutamine](./lesson-4-agent-deployment/README.md)   | Kasutades Hosted Agents ja OpenAI Chatkit, vaata, kuidas AI-agent tootmisse juurutada.       |
 
 ## Panustamine
 
 See projekt ootab panuseid ja ettepanekuid. Enamik panuseid nõuab, et nõustuksid
 panustaja litsentsilepinguga (CLA), mis kinnitab, et sul on õigus ja sa annad meile
-õiguse kasutada sinu panust. Lisateabe saamiseks külasta <https://cla.opensource.microsoft.com>.
+õiguse sinu panust kasutada. Lisateabe saamiseks külasta <https://cla.opensource.microsoft.com>.
 
-Kui esitad pull requesti, määrab CLA-bot automaatselt, kas pead esitama CLA ja märgistab PR-i vastavalt (nt olekukontroll, kommentaar). Järgi lihtsalt boti juhiseid. Seda tuleb teha ainult üks kord kõigi meie CLA-d kasutavate repode puhul.
+Kui esitad pull requesti, määrab CLA-bot automaatselt, kas pead esitama CLA ja märgistab PR-i vastavalt (nt olekukontroll, kommentaar). Järgi lihtsalt boti juhiseid. Seda tuleb teha vaid üks kord kõigi meie CLA-d kasutavate repode puhul.
 
-See projekt on vastu võtnud [Microsofti avatud lähtekoodi käitumiskoodeksi](https://opensource.microsoft.com/codeofconduct/).
-Lisateabe saamiseks vaata [Käitumiskoodeksi KKK](https://opensource.microsoft.com/codeofconduct/faq/) või võta ühendust aadressil [opencode@microsoft.com](mailto:opencode@microsoft.com) küsimuste või kommentaaride korral.
+See projekt on vastu võtnud [Microsofti avatud lähtekoodi käitumisjuhendi](https://opensource.microsoft.com/codeofconduct/).
+Lisateabe saamiseks vaata [Käitumisjuhendi KKK](https://opensource.microsoft.com/codeofconduct/faq/) või võta ühendust aadressil [opencode@microsoft.com](mailto:opencode@microsoft.com) küsimuste või kommentaaride korral.
 
 ## Kaubamärgid
 
@@ -97,5 +97,5 @@ Kui sul on toote tagasisidet või ehitamisel esineb vigu, külasta:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Vastutusest loobumine**:
-See dokument on tõlgitud kasutades tehisintellektil põhinevat tõlketeenust [Co-op Translator](https://github.com/Azure/co-op-translator). Kuigi püüame tagada täpsust, palun arvestage, et automaatsed tõlked võivad sisaldada vigu või ebatäpsusi. Originaaldokument oma emakeeles tuleks pidada autoriteetseks allikaks. Olulise teabe puhul soovitatakse kasutada professionaalset inimtõlget. Me ei vastuta selle tõlke kasutamisest tulenevate arusaamatuste või valesti mõistmiste eest.
+See dokument on tõlgitud kasutades tehisintellekti tõlketeenust [Co-op Translator](https://github.com/Azure/co-op-translator). Kuigi püüame tagada täpsust, palun arvestage, et automaatsed tõlked võivad sisaldada vigu või ebatäpsusi. Originaaldokument selle emakeeles tuleks pidada autoriteetseks allikaks. Olulise teabe puhul soovitatakse kasutada professionaalset inimtõlget. Me ei vastuta selle tõlke kasutamisest tulenevate arusaamatuste või valesti mõistmiste eest.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

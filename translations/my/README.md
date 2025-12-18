@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "84eb09fa4e48cff3f63a5dc64f8efab7",
-  "translation_date": "2025-12-17T11:58:15+00:00",
+  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
+  "translation_date": "2025-12-17T14:09:30+00:00",
   "source_file": "README.md",
   "language_code": "my"
 }
@@ -19,7 +19,7 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](./README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## AI Agent ဖွံ့ဖြိုးတိုးတက်မှု ဘဝလည်ပတ်မှု အခြေခံများ သင်ကြားပေးသည့် သင်တန်း
+## AI Agent ဖန်တီးမှု လုပ်ငန်းစဉ် အခြေခံများ သင်ကြားပေးသည့် သင်တန်း
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -29,7 +29,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-## 🌱 စတင်ခြင်း
+## 🌱 စတင်လိုက်ပါ
 
 ဤသင်တန်းတွင် AI Agent များ တည်ဆောက်ခြင်းနှင့် ထုတ်လုပ်ခြင်း၏ အခြေခံအချက်များကို သင်ကြားပေးပါသည်။
 
@@ -37,9 +37,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 AI Agent ခေါင်းစဉ်များကို ပိုမိုလေ့လာလိုပါက [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) ကို ကြည့်ရှုနိုင်ပါသည်။
 
-### အခြားသင်ယူသူများနှင့် တွေ့ဆုံခြင်း၊ မေးခွန်းများကို ဖြေကြားခြင်း
+### အခြားသင်ယူသူများနှင့် တွေ့ဆုံပြီး မေးခွန်းများကို ဖြေကြားပါ
 
-AI Agent များ တည်ဆောက်ရာတွင် အခက်အခဲရှိပါက သို့မဟုတ် မေးခွန်းများရှိပါက [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) တွင် ကျွန်ုပ်တို့၏ သီးသန့် Discord ချန်နယ်သို့ ဝင်ရောက်ပါ။
+AI Agent များ တည်ဆောက်ရာတွင် အခက်အခဲရှိပါက သို့မဟုတ် မေးခွန်းများရှိပါက [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) တွင် ကျွန်ုပ်တို့၏ သီးသန့် Discord ချန်နယ်သို့ ဝင်ရောက်ဆက်သွယ်နိုင်ပါသည်။
 
 ### လိုအပ်သောအရာများ
 
@@ -52,7 +52,7 @@ AI Agent များ တည်ဆောက်ရာတွင် အခက်အ
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-စတင်ရန်မတိုင်မီ ဤဝန်ဆောင်မှုများကို အသုံးပြုခွင့် ရှိကြောင်း သေချာစေပါ။
+စတင်မတိုင်မီ ဤဝန်ဆောင်မှုများကို အသုံးပြုခွင့် ရှိကြောင်း သေချာစေပါ။
 
 မကြာမီ မော်ဒယ် ဟိုစတင်းနှင့် ဝန်ဆောင်မှုများအတွက် နောက်ထပ် ရွေးချယ်စရာများ ရရှိလာမည်ဖြစ်သည်။
 
@@ -60,22 +60,22 @@ AI Agent များ တည်ဆောက်ရာတွင် အခက်အ
 
 | **သင်ခန်းစာ**         | **ဖော်ပြချက်**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Agent Design](./lesson-1-agent-design/README.md)       | ကျွန်ုပ်တို့၏ "Developer Onboarding" Agent အသုံးပြုမှုအကြောင်း မိတ်ဆက်ခြင်းနှင့် ထိရောက်သော agent များ ဒီဇိုင်းဆွဲနည်း |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) ကို အသုံးပြု၍ developer အသစ်များအတွက် agent ၃ ခု ဖန်တီးခြင်း |
+| [Agent Design](./lesson-1-agent-design/README.md)       | ကျွန်ုပ်တို့၏ "Developer Onboarding" Agent အသုံးပြုမှုအကြောင်းနှင့် ထိရောက်သော agent များ ဒီဇိုင်းဆွဲနည်း မိတ်ဆက်ခြင်း  |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) ကို အသုံးပြု၍ developer အသစ်များအတွက် agent ၃ ခု ဖန်တီးခြင်း       |
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundry ကို အသုံးပြု၍ AI Agent များ၏ လုပ်ဆောင်မှုကို စစ်ဆေးပြီး တိုးတက်အောင် ပြုလုပ်နည်း |
-| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Hosted Agents နှင့် OpenAI Chatkit ကို အသုံးပြု၍ AI Agent ကို ထုတ်လုပ်မှုတွင် တင်သွင်းနည်း |
+| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Hosted Agents နှင့် OpenAI Chatkit ကို အသုံးပြု၍ AI Agent ကို ထုတ်လုပ်မှုတွင် တင်သွင်းနည်း       |
 
-## ပံ့ပိုးမှု
+## ပံ့ပိုးမှု ပေးခြင်း
 
-ဤပရောဂျက်သည် အထောက်အပံ့များနှင့် အကြံပြုချက်များကို ကြိုဆိုပါသည်။ အများဆုံး ပံ့ပိုးမှုများအတွက် သင်သည် Contributor License Agreement (CLA) ကို သဘောတူရမည်ဖြစ်ပြီး သင်၏ ပံ့ပိုးမှုကို အသုံးပြုခွင့်ရှိကြောင်း သက်သေပြရမည်ဖြစ်သည်။ အသေးစိတ်အချက်အလက်များအတွက် <https://cla.opensource.microsoft.com> ကို ကြည့်ရှုပါ။
+ဤပရောဂျက်သည် ပံ့ပိုးမှုများနှင့် အကြံပြုချက်များကို ကြိုဆိုပါသည်။ ပံ့ပိုးမှုအများစုသည် သင်၏ ပံ့ပိုးမှုကို အသုံးပြုခွင့်ရှိကြောင်း သက်သေပြသည့် Contributor License Agreement (CLA) သို့ သဘောတူညီရန် လိုအပ်ပါသည်။ အသေးစိတ်အချက်အလက်များအတွက် <https://cla.opensource.microsoft.com> ကို ကြည့်ရှုပါ။
 
-သင် pull request တင်သောအခါ CLA bot သည် သင် CLA ပေးရန် လိုအပ်မရှိမရှိကို အလိုအလျောက် သတ်မှတ်ပြီး PR ကို သင့်တော်စွာ အလှဆင်ပေးပါမည် (ဥပမာ - status check, comment)။ bot မှ ပေးသော ညွှန်ကြားချက်များကို လိုက်နာပါ။ ဤလုပ်ငန်းစဉ်ကို CLA ကို အသုံးပြုသည့် repo များအားလုံးတွင် တစ်ကြိမ်သာ ပြုလုပ်ရပါမည်။
+သင် pull request တင်သည့်အခါ CLA bot သည် သင် CLA ပေးရန် လိုအပ်မလား စစ်ဆေးပြီး PR ကို သင့်တော်စွာ အမှတ်အသားပြုပါမည် (ဥပမာ - status check, comment)။ bot မှ ပေးသော ညွှန်ကြားချက်များကို လိုက်နာပါ။ CLA သည် ကျွန်ုပ်တို့၏ repo များအားလုံးတွင် တစ်ကြိမ်တည်းသာ လိုအပ်ပါသည်။
 
-ဤပရောဂျက်သည် [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) ကို လက်ခံအသုံးပြုထားပါသည်။ ပိုမိုသိရှိလိုပါက [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) ကို ကြည့်ရှုပါ သို့မဟုတ် မေးခွန်းများရှိပါက [opencode@microsoft.com](mailto:opencode@microsoft.com) သို့ ဆက်သွယ်နိုင်ပါသည်။
+ဤပရောဂျက်သည် [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) ကို လက်ခံအသုံးပြုထားပါသည်။ အသေးစိတ်အချက်အလက်များအတွက် [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) ကို ကြည့်ရှုပါ သို့မဟုတ် မေးခွန်းများရှိပါက [opencode@microsoft.com](mailto:opencode@microsoft.com) သို့ ဆက်သွယ်နိုင်ပါသည်။
 
 ## ကုန်အမှတ်တံဆိပ်များ
 
-ဤပရောဂျက်တွင် ပရောဂျက်များ၊ ထုတ်ကုန်များ သို့မဟုတ် ဝန်ဆောင်မှုများအတွက် ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် အမှတ်တံဆိပ်လိုဂိုများ ပါဝင်နိုင်သည်။ Microsoft ၏ ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို အသုံးပြုခြင်းသည် [Microsoft ၏ ကုန်အမှတ်တံဆိပ်နှင့် အမှတ်တံဆိပ် လမ်းညွှန်ချက်များ](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) ကို လိုက်နာရမည်ဖြစ်သည်။ ဤပရောဂျက်၏ ပြင်ဆင်ထားသော ဗားရှင်းများတွင် Microsoft ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို အသုံးပြုခြင်းသည် ရောမောမှု ဖြစ်စေခြင်း သို့မဟုတ် Microsoft ၏ အားပေးမှုကို ဆိုလိုခြင်း မဖြစ်စေရန် လိုအပ်ပါသည်။ တတိယပါတီ ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို အသုံးပြုခြင်းသည် ထိုတတိယပါတီများ၏ မူဝါဒများအပေါ် မူတည်ပါသည်။
+ဤပရောဂျက်တွင် ပရောဂျက်များ၊ ထုတ်ကုန်များ သို့မဟုတ် ဝန်ဆောင်မှုများအတွက် ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် အမှတ်တံဆိပ်လိုဂိုများ ပါဝင်နိုင်ပါသည်။ Microsoft ၏ ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို အသုံးပြုခြင်းသည် [Microsoft ၏ ကုန်အမှတ်တံဆိပ်နှင့် အမှတ်တံဆိပ် လမ်းညွှန်ချက်များ](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) အတိုင်း ဖြစ်ရမည်။ Microsoft ၏ ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို ဤပရောဂျက်၏ ပြင်ဆင်ထားသော ဗားရှင်းများတွင် အသုံးပြုခြင်းသည် ရောမလွဲမှု ဖြစ်စေခြင်း သို့မဟုတ် Microsoft ၏ ပံ့ပိုးမှု ရှိသည်ဟု သဘောပေါက်စေခြင်း မဖြစ်စေရန် လိုအပ်ပါသည်။ တတိယပါတီ ကုန်အမှတ်တံဆိပ်များ သို့မဟုတ် လိုဂိုများကို အသုံးပြုခြင်းသည် ထိုတတိယပါတီများ၏ မူဝါဒများအတိုင်း ဖြစ်ရမည်။
 
 ## အကူအညီရယူခြင်း
 
@@ -83,7 +83,7 @@ AI app များ တည်ဆောက်ရာတွင် အခက်အ�
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-ထုတ်ကုန်တုံ့ပြန်ချက် သို့မဟုတ် အမှားများရှိပါက -
+ထုတ်ကုန်အကြံပြုချက်များ သို့မဟုတ် အမှားများရှိပါက -
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -91,5 +91,5 @@ AI app များ တည်ဆောက်ရာတွင် အခက်အ�
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **အကြောင်းကြားချက်**  
-ဤစာတမ်းကို AI ဘာသာပြန်ဝန်ဆောင်မှု [Co-op Translator](https://github.com/Azure/co-op-translator) ဖြင့် ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် တိကျမှန်ကန်မှုအတွက် ကြိုးစားနေသော်လည်း၊ အလိုအလျောက် ဘာသာပြန်မှုများတွင် အမှားများ သို့မဟုတ် မှားယွင်းချက်များ ပါဝင်နိုင်ကြောင်း သတိပြုပါရန် မေတ္တာရပ်ခံအပ်ပါသည်။ မူရင်းစာတမ်းကို မိမိဘာသာစကားဖြင့်သာ တရားဝင်အချက်အလက်အဖြစ် သတ်မှတ်သင့်ပါသည်။ အရေးကြီးသော အချက်အလက်များအတွက် လူ့ဘာသာပြန်ပညာရှင်မှ ဘာသာပြန်ခြင်းကို အကြံပြုပါသည်။ ဤဘာသာပြန်မှုကို အသုံးပြုရာမှ ဖြစ်ပေါ်လာနိုင်သည့် နားလည်မှုမှားယွင်းမှုများအတွက် ကျွန်ုပ်တို့ တာဝန်မယူပါ။
+ဤစာတမ်းကို AI ဘာသာပြန်ဝန်ဆောင်မှု [Co-op Translator](https://github.com/Azure/co-op-translator) ဖြင့် ဘာသာပြန်ထားပါသည်။ ကျွန်ုပ်တို့သည် တိကျမှန်ကန်မှုအတွက် ကြိုးစားနေသော်လည်း၊ အလိုအလျောက် ဘာသာပြန်ခြင်းများတွင် အမှားများ သို့မဟုတ် မှားယွင်းချက်များ ပါဝင်နိုင်ကြောင်း သတိပြုပါရန် မေတ္တာရပ်ခံအပ်ပါသည်။ မူရင်းစာတမ်းကို မိမိဘာသာစကားဖြင့်သာ တရားဝင်အရင်းအမြစ်အဖြစ် ယူဆသင့်ပါသည်။ အရေးကြီးသော အချက်အလက်များအတွက် လူ့ဘာသာပြန်ပညာရှင်မှ ဘာသာပြန်ခြင်းကို အကြံပြုပါသည်။ ဤဘာသာပြန်ချက်ကို အသုံးပြုရာမှ ဖြစ်ပေါ်လာနိုင်သည့် နားလည်မှုမှားယွင်းမှုများအတွက် ကျွန်ုပ်တို့သည် တာဝန်မယူပါ။
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
