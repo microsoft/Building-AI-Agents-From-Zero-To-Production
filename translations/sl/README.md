@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:08:58+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:44:16+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
@@ -43,7 +43,7 @@ Vsaka lekcija gradi na prejšnji, zato priporočamo, da začnete od začetka in 
 
 ### Kaj potrebujete
 
-Vsaka lekcija ima svoj vzorčni kodo, ki jo lahko zaženete lokalno. Lahko [forkate ta repozitorij](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) in ustvarite svojo kopijo.
+Vsaka lekcija ima svojo kodo, ki jo lahko zaženete lokalno. Lahko [forkate ta repozitorij](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) in ustvarite svojo kopijo.
 
 Ta tečaj trenutno uporablja naslednje:
 
@@ -59,8 +59,8 @@ Več možnosti glede gostovanja modelov in storitev prihaja kmalu.
 ## 🗃️ Lekcije
 
 | **Lekcija**         | **Opis**                                                                                  |
-|--------------------|--------------------------------------------------------------------------------------------------|
-| [Oblikovanje agenta](./lesson-1-agent-design/README.md)       | Uvod v naš primer uporabe "Onboarding razvijalca" in kako oblikovati učinkovite agente  |
+|--------------------|-------------------------------------------------------------------------------------------|
+| [Oblikovanje agenta](./lesson-1-agent-design/README.md)       | Uvod v naš primer uporabe "Onboarding razvijalcev" in kako oblikovati učinkovite agente  |
 | [Razvoj agenta](./lesson-2-agent-development/README.md)  | Z uporabo Microsoft Agent Framework (MAF) ustvarite 3 agente, ki pomagajo novim razvijalcem pri uvajanju.       |
 | [Evalvacije agentov](./lesson-3-agent-evals/README.md)  | Z uporabo Microsoft Foundry ugotovite, kako dobro delujejo naši AI agenti in kako jih izboljšati. |
 | [Uvajanje agenta](./lesson-4-agent-deployment/README.md)   | Z uporabo gostujočih agentov in OpenAI Chatkit si oglejte, kako uvesti AI agenta v produkcijo.       |

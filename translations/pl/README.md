@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:50:50+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:28:08+00:00",
   "source_file": "README.md",
   "language_code": "pl"
 }
@@ -73,7 +73,7 @@ praw do korzystania z Twojego wkładu. Szczegóły znajdziesz na <https://cla.op
 
 Po przesłaniu pull requesta, bot CLA automatycznie sprawdzi, czy musisz dostarczyć
 CLA i odpowiednio oznaczy PR (np. status, komentarz). Po prostu postępuj zgodnie z instrukcjami
-podanymi przez bota. Będziesz musiał to zrobić tylko raz dla wszystkich repozytoriów korzystających z naszego CLA.
+podanymi przez bota. Będziesz musiał to zrobić tylko raz we wszystkich repozytoriach korzystających z naszego CLA.
 
 Ten projekt przyjął [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 Więcej informacji znajdziesz w [FAQ dotyczących Kodeksu Postępowania](https://opensource.microsoft.com/codeofconduct/faq/) lub
@@ -85,7 +85,7 @@ Ten projekt może zawierać znaki towarowe lub logotypy projektów, produktów l
 podlega i musi przestrzegać
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Użycie znaków towarowych lub logotypów Microsoft w zmodyfikowanych wersjach tego projektu nie może powodować zamieszania ani sugerować sponsorowania przez Microsoft.
-Każde użycie znaków towarowych lub logotypów stron trzecich podlega politykom tych stron trzecich.
+Wszelkie użycie znaków towarowych lub logotypów stron trzecich podlega politykom tych stron trzecich.
 
 ## Uzyskanie pomocy
 

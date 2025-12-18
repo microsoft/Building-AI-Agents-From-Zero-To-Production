@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:45:36+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:22:57+00:00",
   "source_file": "README.md",
   "language_code": "mr"
 }
@@ -16,16 +16,16 @@ CO_OP_TRANSLATOR_METADATA:
 #### GitHub Action द्वारे समर्थित (स्वयंचलित आणि नेहमी अद्ययावत)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](./README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[अरबी](../ar/README.md) | [बंगाली](../bn/README.md) | [बल्गेरियन](../bg/README.md) | [बर्मी (म्यानमार)](../my/README.md) | [चिनी (सोपे)](../zh/README.md) | [चिनी (परंपरागत, हॉंग कॉंग)](../hk/README.md) | [चिनी (परंपरागत, मकाऊ)](../mo/README.md) | [चिनी (परंपरागत, तैवान)](../tw/README.md) | [क्रोएशियन](../hr/README.md) | [चेक](../cs/README.md) | [डॅनिश](../da/README.md) | [डच](../nl/README.md) | [एस्टोनियन](../et/README.md) | [फिनिश](../fi/README.md) | [फ्रेंच](../fr/README.md) | [जर्मन](../de/README.md) | [ग्रीक](../el/README.md) | [हिब्रू](../he/README.md) | [हिंदी](../hi/README.md) | [हंगेरीयन](../hu/README.md) | [इंडोनेशियन](../id/README.md) | [इटालियन](../it/README.md) | [जपानी](../ja/README.md) | [कन्नड](../kn/README.md) | [कोरियन](../ko/README.md) | [लिथुआनियन](../lt/README.md) | [मलय](../ms/README.md) | [मलयाळम](../ml/README.md) | [मराठी](./README.md) | [नेपाली](../ne/README.md) | [नायजेरियन पिजिन](../pcm/README.md) | [नॉर्वेजियन](../no/README.md) | [फारसी (पर्शियन)](../fa/README.md) | [पोलिश](../pl/README.md) | [पोर्तुगीज (ब्राझील)](../br/README.md) | [पोर्तुगीज (पोर्तुगाल)](../pt/README.md) | [पंजाबी (गुरमुखी)](../pa/README.md) | [रोमानियन](../ro/README.md) | [रशियन](../ru/README.md) | [सर्बियन (सिरिलिक)](../sr/README.md) | [स्लोव्हाक](../sk/README.md) | [स्लोव्हेनियन](../sl/README.md) | [स्पॅनिश](../es/README.md) | [स्वाहिली](../sw/README.md) | [स्वीडिश](../sv/README.md) | [टागालॉग (फिलिपिनो)](../tl/README.md) | [तमिळ](../ta/README.md) | [तेलुगू](../te/README.md) | [थाई](../th/README.md) | [तुर्की](../tr/README.md) | [युक्रेनियन](../uk/README.md) | [उर्दू](../ur/README.md) | [व्हिएतनामी](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## AI एजंट विकास जीवनचक्राच्या मूलभूत तत्त्वांची शिकवण देणारा कोर्स
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![GitHub परवाना](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub योगदानकर्ते](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub समस्या](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub पुल-रिक्वेस्ट](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
+[![PRs स्वागतार्ह](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -41,7 +41,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 जर तुम्हाला अडचण आली किंवा AI एजंट तयार करण्याबाबत काही प्रश्न असतील, तर आमच्या समर्पित Discord चॅनेलमध्ये सहभागी व्हा [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
-### तुम्हाला काय लागेल
+### तुम्हाला काय आवश्यक आहे
 
 प्रत्येक धड्याला स्वतःचा कोड नमुना आहे जो तुम्ही स्थानिकपणे चालवू शकता. तुम्ही [हा रेपो फोर्क करू शकता](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) आणि तुमची स्वतःची कॉपी तयार करू शकता.
 
@@ -54,32 +54,28 @@ CO_OP_TRANSLATOR_METADATA:
 
 कृपया सुरुवात करण्यापूर्वी या सेवा वापरण्याचा अधिकार असल्याची खात्री करा.
 
-मॉडेल होस्टिंग आणि सेवा संदर्भातील अधिक पर्याय लवकरच येत आहेत.
+मॉडेल होस्टिंग आणि सेवा याबाबत अधिक पर्याय लवकरच येत आहेत.
 
 ## 🗃️ धडे
 
 | **धडा**            | **वर्णन**                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------|
-| [एजंट डिझाइन](./lesson-1-agent-design/README.md)       | आमच्या "डेव्हलपर ऑनबोर्डिंग" एजंट वापर प्रकरणाची ओळख आणि प्रभावी एजंट कसे डिझाइन करायचे याबद्दल |
-| [एजंट विकास](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) वापरून, नवीन विकासकांना मदत करण्यासाठी 3 एजंट तयार करा.       |
+| [एजंट डिझाइन](./lesson-1-agent-design/README.md)       | आमच्या "डेव्हलपर ऑनबोर्डिंग" एजंट वापर प्रकरणाची ओळख आणि प्रभावी एजंट कसे डिझाइन करायचे          |
+| [एजंट विकास](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) वापरून, नवीन विकासकांना मदत करण्यासाठी 3 एजंट तयार करा.          |
 | [एजंट मूल्यांकन](./lesson-3-agent-evals/README.md)  | Microsoft Foundry वापरून, आमचे AI एजंट किती चांगले काम करत आहेत आणि त्यांना कसे सुधारायचे ते शोधा. |
-| [एजंट तैनाती](./lesson-4-agent-deployment/README.md)   | Hosted Agents आणि OpenAI Chatkit वापरून, AI एजंट उत्पादनात कसा तैनात करायचा ते पहा.             |
+| [एजंट तैनाती](./lesson-4-agent-deployment/README.md)   | Hosted Agents आणि OpenAI Chatkit वापरून, AI एजंट उत्पादनात कसा तैनात करायचा ते पहा.               |
 
 ## योगदान
 
 हा प्रकल्प योगदान आणि सूचना स्वागत करतो. बहुतेक योगदानांसाठी तुम्हाला Contributor License Agreement (CLA) सहमत व्हावे लागते ज्यात तुम्ही सांगता की तुम्हाला तुमचे योगदान वापरण्याचा अधिकार आहे. तपशीलांसाठी भेट द्या <https://cla.opensource.microsoft.com>.
 
-जेव्हा तुम्ही पुल विनंती सादर करता, तेव्हा CLA बॉट आपोआप ठरवेल की तुम्हाला CLA प्रदान करणे आवश्यक आहे का आणि PR योग्यरित्या सजवेल (उदा., स्थिती तपासणी, टिप्पणी). फक्त बॉटने दिलेल्या सूचनांचे पालन करा. तुम्हाला हे सर्व रेपोजमध्ये एकदाच करावे लागेल.
+जेव्हा तुम्ही पुल रिक्वेस्ट सबमिट करता, तेव्हा CLA बॉट आपोआप ठरवेल की तुम्हाला CLA द्यावे लागेल का आणि PR योग्यरित्या सजवेल (उदा., स्थिती तपासणी, टिप्पणी). फक्त बॉटने दिलेल्या सूचनांचे पालन करा. तुम्हाला हे सर्व रेपोजमध्ये एकदाच करावे लागेल.
 
-हा प्रकल्प [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) स्वीकारतो.
-अधिक माहितीसाठी [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) पहा किंवा
-[opencode@microsoft.com](mailto:opencode@microsoft.com) वर संपर्क करा.
+हा प्रकल्प [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) स्वीकारतो. अधिक माहितीसाठी [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) पहा किंवा [opencode@microsoft.com](mailto:opencode@microsoft.com) वर संपर्क करा.
 
 ## ट्रेडमार्क
 
-हा प्रकल्प प्रकल्प, उत्पादने किंवा सेवांसाठी ट्रेडमार्क किंवा लोगो असू शकतो. Microsoft ट्रेडमार्क किंवा लोगोचा अधिकृत वापर [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) च्या अधीन आहे आणि त्यांचे पालन करणे आवश्यक आहे.
-या प्रकल्पाच्या सुधारित आवृत्त्यांमध्ये Microsoft ट्रेडमार्क किंवा लोगोचा वापर गोंधळ निर्माण करू नये किंवा Microsoft प्रायोजकत्व सूचित करू नये.
-तृतीय पक्षांच्या ट्रेडमार्क किंवा लोगोचा वापर त्या तृतीय पक्षांच्या धोरणांनुसार असतो.
+हा प्रकल्प प्रकल्प, उत्पादने किंवा सेवा यांचे ट्रेडमार्क किंवा लोगो असू शकतात. Microsoft ट्रेडमार्क किंवा लोगोचा अधिकृत वापर [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) नुसार असावा. या प्रकल्पाच्या सुधारित आवृत्त्यांमध्ये Microsoft ट्रेडमार्क किंवा लोगोचा वापर गोंधळ निर्माण करू नये किंवा Microsoft प्रायोजकत्व सूचित करू नये. तृतीय पक्षांच्या ट्रेडमार्क किंवा लोगोचा वापर त्या तृतीय पक्षांच्या धोरणांनुसार असावा.
 
 ## मदत मिळवा
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:01:17+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:37:44+00:00",
   "source_file": "README.md",
   "language_code": "tl"
 }
@@ -39,7 +39,7 @@ Kung nais mong tuklasin pa ang mga paksa tungkol sa AI Agent, maaari mong tingna
 
 ### Makipagkilala sa Iba Pang mga Nag-aaral, Sagutin ang Iyong mga Tanong
 
-Kung ikaw ay ma-stuck o may mga tanong tungkol sa paggawa ng AI Agents, sumali sa aming dedikadong Discord Channel sa [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Kung ikaw ay mahirapan o may mga tanong tungkol sa paggawa ng AI Agents, sumali sa aming dedikadong Discord Channel sa [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Ano ang Kailangan Mo
 
@@ -54,14 +54,14 @@ Ang kursong ito ay kasalukuyang gumagamit ng mga sumusunod:
 
 Mangyaring tiyakin na mayroon kang access sa mga serbisyong ito bago magsimula.
 
-May mga karagdagang opsyon tungkol sa pagho-host ng modelo at mga serbisyo na paparating.
+Marami pang mga opsyon tungkol sa pagho-host ng modelo at mga serbisyo ang paparating.
 
 ## 🗃️ Mga Aralin
 
 | **Aralin**         | **Paglalarawan**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | Isang pagpapakilala sa aming "Developer Onboarding" Agent Use Case at kung paano magdisenyo ng epektibong mga agent  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer sa onboarding.       |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Gamit ang Microsoft Agent Framework (MAF), gumawa ng 3 agent upang tulungan ang mga bagong developer na mag-onboard.       |
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Gamit ang Microsoft Foundry, alamin kung gaano kahusay ang pagganap ng aming mga AI Agents at kung paano sila mapapabuti. |
 | [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Gamit ang Hosted Agents at OpenAI Chatkit, tingnan kung paano i-deploy ang isang AI Agent sa produksyon.       |
 
@@ -77,7 +77,7 @@ ibinibigay ng bot. Isang beses mo lang ito kailangang gawin sa lahat ng mga repo
 
 Ang proyektong ito ay nagpatibay ng [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 Para sa karagdagang impormasyon, tingnan ang [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) o
-makipag-ugnayan sa [opencode@microsoft.com](mailto:opencode@microsoft.com) para sa anumang karagdagang tanong o komento.
+makipag-ugnayan sa [opencode@microsoft.com](mailto:opencode@microsoft.com) para sa anumang karagdagang mga tanong o komento.
 
 ## Mga Trademark
 
@@ -88,7 +88,7 @@ Anumang paggamit ng mga trademark o logo ng third-party ay napapailalim sa mga p
 
 ## Pagkuha ng Tulong
 
-Kung ikaw ay ma-stuck o may mga tanong tungkol sa paggawa ng AI apps, sumali sa:
+Kung ikaw ay mahirapan o may mga tanong tungkol sa paggawa ng mga AI app, sumali sa:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 

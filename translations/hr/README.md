@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:07:59+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:43:10+00:00",
   "source_file": "README.md",
   "language_code": "hr"
 }
@@ -73,17 +73,17 @@ prava na korištenje vašeg doprinosa. Za detalje posjetite <https://cla.opensou
 
 Kada pošaljete pull request, CLA bot će automatski odrediti trebate li dostaviti
 CLA i označiti PR prikladno (npr. status provjere, komentar). Jednostavno slijedite upute
-koje daje bot. Ovo ćete trebati napraviti samo jednom za sve repozitorije koji koriste naš CLA.
+koje daje bot. Ovo ćete morati napraviti samo jednom za sve repozitorije koji koriste naš CLA.
 
 Ovaj projekt je usvojio [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-Za više informacija pogledajte [Često postavljana pitanja o Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) ili
+Za više informacija pogledajte [Često postavljana pitanja o Kodeksu ponašanja](https://opensource.microsoft.com/codeofconduct/faq/) ili
 kontaktirajte [opencode@microsoft.com](mailto:opencode@microsoft.com) za dodatna pitanja ili komentare.
 
 ## Zaštitni znakovi
 
 Ovaj projekt može sadržavati zaštitne znakove ili logotipe za projekte, proizvode ili usluge. Ovlaštena upotreba Microsoftovih
 zaštitnih znakova ili logotipa podliježe i mora slijediti
-[Microsoftove smjernice za zaštitne znakove i brendiranje](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Microsoftove smjernice za zaštitne znakove i brend](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Upotreba Microsoftovih zaštitnih znakova ili logotipa u izmijenjenim verzijama ovog projekta ne smije izazvati zabunu niti implicirati sponzorstvo Microsofta.
 Svaka upotreba zaštitnih znakova ili logotipa trećih strana podliježe pravilima tih trećih strana.
 
@@ -101,5 +101,5 @@ Ako imate povratne informacije o proizvodu ili greške tijekom izgradnje, posjet
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Odricanje od odgovornosti**:
-Ovaj dokument je preveden pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
+Ovaj dokument preveden je pomoću AI usluge za prevođenje [Co-op Translator](https://github.com/Azure/co-op-translator). Iako nastojimo postići točnost, imajte na umu da automatski prijevodi mogu sadržavati pogreške ili netočnosti. Izvorni dokument na izvornom jeziku treba smatrati autoritativnim izvorom. Za kritične informacije preporučuje se profesionalni ljudski prijevod. Ne snosimo odgovornost za bilo kakva nesporazuma ili pogrešna tumačenja koja proizlaze iz korištenja ovog prijevoda.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

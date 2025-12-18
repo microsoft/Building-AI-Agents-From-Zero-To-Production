@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:47:56+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:25:08+00:00",
   "source_file": "README.md",
   "language_code": "pt"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 #### Suportado via GitHub Action (Automatizado e Sempre Atualizado)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Árabe](../ar/README.md) | [Bengali](../bn/README.md) | [Búlgaro](../bg/README.md) | [Birmanês (Myanmar)](../my/README.md) | [Chinês (Simplificado)](../zh/README.md) | [Chinês (Tradicional, Hong Kong)](../hk/README.md) | [Chinês (Tradicional, Macau)](../mo/README.md) | [Chinês (Tradicional, Taiwan)](../tw/README.md) | [Croata](../hr/README.md) | [Checo](../cs/README.md) | [Dinamarquês](../da/README.md) | [Holandês](../nl/README.md) | [Estónio](../et/README.md) | [Finlandês](../fi/README.md) | [Francês](../fr/README.md) | [Alemão](../de/README.md) | [Grego](../el/README.md) | [Hebraico](../he/README.md) | [Hindi](../hi/README.md) | [Húngaro](../hu/README.md) | [Indonésio](../id/README.md) | [Italiano](../it/README.md) | [Japonês](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malaio](../ms/README.md) | [Malaiala](../ml/README.md) | [Marata](../mr/README.md) | [Nepali](../ne/README.md) | [Pidgin Nigeriano](../pcm/README.md) | [Norueguês](../no/README.md) | [Persa (Farsi)](../fa/README.md) | [Polaco](../pl/README.md) | [Português (Brasil)](../br/README.md) | [Português (Portugal)](./README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romeno](../ro/README.md) | [Russo](../ru/README.md) | [Sérvio (Cirílico)](../sr/README.md) | [Eslovaco](../sk/README.md) | [Esloveno](../sl/README.md) | [Espanhol](../es/README.md) | [Suaíli](../sw/README.md) | [Sueco](../sv/README.md) | [Tagalo (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tailandês](../th/README.md) | [Turco](../tr/README.md) | [Ucraniano](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
+[Árabe](../ar/README.md) | [Bengali](../bn/README.md) | [Búlgaro](../bg/README.md) | [Birmanês (Myanmar)](../my/README.md) | [Chinês (Simplificado)](../zh/README.md) | [Chinês (Tradicional, Hong Kong)](../hk/README.md) | [Chinês (Tradicional, Macau)](../mo/README.md) | [Chinês (Tradicional, Taiwan)](../tw/README.md) | [Croata](../hr/README.md) | [Checo](../cs/README.md) | [Dinamarquês](../da/README.md) | [Holandês](../nl/README.md) | [Estónio](../et/README.md) | [Finlandês](../fi/README.md) | [Francês](../fr/README.md) | [Alemão](../de/README.md) | [Grego](../el/README.md) | [Hebraico](../he/README.md) | [Hindi](../hi/README.md) | [Húngaro](../hu/README.md) | [Indonésio](../id/README.md) | [Italiano](../it/README.md) | [Japonês](../ja/README.md) | [Kannada](../kn/README.md) | [Coreano](../ko/README.md) | [Lituano](../lt/README.md) | [Malaio](../ms/README.md) | [Malaiala](../ml/README.md) | [Marata](../mr/README.md) | [Nepalês](../ne/README.md) | [Pidgin Nigeriano](../pcm/README.md) | [Norueguês](../no/README.md) | [Persa (Farsi)](../fa/README.md) | [Polaco](../pl/README.md) | [Português (Brasil)](../br/README.md) | [Português (Portugal)](./README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romeno](../ro/README.md) | [Russo](../ru/README.md) | [Sérvio (Cirílico)](../sr/README.md) | [Eslovaco](../sk/README.md) | [Esloveno](../sl/README.md) | [Espanhol](../es/README.md) | [Suaíli](../sw/README.md) | [Sueco](../sv/README.md) | [Tagalo (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Tailandês](../th/README.md) | [Turco](../tr/README.md) | [Ucraniano](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamita](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## Um curso que ensina os fundamentos do Ciclo de Vida do Desenvolvimento de Agentes de IA
@@ -39,11 +39,11 @@ Se quiser explorar mais sobre tópicos de Agentes de IA, pode consultar o [Curso
 
 ### Conheça Outros Alunos, Tire as Suas Dúvidas
 
-Se ficar bloqueado ou tiver alguma questão sobre a construção de Agentes de IA, junte-se ao nosso Canal dedicado no Discord em [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Se ficar bloqueado ou tiver alguma dúvida sobre a construção de Agentes de IA, junte-se ao nosso Canal dedicado no Discord em [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### O Que Precisa
 
-Cada lição tem o seu próprio exemplo de código que pode executar localmente. Pode [fazer fork deste repositório](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) para criar a sua própria cópia.
+Cada lição tem o seu próprio exemplo de código que pode executar localmente. Pode [forkar este repositório](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) para criar a sua própria cópia.
 
 Este curso utiliza atualmente o seguinte:
 
@@ -60,10 +60,10 @@ Mais opções sobre alojamento de modelos e serviços em breve.
 
 | **Lição**         | **Descrição**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Design de Agentes](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso Caso de Uso "Integração de Desenvolvedor" e como desenhar agentes eficazes  |
-| [Desenvolvimento de Agentes](./lesson-2-agent-development/README.md)  | Usando o Microsoft Agent Framework (MAF), crie 3 agentes para ajudar novos desenvolvedores a integrar-se.       |
-| [Avaliações de Agentes](./lesson-3-agent-evals/README.md)  | Usando o Microsoft Foundry, descubra o desempenho dos nossos Agentes de IA e como melhorá-los. |
-| [Implementação de Agentes](./lesson-4-agent-deployment/README.md)   | Usando os Agentes Hospedados e OpenAI Chatkit, veja como implementar um Agente de IA em produção.       |
+| [Design do Agente](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso Caso de Uso "Onboarding de Desenvolvedor" e como desenhar agentes eficazes  |
+| [Desenvolvimento do Agente](./lesson-2-agent-development/README.md)  | Usando o Microsoft Agent Framework (MAF), crie 3 agentes para ajudar novos desenvolvedores a integrar-se.       |
+| [Avaliações do Agente](./lesson-3-agent-evals/README.md)  | Usando o Microsoft Foundry, descubra o desempenho dos nossos Agentes de IA e como melhorá-los. |
+| [Implementação do Agente](./lesson-4-agent-deployment/README.md)   | Usando os Agentes Hospedados e OpenAI Chatkit, veja como implementar um Agente de IA em produção.       |
 
 ## Contribuir
 
@@ -82,19 +82,19 @@ contacte [opencode@microsoft.com](mailto:opencode@microsoft.com) para quaisquer 
 ## Marcas Comerciais
 
 Este projeto pode conter marcas comerciais ou logótipos de projetos, produtos ou serviços. O uso autorizado das marcas comerciais ou logótipos da Microsoft está sujeito e deve seguir
-[Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+as [Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 O uso de marcas comerciais ou logótipos da Microsoft em versões modificadas deste projeto não deve causar confusão nem implicar patrocínio da Microsoft.
 Qualquer uso de marcas comerciais ou logótipos de terceiros está sujeito às políticas desses terceiros.
 
 ## Obter Ajuda
 
-Se ficar bloqueado ou tiver alguma questão sobre a construção de aplicações de IA, junte-se a:
+Se ficar bloqueado ou tiver dúvidas sobre a construção de aplicações de IA, junte-se a:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
 Se tiver feedback sobre o produto ou erros durante a construção, visite:
 
-[![Fórum de Desenvolvedores Microsoft Foundry](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 

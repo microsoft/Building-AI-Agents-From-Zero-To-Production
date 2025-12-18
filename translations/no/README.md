@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:56:50+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:33:09+00:00",
   "source_file": "README.md",
   "language_code": "no"
 }
@@ -37,7 +37,7 @@ Hver leksjon bygger på den forrige, så vi anbefaler å starte fra begynnelsen 
 
 Hvis du vil utforske mer om AI-agentemner, kan du sjekke ut [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
-### Møt andre elever, få svar på spørsmålene dine
+### Møt andre lærende, få svar på spørsmålene dine
 
 Hvis du står fast eller har spørsmål om å bygge AI-agenter, bli med i vår dedikerte Discord-kanal i [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -54,7 +54,7 @@ Dette kurset bruker for øyeblikket følgende:
 
 Vennligst sørg for at du har tilgang til disse tjenestene før du begynner.
 
-Flere alternativer rundt modellhosting og tjenester kommer snart.
+Flere alternativer for modellhosting og tjenester kommer snart.
 
 ## 🗃️ Leksjoner
 
@@ -68,11 +68,11 @@ Flere alternativer rundt modellhosting og tjenester kommer snart.
 ## Bidra
 
 Dette prosjektet ønsker bidrag og forslag velkommen. De fleste bidrag krever at du godtar en
-Contributor License Agreement (CLA) som erklærer at du har rett til, og faktisk gir oss,
+Contributor License Agreement (CLA) som erklærer at du har rett til, og faktisk gir oss
 rettighetene til å bruke ditt bidrag. For detaljer, besøk <https://cla.opensource.microsoft.com>.
 
 Når du sender en pull request, vil en CLA-bot automatisk avgjøre om du må levere
-en CLA og dekorere PR-en passende (f.eks. statuskontroll, kommentar). Følg bare instruksjonene
+en CLA og merke PR-en passende (f.eks. statuskontroll, kommentar). Følg bare instruksjonene
 fra boten. Du trenger bare å gjøre dette én gang på tvers av alle repoer som bruker vår CLA.
 
 Dette prosjektet har tatt i bruk [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -83,7 +83,7 @@ kontakt [opencode@microsoft.com](mailto:opencode@microsoft.com) med eventuelle s
 
 Dette prosjektet kan inneholde varemerker eller logoer for prosjekter, produkter eller tjenester. Autorisert bruk av Microsoft
 varemerker eller logoer er underlagt og må følge
-[Microsofts varemerke- og merkevare-retningslinjer](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Microsofts retningslinjer for varemerker og merkevare](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Bruk av Microsoft-varemerker eller logoer i modifiserte versjoner av dette prosjektet må ikke skape forvirring eller antyde Microsoft-sponsing.
 Enhver bruk av tredjeparts varemerker eller logoer er underlagt disse tredjepartenes retningslinjer.
 

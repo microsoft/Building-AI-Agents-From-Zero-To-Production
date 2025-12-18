@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:58:39+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:34:46+00:00",
   "source_file": "README.md",
   "language_code": "nl"
 }
@@ -31,7 +31,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Aan de slag
 
-Deze cursus bevat lessen die de basisprincipes van het bouwen en implementeren van AI-agenten behandelen.
+Deze cursus bevat lessen over de basisprincipes van het bouwen en implementeren van AI-agenten.
 
 Elke les bouwt voort op de vorige, dus we raden aan om bij het begin te beginnen en door te werken tot het einde.
 
@@ -52,7 +52,7 @@ Deze cursus gebruikt momenteel het volgende:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Zorg ervoor dat je toegang hebt tot deze services voordat je begint.
+Zorg ervoor dat je toegang hebt tot deze diensten voordat je begint.
 
 Meer opties rond modelhosting en services volgen binnenkort.
 
@@ -69,7 +69,7 @@ Meer opties rond modelhosting en services volgen binnenkort.
 
 Dit project verwelkomt bijdragen en suggesties. De meeste bijdragen vereisen dat je akkoord gaat met een
 Contributor License Agreement (CLA) waarin je verklaart dat je het recht hebt en daadwerkelijk verleent
-dat wij de rechten krijgen om je bijdrage te gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
+dat wij jouw bijdrage mogen gebruiken. Voor details, bezoek <https://cla.opensource.microsoft.com>.
 
 Wanneer je een pull request indient, bepaalt een CLA-bot automatisch of je een CLA moet aanleveren
 en voorziet het PR van de juiste aanduidingen (bijv. statuscontrole, commentaar). Volg gewoon de instructies
@@ -100,6 +100,6 @@ Als je productfeedback hebt of fouten tegenkomt tijdens het bouwen, bezoek:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Disclaimer**:
+**Disclaimer**:  
 Dit document is vertaald met behulp van de AI-vertalingsdienst [Co-op Translator](https://github.com/Azure/co-op-translator). Hoewel we streven naar nauwkeurigheid, dient u er rekening mee te houden dat geautomatiseerde vertalingen fouten of onnauwkeurigheden kunnen bevatten. Het originele document in de oorspronkelijke taal moet als de gezaghebbende bron worden beschouwd. Voor cruciale informatie wordt professionele menselijke vertaling aanbevolen. Wij zijn niet aansprakelijk voor eventuele misverstanden of verkeerde interpretaties die voortvloeien uit het gebruik van deze vertaling.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

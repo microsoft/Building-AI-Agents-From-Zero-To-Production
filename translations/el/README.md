@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:52:38+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:29:12+00:00",
   "source_file": "README.md",
   "language_code": "el"
 }
@@ -16,10 +16,10 @@ CO_OP_TRANSLATOR_METADATA:
 #### Υποστηρίζεται μέσω GitHub Action (Αυτοματοποιημένο & Πάντα Ενημερωμένο)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](./README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Αραβικά](../ar/README.md) | [Μπενγκάλι](../bn/README.md) | [Βουλγαρικά](../bg/README.md) | [Βιρμανικά (Μιανμάρ)](../my/README.md) | [Κινέζικα (Απλοποιημένα)](../zh/README.md) | [Κινέζικα (Παραδοσιακά, Χονγκ Κονγκ)](../hk/README.md) | [Κινέζικα (Παραδοσιακά, Μακάο)](../mo/README.md) | [Κινέζικα (Παραδοσιακά, Ταϊβάν)](../tw/README.md) | [Κροατικά](../hr/README.md) | [Τσέχικα](../cs/README.md) | [Δανέζικα](../da/README.md) | [Ολλανδικά](../nl/README.md) | [Εσθονικά](../et/README.md) | [Φινλανδικά](../fi/README.md) | [Γαλλικά](../fr/README.md) | [Γερμανικά](../de/README.md) | [Ελληνικά](./README.md) | [Εβραϊκά](../he/README.md) | [Χίντι](../hi/README.md) | [Ουγγρικά](../hu/README.md) | [Ινδονησιακά](../id/README.md) | [Ιταλικά](../it/README.md) | [Ιαπωνικά](../ja/README.md) | [Κανάντα](../kn/README.md) | [Κορεατικά](../ko/README.md) | [Λιθουανικά](../lt/README.md) | [Μαλαϊκά](../ms/README.md) | [Μαλαγιαλάμ](../ml/README.md) | [Μαράθι](../mr/README.md) | [Νεπάλι](../ne/README.md) | [Νιγηριανή Πίτζιν](../pcm/README.md) | [Νορβηγικά](../no/README.md) | [Περσικά (Φαρσί)](../fa/README.md) | [Πολωνικά](../pl/README.md) | [Πορτογαλικά (Βραζιλία)](../br/README.md) | [Πορτογαλικά (Πορτογαλία)](../pt/README.md) | [Πουντζάμπι (Γκουρμούκι)](../pa/README.md) | [Ρουμανικά](../ro/README.md) | [Ρωσικά](../ru/README.md) | [Σερβικά (Κυριλλικά)](../sr/README.md) | [Σλοβακικά](../sk/README.md) | [Σλοβενικά](../sl/README.md) | [Ισπανικά](../es/README.md) | [Σουαχίλι](../sw/README.md) | [Σουηδικά](../sv/README.md) | [Ταγκάλογκ (Φιλιππινέζικα)](../tl/README.md) | [Ταμίλ](../ta/README.md) | [Τελούγκου](../te/README.md) | [Ταϊλανδικά](../th/README.md) | [Τουρκικά](../tr/README.md) | [Ουκρανικά](../uk/README.md) | [Ουρντού](../ur/README.md) | [Βιετναμέζικα](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Ένα μάθημα που διδάσκει τα βασικά του Κύκλου Ζωής Ανάπτυξης Πρακτόρων Τεχνητής Νοημοσύνης
+## Ένα μάθημα που διδάσκει τα βασικά του κύκλου ζωής ανάπτυξης Πρακτόρων Τεχνητής Νοημοσύνης
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -35,7 +35,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 Κάθε μάθημα βασίζεται στο προηγούμενο, οπότε προτείνουμε να ξεκινήσετε από την αρχή και να προχωρήσετε μέχρι το τέλος.
 
-Αν θέλετε να εξερευνήσετε περισσότερα θέματα σχετικά με τους Πράκτορες Τεχνητής Νοημοσύνης, μπορείτε να δείτε το [Μάθημα Πρακτόρων Τεχνητής Νοημοσύνης για Αρχάριους](https://aka.ms/ai-agents-beginners).
+Αν θέλετε να εξερευνήσετε περισσότερα για θέματα Πρακτόρων Τεχνητής Νοημοσύνης, μπορείτε να δείτε το [Μάθημα Πρακτόρων Τεχνητής Νοημοσύνης για Αρχάριους](https://aka.ms/ai-agents-beginners).
 
 ### Γνωρίστε Άλλους Μαθητές, Λάβετε Απαντήσεις στις Ερωτήσεις σας
 
@@ -60,10 +60,10 @@ CO_OP_TRANSLATOR_METADATA:
 
 | **Μάθημα**         | **Περιγραφή**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Σχεδιασμός Πράκτορα](./lesson-1-agent-design/README.md)       | Μια εισαγωγή στην περίπτωση χρήσης "Εισαγωγή Προγραμματιστή" και πώς να σχεδιάσετε αποτελεσματικούς πράκτορες  |
+| [Σχεδιασμός Πράκτορα](./lesson-1-agent-design/README.md)       | Μια εισαγωγή στη χρήση περίπτωσης "Εισαγωγή Προγραμματιστή" και πώς να σχεδιάσετε αποτελεσματικούς πράκτορες  |
 | [Ανάπτυξη Πράκτορα](./lesson-2-agent-development/README.md)  | Χρησιμοποιώντας το Microsoft Agent Framework (MAF), δημιουργήστε 3 πράκτορες για να βοηθήσετε νέους προγραμματιστές.       |
-| [Αξιολογήσεις Πράκτορα](./lesson-3-agent-evals/README.md)  | Χρησιμοποιώντας το Microsoft Foundry, μάθετε πόσο καλά αποδίδουν οι Πράκτορές μας και πώς να τους βελτιώσετε. |
-| [Ανάπτυξη Πράκτορα](./lesson-4-agent-deployment/README.md)   | Χρησιμοποιώντας τους Φιλοξενούμενους Πράκτορες και το OpenAI Chatkit, δείτε πώς να αναπτύξετε έναν Πράκτορα Τεχνητής Νοημοσύνης στην παραγωγή.       |
+| [Αξιολογήσεις Πράκτορα](./lesson-3-agent-evals/README.md)  | Χρησιμοποιώντας το Microsoft Foundry, μάθετε πόσο καλά αποδίδουν οι Πράκτορες Τεχνητής Νοημοσύνης και πώς να τους βελτιώσετε. |
+| [Ανάπτυξη Πράκτορα](./lesson-4-agent-deployment/README.md)   | Χρησιμοποιώντας τους Φιλοξενούμενους Πράκτορες και το OpenAI Chatkit, δείτε πώς να αναπτύξετε έναν Πράκτορα Τεχνητής Νοημοσύνης σε παραγωγή.       |
 
 ## Συνεισφορά
 
@@ -92,7 +92,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Αν έχετε σχόλια προϊόντος ή σφάλματα κατά τη δημιουργία, επισκεφθείτε:
+Αν έχετε σχόλια προϊόντος ή σφάλματα κατά την ανάπτυξη, επισκεφθείτε:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

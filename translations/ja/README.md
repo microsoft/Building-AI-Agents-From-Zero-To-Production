@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:43:28+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:20:49+00:00",
   "source_file": "README.md",
   "language_code": "ja"
 }
@@ -43,7 +43,7 @@ AIエージェントの構築で行き詰まったり質問がある場合は、
 
 ### 必要なもの
 
-各レッスンにはローカルで実行できるコードサンプルがあります。このリポジトリを[フォーク](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork)して自分のコピーを作成できます。
+各レッスンにはローカルで実行できるコードサンプルがあります。このリポジトリを[フォーク](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork)して、自分のコピーを作成できます。
 
 このコースでは現在、以下を使用しています：
 
@@ -62,7 +62,7 @@ AIエージェントの構築で行き詰まったり質問がある場合は、
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [エージェント設計](./lesson-1-agent-design/README.md)       | 「開発者オンボーディング」エージェントユースケースの紹介と効果的なエージェント設計方法  |
 | [エージェント開発](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF)を使い、新しい開発者のオンボーディングを支援する3つのエージェントを作成します。       |
-| [エージェント評価](./lesson-3-agent-evals/README.md)  | Microsoft Foundryを使ってAIエージェントのパフォーマンスを評価し、改善方法を学びます。 |
+| [エージェント評価](./lesson-3-agent-evals/README.md)  | Microsoft Foundryを使って、AIエージェントのパフォーマンスを評価し、改善方法を学びます。 |
 | [エージェントデプロイ](./lesson-4-agent-deployment/README.md)   | ホストされたエージェントとOpenAI Chatkitを使い、AIエージェントを本番環境にデプロイする方法を学びます。       |
 
 ## 貢献について
@@ -80,10 +80,10 @@ Contributor License Agreement (CLA)への同意が必要です。詳細は <http
 
 このプロジェクトにはプロジェクト、製品、サービスの商標やロゴが含まれている場合があります。Microsoftの商標やロゴの使用は
 [Microsoftの商標およびブランドガイドライン](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)に従う必要があります。
-本プロジェクトの修正バージョンでMicrosoftの商標やロゴを使用する場合、混乱を招いたりMicrosoftの後援を示唆してはなりません。
+本プロジェクトの修正版でMicrosoftの商標やロゴを使用する場合、混乱を招いたりMicrosoftの後援を示唆してはなりません。
 第三者の商標やロゴの使用は、それら第三者のポリシーに従います。
 
-## ヘルプを得るには
+## サポートを受けるには
 
 AIアプリの構築で行き詰まったり質問がある場合は、以下に参加してください：
 

@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:51:31+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:28:41+00:00",
   "source_file": "README.md",
   "language_code": "tr"
 }
@@ -39,7 +39,7 @@ AI Ajan konularını daha fazla keşfetmek isterseniz, [AI Agents For Beginners 
 
 ### Diğer Öğrenenlerle Tanışın, Sorularınızı Yanıtlayın
 
-AI Ajanları oluştururken takılırsanız veya herhangi bir sorunuz olursa, [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) içindeki özel Discord Kanalımıza katılın.
+AI Ajanları oluştururken takılırsanız veya sorularınız olursa, [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) içindeki özel Discord Kanalımıza katılın.
 
 ### İhtiyacınız Olanlar
 
@@ -61,13 +61,13 @@ Model barındırma ve hizmetlerle ilgili daha fazla seçenek yakında geliyor.
 | **Ders**         | **Açıklama**                                                                                  |
 |------------------|------------------------------------------------------------------------------------------------|
 | [Agent Design](./lesson-1-agent-design/README.md)       | "Geliştirici Onboarding" Ajan Kullanım Durumumuza giriş ve etkili ajanlar tasarlama          |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) kullanarak yeni geliştiricilerin onboarding sürecine yardımcı olacak 3 ajan oluşturma.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundry kullanarak AI Ajanlarımızın performansını değerlendirme ve iyileştirme yolları. |
-| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Hosted Agents ve OpenAI Chatkit kullanarak bir AI Ajanını üretime nasıl dağıtacağınızı öğrenin.       |
+| [Agent Development](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) kullanarak yeni geliştiricilerin onboarding sürecine yardımcı 3 ajan oluşturma |
+| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundry kullanarak AI Ajanlarımızın performansını değerlendirme ve iyileştirme yolları |
+| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Hosted Agents ve OpenAI Chatkit kullanarak bir AI Ajanını üretime dağıtma                     |
 
 ## Katkıda Bulunma
 
-Bu proje katkılara ve önerilere açıktır. Çoğu katkı, katkınızın kullanım haklarını bize verdiğinizi beyan eden bir Katkı Sağlayıcı Lisans Anlaşması'na (CLA) uymanızı gerektirir. Detaylar için <https://cla.opensource.microsoft.com> adresini ziyaret edin.
+Bu proje katkılara ve önerilere açıktır. Çoğu katkı, katkınızı kullanma haklarını bize verdiğinizi ve gerçekten verdiğinizi beyan eden bir Katkı Lisans Anlaşması'na (CLA) katılmanızı gerektirir. Detaylar için <https://cla.opensource.microsoft.com> adresini ziyaret edin.
 
 Bir pull request gönderdiğinizde, bir CLA botu otomatik olarak CLA sağlamanız gerekip gerekmediğini belirler ve PR'ı uygun şekilde işaretler (örneğin, durum kontrolü, yorum). Botun verdiği talimatları izleyin. CLA'yı kullanan tüm repolar için bunu yalnızca bir kez yapmanız yeterlidir.
 
@@ -91,5 +91,5 @@ AI uygulamaları oluştururken takılırsanız veya sorularınız olursa, katıl
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Feragatname**:  
-Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba göstersek de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayınız. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çevirinin kullanımı sonucu oluşabilecek yanlış anlamalar veya yorum hatalarından sorumlu değiliz.
+Bu belge, AI çeviri servisi [Co-op Translator](https://github.com/Azure/co-op-translator) kullanılarak çevrilmiştir. Doğruluk için çaba gösterilse de, otomatik çevirilerin hatalar veya yanlışlıklar içerebileceğini lütfen unutmayın. Orijinal belge, kendi dilinde yetkili kaynak olarak kabul edilmelidir. Kritik bilgiler için profesyonel insan çevirisi önerilir. Bu çevirinin kullanımı sonucu oluşabilecek yanlış anlamalar veya yorum hatalarından sorumlu değiliz.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

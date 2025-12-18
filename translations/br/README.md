@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:48:59+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:26:06+00:00",
   "source_file": "README.md",
   "language_code": "br"
 }
@@ -37,7 +37,7 @@ Cada lição se baseia na anterior, então recomendamos começar do início e se
 
 Se quiser explorar mais sobre tópicos de Agentes de IA, você pode conferir o [Curso de Agentes de IA para Iniciantes](https://aka.ms/ai-agents-beginners).
 
-### Conheça Outros Alunos, Tire Suas Dúvidas
+### Conheça Outros Estudantes, Tire Suas Dúvidas
 
 Se você ficar preso ou tiver dúvidas sobre como construir Agentes de IA, entre no nosso canal dedicado no Discord no [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -76,14 +76,14 @@ um CLA e decorará o PR apropriadamente (por exemplo, verificação de status, c
 fornecidas pelo bot. Você precisará fazer isso apenas uma vez em todos os repositórios que usam nosso CLA.
 
 Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Para mais informações, veja o [FAQ do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
+Para mais informações, veja as [Perguntas Frequentes do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
 contate [opencode@microsoft.com](mailto:opencode@microsoft.com) para quaisquer dúvidas ou comentários adicionais.
 
 ## Marcas Registradas
 
 Este projeto pode conter marcas registradas ou logotipos de projetos, produtos ou serviços. O uso autorizado das marcas
 ou logotipos da Microsoft está sujeito e deve seguir
-[Diretrizes de Marca e Uso da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 O uso de marcas ou logotipos da Microsoft em versões modificadas deste projeto não deve causar confusão nem implicar patrocínio da Microsoft.
 Qualquer uso de marcas ou logotipos de terceiros está sujeito às políticas desses terceiros.
 
@@ -101,5 +101,5 @@ Se você tiver feedback sobre o produto ou erros durante a construção, visite:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Aviso Legal**:  
-Este documento foi traduzido utilizando o serviço de tradução por IA [Co-op Translator](https://github.com/Azure/co-op-translator). Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automáticas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte autorizada. Para informações críticas, recomenda-se a tradução profissional realizada por humanos. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações incorretas decorrentes do uso desta tradução.
+Este documento foi traduzido utilizando o serviço de tradução por IA [Co-op Translator](https://github.com/Azure/co-op-translator). Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automáticas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte autorizada. Para informações críticas, recomenda-se tradução profissional realizada por humanos. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações incorretas decorrentes do uso desta tradução.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
