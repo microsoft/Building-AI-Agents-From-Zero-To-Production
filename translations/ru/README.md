@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:37:34+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:15:50+00:00",
   "source_file": "README.md",
   "language_code": "ru"
 }
@@ -67,7 +67,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## Вклад в проект
 
-Этот проект приветствует вклады и предложения. Большинство вкладов требует согласия с
+Этот проект приветствует вклады и предложения. Большинство вкладов требуют согласия с
 Лицензионным соглашением для контрибьюторов (CLA), подтверждающим, что вы имеете право и действительно предоставляете нам
 права на использование вашего вклада. Для подробностей посетите <https://cla.opensource.microsoft.com>.
 
@@ -82,7 +82,7 @@ CLA и отметит PR соответствующим образом (напр
 ## Торговые марки
 
 В этом проекте могут содержаться торговые марки или логотипы проектов, продуктов или сервисов. Авторизованное использование торговых марок или логотипов Microsoft подчиняется и должно соответствовать
-[Руководству Microsoft по торговым маркам и брендам](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[Руководству по торговым маркам и брендам Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Использование торговых марок или логотипов Microsoft в изменённых версиях этого проекта не должно вызывать путаницу или подразумевать спонсорство Microsoft.
 Любое использование торговых марок или логотипов третьих сторон подчиняется политикам этих третьих сторон.
 
@@ -92,7 +92,7 @@ CLA и отметит PR соответствующим образом (напр
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Если у вас есть отзывы о продукте или ошибки при создании, посетите:
+Если у вас есть отзывы о продукте или ошибки при разработке, посетите:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

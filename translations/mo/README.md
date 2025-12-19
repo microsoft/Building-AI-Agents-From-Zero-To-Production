@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:41:19+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:19:13+00:00",
   "source_file": "README.md",
   "language_code": "mo"
 }
@@ -16,7 +16,7 @@ CO_OP_TRANSLATOR_METADATA:
 #### 透過 GitHub Action 支援（自動化且持續更新）
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[阿拉伯語](../ar/README.md) | [孟加拉語](../bn/README.md) | [保加利亞語](../bg/README.md) | [緬甸語 (緬甸)](../my/README.md) | [中文 (簡體)](../zh/README.md) | [中文 (繁體，香港)](../hk/README.md) | [中文 (繁體，澳門)](./README.md) | [中文 (繁體，台灣)](../tw/README.md) | [克羅地亞語](../hr/README.md) | [捷克語](../cs/README.md) | [丹麥語](../da/README.md) | [荷蘭語](../nl/README.md) | [愛沙尼亞語](../et/README.md) | [芬蘭語](../fi/README.md) | [法語](../fr/README.md) | [德語](../de/README.md) | [希臘語](../el/README.md) | [希伯來語](../he/README.md) | [印地語](../hi/README.md) | [匈牙利語](../hu/README.md) | [印尼語](../id/README.md) | [義大利語](../it/README.md) | [日語](../ja/README.md) | [坎納達語](../kn/README.md) | [韓語](../ko/README.md) | [立陶宛語](../lt/README.md) | [馬來語](../ms/README.md) | [馬拉雅拉姆語](../ml/README.md) | [馬拉地語](../mr/README.md) | [尼泊爾語](../ne/README.md) | [奈及利亞皮欽語](../pcm/README.md) | [挪威語](../no/README.md) | [波斯語 (法爾西語)](../fa/README.md) | [波蘭語](../pl/README.md) | [葡萄牙語 (巴西)](../br/README.md) | [葡萄牙語 (葡萄牙)](../pt/README.md) | [旁遮普語 (古魯穆奇)](../pa/README.md) | [羅馬尼亞語](../ro/README.md) | [俄語](../ru/README.md) | [塞爾維亞語 (西里爾字母)](../sr/README.md) | [斯洛伐克語](../sk/README.md) | [斯洛文尼亞語](../sl/README.md) | [西班牙語](../es/README.md) | [斯瓦希里語](../sw/README.md) | [瑞典語](../sv/README.md) | [他加祿語 (菲律賓語)](../tl/README.md) | [泰米爾語](../ta/README.md) | [泰盧固語](../te/README.md) | [泰語](../th/README.md) | [土耳其語](../tr/README.md) | [烏克蘭語](../uk/README.md) | [烏爾都語](../ur/README.md) | [越南語](../vi/README.md)
+[阿拉伯語](../ar/README.md) | [孟加拉語](../bn/README.md) | [保加利亞語](../bg/README.md) | [緬甸語 (緬甸)](../my/README.md) | [中文 (簡體)](../zh/README.md) | [中文 (繁體，香港)](../hk/README.md) | [中文 (繁體，澳門)](./README.md) | [中文 (繁體，台灣)](../tw/README.md) | [克羅地亞語](../hr/README.md) | [捷克語](../cs/README.md) | [丹麥語](../da/README.md) | [荷蘭語](../nl/README.md) | [愛沙尼亞語](../et/README.md) | [芬蘭語](../fi/README.md) | [法語](../fr/README.md) | [德語](../de/README.md) | [希臘語](../el/README.md) | [希伯來語](../he/README.md) | [印地語](../hi/README.md) | [匈牙利語](../hu/README.md) | [印尼語](../id/README.md) | [義大利語](../it/README.md) | [日語](../ja/README.md) | [坎納達語](../kn/README.md) | [韓語](../ko/README.md) | [立陶宛語](../lt/README.md) | [馬來語](../ms/README.md) | [馬拉雅拉姆語](../ml/README.md) | [馬拉地語](../mr/README.md) | [尼泊爾語](../ne/README.md) | [奈及利亞皮欽語](../pcm/README.md) | [挪威語](../no/README.md) | [波斯語 (法爾西語)](../fa/README.md) | [波蘭語](../pl/README.md) | [葡萄牙語 (巴西)](../br/README.md) | [葡萄牙語 (葡萄牙)](../pt/README.md) | [旁遮普語 (古魯穆奇文)](../pa/README.md) | [羅馬尼亞語](../ro/README.md) | [俄語](../ru/README.md) | [塞爾維亞語 (西里爾字母)](../sr/README.md) | [斯洛伐克語](../sk/README.md) | [斯洛文尼亞語](../sl/README.md) | [西班牙語](../es/README.md) | [斯瓦希里語](../sw/README.md) | [瑞典語](../sv/README.md) | [他加祿語 (菲律賓語)](../tl/README.md) | [泰米爾語](../ta/README.md) | [泰盧固語](../te/README.md) | [泰語](../th/README.md) | [土耳其語](../tr/README.md) | [烏克蘭語](../uk/README.md) | [烏爾都語](../ur/README.md) | [越南語](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## 一門教授 AI 代理開發生命週期基礎的課程
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 本課程涵蓋建立及部署 AI 代理的基礎課程。
 
-每堂課都建立在前一堂課的基礎上，因此建議從頭開始，逐步完成。
+每堂課都建立在前一堂課的基礎上，因此建議從頭開始，逐步完成所有課程。
 
 如果你想進一步探索 AI 代理主題，可以查看 [AI 代理初學者課程](https://aka.ms/ai-agents-beginners)。
 
@@ -58,8 +58,8 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🗃️ 課程內容
 
-| **課程**         | **說明**                                                                                  |
-|------------------|------------------------------------------------------------------------------------------|
+| **課程**           | **說明**                                                                                      |
+|--------------------|----------------------------------------------------------------------------------------------|
 | [代理設計](./lesson-1-agent-design/README.md)       | 介紹我們的「開發者入門」代理使用案例及如何設計有效的代理                                  |
 | [代理開發](./lesson-2-agent-development/README.md)  | 使用 Microsoft Agent Framework (MAF)，建立三個代理協助新開發者入門                        |
 | [代理評估](./lesson-3-agent-evals/README.md)        | 使用 Microsoft Foundry，了解我們的 AI 代理表現如何及如何改進                              |
@@ -78,7 +78,8 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 商標
 
-本專案可能包含專案、產品或服務的商標或標誌。授權使用 Microsoft 商標或標誌須遵守
+本專案可能包含專案、產品或服務的商標或標誌。授權使用 Microsoft
+商標或標誌須遵守並遵循
 [Microsoft 商標與品牌指南](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general)。
 在本專案修改版本中使用 Microsoft 商標或標誌不得造成混淆或暗示 Microsoft 贊助。
 任何第三方商標或標誌的使用須遵守該第三方的政策。
@@ -96,6 +97,6 @@ CO_OP_TRANSLATOR_METADATA:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**免責聲明**：  
-本文件係使用人工智能翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我們致力於確保準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件之母語版本應視為權威來源。對於重要資訊，建議採用專業人工翻譯。我們不對因使用本翻譯而引起之任何誤解或誤釋承擔責任。
+**免責聲明**：
+本文件係使用人工智能翻譯服務 [Co-op Translator](https://github.com/Azure/co-op-translator) 進行翻譯。雖然我哋致力於確保準確性，但請注意，自動翻譯可能包含錯誤或不準確之處。原始文件嘅母語版本應被視為權威來源。對於重要資訊，建議採用專業人工翻譯。我哋對因使用本翻譯而引起嘅任何誤解或誤釋概不負責。
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

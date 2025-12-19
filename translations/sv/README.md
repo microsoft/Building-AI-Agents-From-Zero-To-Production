@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:54:52+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:31:00+00:00",
   "source_file": "README.md",
   "language_code": "sv"
 }
@@ -16,16 +16,16 @@ CO_OP_TRANSLATOR_METADATA:
 #### Stöds via GitHub Action (Automatiserat & Alltid Uppdaterat)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](./README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+[Arabiska](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgariska](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Kinesiska (Förenklad)](../zh/README.md) | [Kinesiska (Traditionell, Hong Kong)](../hk/README.md) | [Kinesiska (Traditionell, Macau)](../mo/README.md) | [Kinesiska (Traditionell, Taiwan)](../tw/README.md) | [Kroatiska](../hr/README.md) | [Tjeckiska](../cs/README.md) | [Danska](../da/README.md) | [Holländska](../nl/README.md) | [Estniska](../et/README.md) | [Finska](../fi/README.md) | [Franska](../fr/README.md) | [Tyska](../de/README.md) | [Grekiska](../el/README.md) | [Hebreiska](../he/README.md) | [Hindi](../hi/README.md) | [Ungerska](../hu/README.md) | [Indonesiska](../id/README.md) | [Italienska](../it/README.md) | [Japanska](../ja/README.md) | [Kannada](../kn/README.md) | [Koreanska](../ko/README.md) | [Litauiska](../lt/README.md) | [Malajiska](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepalesiska](../ne/README.md) | [Nigeriansk Pidgin](../pcm/README.md) | [Norska](../no/README.md) | [Persiska (Farsi)](../fa/README.md) | [Polska](../pl/README.md) | [Portugisiska (Brasilien)](../br/README.md) | [Portugisiska (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumänska](../ro/README.md) | [Ryska](../ru/README.md) | [Serbiska (Kyrilliska)](../sr/README.md) | [Slovakiska](../sk/README.md) | [Slovenska](../sl/README.md) | [Spanska](../es/README.md) | [Swahili](../sw/README.md) | [Svenska](./README.md) | [Tagalog (Filippinska)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thailändska](../th/README.md) | [Turkiska](../tr/README.md) | [Ukrainska](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamesiska](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 ## En kurs som lär dig grunderna i AI-agenters utvecklingslivscykel
 
-[![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
+[![GitHub-licens](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
+[![GitHub-bidragsgivare](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
+[![GitHub-ärenden](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![PRs Välkomna](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -60,10 +60,10 @@ Fler alternativ kring modellhosting och tjänster kommer snart.
 
 | **Lektion**         | **Beskrivning**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Agent Design](./lesson-1-agent-design/README.md)       | En introduktion till vårt "Developer Onboarding" Agent Use Case och hur man designar effektiva agenter  |
-| [Agent Development](./lesson-2-agent-development/README.md)  | Använd Microsoft Agent Framework (MAF) för att skapa 3 agenter som hjälper nya utvecklare att komma igång.       |
-| [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Använd Microsoft Foundry för att ta reda på hur väl våra AI-agenter presterar och hur man förbättrar dem. |
-| [Agent Deployment](./lesson-4-agent-deployment/README.md)   | Använd Hosted Agents och OpenAI Chatkit för att se hur man distribuerar en AI-agent i produktion.       |
+| [Agentdesign](./lesson-1-agent-design/README.md)       | En introduktion till vårt "Developer Onboarding" Agent Use Case och hur man designar effektiva agenter  |
+| [Agentutveckling](./lesson-2-agent-development/README.md)  | Använd Microsoft Agent Framework (MAF) för att skapa 3 agenter som hjälper nya utvecklare att komma igång.       |
+| [Agentutvärderingar](./lesson-3-agent-evals/README.md)  | Använd Microsoft Foundry för att ta reda på hur väl våra AI-agenter presterar och hur man förbättrar dem. |
+| [Agentdistribution](./lesson-4-agent-deployment/README.md)   | Använd Hosted Agents och OpenAI Chatkit för att se hur man distribuerar en AI-agent i produktion.       |
 
 ## Bidra
 
@@ -72,7 +72,7 @@ Contributor License Agreement (CLA) som intygar att du har rätt att, och faktis
 rättigheterna att använda ditt bidrag. För detaljer, besök <https://cla.opensource.microsoft.com>.
 
 När du skickar in en pull request kommer en CLA-bot automatiskt att avgöra om du behöver tillhandahålla
-en CLA och märka PR:n lämpligt (t.ex. statuskontroll, kommentar). Följ bara instruktionerna
+en CLA och märka PR lämpligt (t.ex. statuskontroll, kommentar). Följ bara instruktionerna
 från boten. Du behöver bara göra detta en gång för alla repos som använder vår CLA.
 
 Detta projekt har antagit [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -85,7 +85,7 @@ Detta projekt kan innehålla varumärken eller logotyper för projekt, produkter
 varumärken eller logotyper är föremål för och måste följa
 [Microsofts riktlinjer för varumärken och varumärkesanvändning](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Användning av Microsofts varumärken eller logotyper i modifierade versioner av detta projekt får inte orsaka förvirring eller antyda Microsofts sponsring.
-All användning av tredjeparts varumärken eller logotyper är föremål för dessa tredjeparts policyer.
+All användning av tredjeparts varumärken eller logotyper är föremål för dessa tredjeparters policyer.
 
 ## Få hjälp
 

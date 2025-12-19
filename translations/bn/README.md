@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:45:09+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:22:27+00:00",
   "source_file": "README.md",
   "language_code": "bn"
 }
@@ -33,7 +33,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 এই কোর্সে AI এজেন্ট তৈরি ও ডিপ্লয়মেন্টের মৌলিক বিষয়গুলি শেখানো হয়।
 
-প্রতিটি পাঠ পূর্ববর্তীটির উপর ভিত্তি করে তৈরি, তাই আমরা সুপারিশ করি শুরু থেকে শুরু করে শেষ পর্যন্ত এগিয়ে যান।
+প্রতিটি পাঠ পূর্ববর্তী পাঠের উপর ভিত্তি করে তৈরি, তাই আমরা সুপারিশ করি শুরু থেকে শুরু করে শেষ পর্যন্ত এগিয়ে যান।
 
 আপনি যদি AI এজেন্ট বিষয়গুলি আরও অন্বেষণ করতে চান, তাহলে আপনি [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) দেখতে পারেন।
 
@@ -43,7 +43,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### আপনার যা প্রয়োজন
 
-প্রতিটি পাঠের নিজস্ব কোড স্যাম্পল রয়েছে যা আপনি লোকালি চালাতে পারেন। আপনি [এই রিপোটি fork করতে পারেন](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) আপনার নিজস্ব কপি তৈরি করার জন্য।
+প্রতিটি পাঠের নিজস্ব কোড স্যাম্পল রয়েছে যা আপনি স্থানীয়ভাবে চালাতে পারেন। আপনি [এই রিপোটি fork করতে পারেন](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) আপনার নিজের কপি তৈরি করার জন্য।
 
 এই কোর্স বর্তমানে নিম্নলিখিতগুলি ব্যবহার করে:
 
@@ -67,15 +67,15 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## অবদান রাখা
 
-এই প্রকল্পে অবদান এবং পরামর্শ স্বাগত। বেশিরভাগ অবদানের জন্য আপনাকে একটি Contributor License Agreement (CLA) এ সম্মত হতে হবে যা ঘোষণা করে যে আপনি আপনার অবদানের ব্যবহার করার অধিকার রাখেন এবং প্রকৃতপক্ষে তা প্রদান করছেন। বিস্তারিত জানতে <https://cla.opensource.microsoft.com> দেখুন।
+এই প্রকল্প অবদান এবং পরামর্শকে স্বাগত জানায়। বেশিরভাগ অবদানের জন্য আপনাকে একটি Contributor License Agreement (CLA) এ সম্মত হতে হবে যা ঘোষণা করে যে আপনি আপনার অবদান ব্যবহারের অধিকার রাখেন এবং প্রকৃতপক্ষে আমাদের সেই অধিকার প্রদান করছেন। বিস্তারিত জানতে <https://cla.opensource.microsoft.com> দেখুন।
 
-যখন আপনি একটি pull request জমা দেবেন, একটি CLA বট স্বয়ংক্রিয়ভাবে নির্ধারণ করবে আপনি CLA প্রদান করতে হবে কিনা এবং PR-কে উপযুক্তভাবে সাজাবে (যেমন, স্ট্যাটাস চেক, মন্তব্য)। বটের নির্দেশনা অনুসরণ করুন। আমাদের CLA ব্যবহার করা সমস্ত রিপোতে আপনাকে একবারই এটি করতে হবে।
+যখন আপনি একটি pull request জমা দেবেন, একটি CLA বট স্বয়ংক্রিয়ভাবে নির্ধারণ করবে আপনি CLA প্রদান করতে হবে কিনা এবং PR-কে উপযুক্তভাবে সাজাবে (যেমন, স্ট্যাটাস চেক, মন্তব্য)। বটের নির্দেশনা অনুসরণ করুন। আমাদের CLA ব্যবহার করা সমস্ত রিপোতে আপনাকে এটি একবারই করতে হবে।
 
-এই প্রকল্পটি [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) গ্রহণ করেছে। আরও তথ্যের জন্য [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) দেখুন অথবা [opencode@microsoft.com](mailto:opencode@microsoft.com) এ যোগাযোগ করুন।
+এই প্রকল্প [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) গ্রহণ করেছে। আরও তথ্যের জন্য [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) দেখুন অথবা [opencode@microsoft.com](mailto:opencode@microsoft.com) এ যোগাযোগ করুন।
 
 ## ট্রেডমার্ক
 
-এই প্রকল্পে প্রকল্প, পণ্য বা সেবার ট্রেডমার্ক বা লোগো থাকতে পারে। Microsoft ট্রেডমার্ক বা লোগোর অনুমোদিত ব্যবহার [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) অনুসরণ করতে হবে। এই প্রকল্পের সংশোধিত সংস্করণে Microsoft ট্রেডমার্ক বা লোগোর ব্যবহার বিভ্রান্তি সৃষ্টি করা বা Microsoft স্পন্সরশিপ বোঝানো উচিত নয়। তৃতীয় পক্ষের ট্রেডমার্ক বা লোগোর ব্যবহার সেই পক্ষের নীতিমালা অনুসরণ করবে।
+এই প্রকল্পে প্রকল্প, পণ্য বা সেবার ট্রেডমার্ক বা লোগো থাকতে পারে। Microsoft ট্রেডমার্ক বা লোগোর অনুমোদিত ব্যবহার [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) অনুসরণ করতে হবে। এই প্রকল্পের সংশোধিত সংস্করণে Microsoft ট্রেডমার্ক বা লোগোর ব্যবহার বিভ্রান্তি সৃষ্টি করা বা Microsoft স্পন্সরশিপ বোঝানো উচিত নয়। তৃতীয় পক্ষের ট্রেডমার্ক বা লোগোর ব্যবহার সেই তৃতীয় পক্ষের নীতিমালা অনুসরণ করবে।
 
 ## সাহায্য নেওয়া
 
@@ -83,7 +83,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-যদি আপনার পণ্য প্রতিক্রিয়া বা ত্রুটি থাকে, দেখুন:
+যদি আপনার পণ্য সম্পর্কিত প্রতিক্রিয়া বা ত্রুটি থাকে, দেখুন:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -91,5 +91,5 @@ CO_OP_TRANSLATOR_METADATA:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **অস্বীকৃতি**:  
-এই নথিটি AI অনুবাদ সেবা [Co-op Translator](https://github.com/Azure/co-op-translator) ব্যবহার করে অনূদিত হয়েছে। আমরা যথাসাধ্য সঠিকতার চেষ্টা করি, তবে স্বয়ংক্রিয় অনুবাদে ত্রুটি বা অসঙ্গতি থাকতে পারে। মূল নথিটি তার নিজস্ব ভাষায় কর্তৃত্বপূর্ণ উৎস হিসেবে বিবেচনা করা উচিত। গুরুত্বপূর্ণ তথ্যের জন্য পেশাদার মানব অনুবাদ সুপারিশ করা হয়। এই অনুবাদের ব্যবহারে সৃষ্ট কোনো ভুল বোঝাবুঝি বা ভুল ব্যাখ্যার জন্য আমরা দায়ী নই।
+এই নথিটি AI অনুবাদ সেবা [Co-op Translator](https://github.com/Azure/co-op-translator) ব্যবহার করে অনূদিত হয়েছে। আমরা যথাসাধ্য সঠিকতার চেষ্টা করি, তবে স্বয়ংক্রিয় অনুবাদে ত্রুটি বা অসঙ্গতি থাকতে পারে। মূল নথিটি তার নিজস্ব ভাষায়ই কর্তৃত্বপূর্ণ উৎস হিসেবে বিবেচিত হওয়া উচিত। গুরুত্বপূর্ণ তথ্যের জন্য পেশাদার মানব অনুবাদ গ্রহণ করার পরামর্শ দেওয়া হয়। এই অনুবাদের ব্যবহারে সৃষ্ট কোনো ভুল বোঝাবুঝি বা ভুল ব্যাখ্যার জন্য আমরা দায়ী নই।
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

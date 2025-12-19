@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:49:48+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:27:07+00:00",
   "source_file": "README.md",
   "language_code": "it"
 }
@@ -19,7 +19,7 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](./README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## Un corso che ti insegna le basi del Ciclo di Vita dello Sviluppo degli Agenti AI
+## Un corso che ti insegna le basi del Ciclo di Vita dello Sviluppo di Agenti AI
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -37,13 +37,13 @@ Ogni lezione si basa sulla precedente, quindi consigliamo di iniziare dall'inizi
 
 Se vuoi esplorare di più sugli argomenti degli Agenti AI, puoi dare un'occhiata al [Corso per Principianti sugli Agenti AI](https://aka.ms/ai-agents-beginners).
 
-### Incontra Altri Studenti, Fatti Rispondere alle Tue Domande
+### Incontra Altri Studenti, Ricevi Risposte alle Tue Domande
 
 Se rimani bloccato o hai domande sulla costruzione di Agenti AI, unisciti al nostro canale Discord dedicato nel [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### Cosa Ti Serve
 
-Ogni lezione ha il proprio esempio di codice che puoi eseguire localmente. Puoi [fare il fork di questo repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) per creare la tua copia.
+Ogni lezione ha il proprio esempio di codice che puoi eseguire localmente. Puoi [forkare questo repo](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) per creare la tua copia.
 
 Questo corso attualmente utilizza i seguenti strumenti:
 
@@ -54,7 +54,7 @@ Questo corso attualmente utilizza i seguenti strumenti:
 
 Assicurati di avere accesso a questi servizi prima di iniziare.
 
-Altre opzioni per l'hosting dei modelli e servizi in arrivo a breve.
+Altre opzioni per l'hosting di modelli e servizi arriveranno presto.
 
 ## 🗃️ Lezioni
 
@@ -68,7 +68,7 @@ Altre opzioni per l'hosting dei modelli e servizi in arrivo a breve.
 ## Contribuire
 
 Questo progetto accoglie contributi e suggerimenti. La maggior parte dei contributi richiede di accettare un
-Accordo di Licenza per i Contributori (CLA) che dichiara che hai il diritto, e effettivamente concedi,
+Accordo di Licenza per Contributori (CLA) che dichiara che hai il diritto e effettivamente concedi
 i diritti di utilizzare il tuo contributo. Per dettagli, visita <https://cla.opensource.microsoft.com>.
 
 Quando invii una pull request, un bot CLA determinerà automaticamente se devi fornire

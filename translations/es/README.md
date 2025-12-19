@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:36:02+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:14:09+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -54,7 +54,7 @@ Este curso actualmente utiliza lo siguiente:
 
 Por favor, asegúrate de tener acceso a estos servicios antes de comenzar.
 
-Más opciones sobre alojamiento de modelos y servicios próximamente.
+Próximamente más opciones sobre alojamiento de modelos y servicios.
 
 ## 🗃️ Lecciones
 
@@ -76,7 +76,7 @@ un CLA y decorará la PR apropiadamente (por ejemplo, verificación de estado, c
 proporcionadas por el bot. Solo necesitarás hacer esto una vez en todos los repositorios que usan nuestro CLA.
 
 Este proyecto ha adoptado el [Código de Conducta de Código Abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Para más información, consulta las [Preguntas Frecuentes del Código de Conducta](https://opensource.microsoft.com/codeofconduct/faq/) o
+Para más información, consulta las [Preguntas Frecuentes sobre el Código de Conducta](https://opensource.microsoft.com/codeofconduct/faq/) o
 contacta a [opencode@microsoft.com](mailto:opencode@microsoft.com) con cualquier pregunta o comentario adicional.
 
 ## Marcas Registradas
@@ -100,6 +100,6 @@ Si tienes comentarios sobre el producto o errores mientras construyes, visita:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Aviso Legal**:  
+**Aviso legal**:
 Este documento ha sido traducido utilizando el servicio de traducción automática [Co-op Translator](https://github.com/Azure/co-op-translator). Aunque nos esforzamos por la precisión, tenga en cuenta que las traducciones automáticas pueden contener errores o inexactitudes. El documento original en su idioma nativo debe considerarse la fuente autorizada. Para información crítica, se recomienda una traducción profesional realizada por humanos. No nos hacemos responsables de malentendidos o interpretaciones erróneas derivadas del uso de esta traducción.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

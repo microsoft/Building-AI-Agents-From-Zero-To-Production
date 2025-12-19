@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:59:10+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:35:20+00:00",
   "source_file": "README.md",
   "language_code": "he"
 }
 -->
-# בניית סוכני בינה מלאכותית מאפס ועד הפקה
+# בניית סוכני AI מאפס ועד לפרודקשן
 
-![בניית סוכני בינה מלאכותית מאפס ועד הפקה](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.he.png)
+![בניית סוכני AI מאפס ועד לפרודקשן](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.he.png)
 
 ### 🌐 תמיכה בריבוי שפות
 
@@ -19,37 +19,37 @@ CO_OP_TRANSLATOR_METADATA:
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](./README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-## קורס המלמד את יסודות מחזור חיי פיתוח סוכני בינה מלאכותית
+## קורס המלמד את יסודות מחזור חיי פיתוח סוכני AI
 
 [![רישיון GitHub](https://img.shields.io/github/license/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![תורמים ב-GitHub](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
 [![בעיות ב-GitHub](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
 [![בקשות משיכה ב-GitHub](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![ברוכים הבאים לבקשות משיכה](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
 ## 🌱 התחלה
 
-קורס זה כולל שיעורים המכסים את יסודות בניית והפצת סוכני בינה מלאכותית.
+קורס זה כולל שיעורים המכסים את יסודות בניית ופריסת סוכני AI.
 
-כל שיעור בונה על הקודם, לכן אנו ממליצים להתחיל מההתחלה ולעבוד עד הסוף.
+כל שיעור בונה על הקודם, לכן מומלץ להתחיל מההתחלה ולעבוד עד הסוף.
 
-אם ברצונך לחקור עוד על נושאי סוכני בינה מלאכותית, תוכל לבדוק את [קורס סוכני בינה מלאכותית למתחילים](https://aka.ms/ai-agents-beginners).
+אם ברצונך לחקור עוד נושאים הקשורים לסוכני AI, תוכל לבדוק את [קורס סוכני AI למתחילים](https://aka.ms/ai-agents-beginners).
 
 ### פגוש לומדים אחרים, קבל תשובות לשאלותיך
 
-אם נתקעת או יש לך שאלות לגבי בניית סוכני בינה מלאכותית, הצטרף לערוץ ה-Discord הייעודי שלנו ב-[Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+אם נתקעת או יש לך שאלות לגבי בניית סוכני AI, הצטרף לערוץ ה-Discord הייעודי שלנו ב-[Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### מה אתה צריך
 
-לכל שיעור יש דוגמת קוד משלו שניתן להריץ מקומית. תוכל [לשכפל את המאגר הזה](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) כדי ליצור עותק משלך.
+לכל שיעור יש דוגמת קוד משלו שניתן להריץ מקומית. תוכל [ליצור עותק משלך על ידי fork של המאגר](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork).
 
 קורס זה משתמש כרגע ב:
 
-- [מסגרת סוכנים של מיקרוסופט (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
+- [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
 - [Microsoft Foundry](https://azure.microsoft.com/products/ai-foundry)
-- [שירות Azure OpenAI](https://azure.microsoft.com/products/ai-foundry/models/openai)
+- [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
 אנא ודא שיש לך גישה לשירותים אלה לפני ההתחלה.
@@ -61,15 +61,15 @@ CO_OP_TRANSLATOR_METADATA:
 | **שיעור**         | **תיאור**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [עיצוב סוכן](./lesson-1-agent-design/README.md)       | מבוא למקרה השימוש "הכנסת מפתחים" של הסוכן שלנו ואיך לעצב סוכנים יעילים  |
-| [פיתוח סוכן](./lesson-2-agent-development/README.md)  | שימוש במסגרת סוכנים של מיקרוסופט (MAF), יצירת 3 סוכנים שיעזרו למפתחים חדשים להיכנס למערכת.       |
+| [פיתוח סוכן](./lesson-2-agent-development/README.md)  | שימוש ב-Microsoft Agent Framework (MAF), יצירת 3 סוכנים שיעזרו למפתחים חדשים להיכנס למערכת.       |
 | [הערכות סוכן](./lesson-3-agent-evals/README.md)  | שימוש ב-Microsoft Foundry, לגלות עד כמה הסוכנים שלנו מתפקדים ואיך לשפר אותם. |
-| [הפצת סוכן](./lesson-4-agent-deployment/README.md)   | שימוש בסוכנים מאוחסנים ו-OpenAI Chatkit, לראות איך לפרוס סוכן בינה מלאכותית לייצור.       |
+| [פריסת סוכן](./lesson-4-agent-deployment/README.md)   | שימוש בסוכנים מאוחסנים ו-OpenAI Chatkit, לראות איך לפרוס סוכן AI לפרודקשן.       |
 
 ## תרומה
 
-פרויקט זה מקבל בברכה תרומות והצעות. רוב התרומות דורשות שתסכים להסכם רישיון תורם (CLA) המצהיר שיש לך את הזכות, ושאתה אכן מעניק לנו את הזכויות להשתמש בתרומתך. לפרטים, בקר בכתובת <https://cla.opensource.microsoft.com>.
+פרויקט זה מקבל בברכה תרומות והצעות. רוב התרומות דורשות שתסכים להסכם רישיון תורם (CLA) המצהיר שיש לך את הזכות, ושאתה אכן מעניק לנו את הזכויות להשתמש בתרומתך. לפרטים, בקר ב-<https://cla.opensource.microsoft.com>.
 
-כאשר אתה מגיש בקשת משיכה, בוט CLA יקבע אוטומטית אם עליך לספק CLA ויעטר את בקשת המשיכה בהתאם (למשל, בדיקת סטטוס, תגובה). פשוט עקוב אחר ההוראות שמספק הבוט. תצטרך לעשות זאת רק פעם אחת בכל המאגרי הקוד שמשתמשים ב-CLA שלנו.
+כאשר אתה מגיש בקשת משיכה, בוט CLA יקבע אוטומטית אם עליך לספק CLA ויעטר את בקשת המשיכה בהתאם (למשל, בדיקת סטטוס, תגובה). פשוט עקוב אחר ההוראות של הבוט. תצטרך לעשות זאת רק פעם אחת בכל המאגרי הקוד שמשתמשים ב-CLA שלנו.
 
 פרויקט זה אימץ את [קוד ההתנהגות של מיקרוסופט בקוד פתוח](https://opensource.microsoft.com/codeofconduct/).
 למידע נוסף ראה את [שאלות נפוצות על קוד ההתנהגות](https://opensource.microsoft.com/codeofconduct/faq/) או צור קשר ב-[opencode@microsoft.com](mailto:opencode@microsoft.com) עם שאלות או הערות נוספות.
@@ -77,19 +77,19 @@ CO_OP_TRANSLATOR_METADATA:
 ## סימני מסחר
 
 פרויקט זה עשוי להכיל סימני מסחר או לוגואים של פרויקטים, מוצרים או שירותים. שימוש מורשה בסימני המסחר או בלוגואים של מיקרוסופט כפוף וצריך לעקוב אחרי
-[הנחיות סימני המסחר והמוניטין של מיקרוסופט](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+[הנחיות סימני המסחר והמותג של מיקרוסופט](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 שימוש בסימני מסחר או לוגואים של מיקרוסופט בגרסאות מותאמות של פרויקט זה אסור שיגרום לבלבול או יביע חסות של מיקרוסופט.
 כל שימוש בסימני מסחר או לוגואים של צד שלישי כפוף למדיניות של אותם צדדים שלישיים.
 
 ## קבלת עזרה
 
-אם נתקעת או יש לך שאלות לגבי בניית אפליקציות בינה מלאכותית, הצטרף:
+אם נתקעת או יש לך שאלות לגבי בניית אפליקציות AI, הצטרף:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
 אם יש לך משוב על המוצר או שגיאות בזמן הבנייה, בקר ב:
 
-[![פורום מפתחי Microsoft Foundry ב-GitHub](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 

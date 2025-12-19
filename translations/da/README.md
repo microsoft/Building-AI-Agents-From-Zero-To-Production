@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:55:51+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:32:03+00:00",
   "source_file": "README.md",
   "language_code": "da"
 }
@@ -31,11 +31,11 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Kom godt i gang
 
-Dette kursus indeholder lektioner, der dækker det grundlæggende i at bygge og implementere AI-agenter.
+Dette kursus har lektioner, der dækker det grundlæggende i at bygge og implementere AI-agenter.
 
-Hver lektion bygger videre på den foregående, så vi anbefaler at starte fra begyndelsen og arbejde dig igennem til slutningen.
+Hver lektion bygger videre på den forrige, så vi anbefaler at starte fra begyndelsen og arbejde dig igennem til slutningen.
 
-Hvis du vil udforske mere om AI Agent-emner, kan du tjekke [AI Agents For Beginners-kurset](https://aka.ms/ai-agents-beginners).
+Hvis du vil udforske mere om AI Agent-emner, kan du tjekke [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners).
 
 ### Mød andre elever, få svar på dine spørgsmål
 
@@ -52,7 +52,7 @@ Dette kursus bruger i øjeblikket følgende:
 - [Azure OpenAI Service](https://azure.microsoft.com/products/ai-foundry/models/openai)
 - [Azure CLI](https://learn.microsoft.com/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
-Sørg venligst for, at du har adgang til disse tjenester, før du går i gang.
+Sørg for, at du har adgang til disse tjenester, før du går i gang.
 
 Flere muligheder omkring modelhosting og tjenester kommer snart.
 
@@ -93,7 +93,7 @@ Hvis du sidder fast eller har spørgsmål om at bygge AI-apps, så deltag i:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Hvis du har produktfeedback eller oplever fejl under udvikling, besøg:
+Hvis du har produktfeedback eller fejl under udvikling, besøg:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 

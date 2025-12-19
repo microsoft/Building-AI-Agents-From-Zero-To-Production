@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:00:45+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:37:20+00:00",
   "source_file": "README.md",
   "language_code": "ms"
 }
@@ -37,7 +37,7 @@ Setiap pelajaran dibina berdasarkan pelajaran sebelumnya, jadi kami mengesyorkan
 
 Jika anda ingin meneroka lebih lanjut tentang topik Ejen AI, anda boleh semak [Kursus Ejen AI untuk Pemula](https://aka.ms/ai-agents-beginners).
 
-### Berjumpa dengan Pelajar Lain, Dapatkan Jawapan untuk Soalan Anda
+### Berjumpa Pelajar Lain, Dapatkan Jawapan untuk Soalan Anda
 
 Jika anda tersekat atau mempunyai sebarang soalan tentang membina Ejen AI, sertai Saluran Discord khusus kami di [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
@@ -68,7 +68,7 @@ Pilihan lebih lanjut mengenai hosting model dan perkhidmatan akan datang tidak l
 ## Menyumbang
 
 Projek ini mengalu-alukan sumbangan dan cadangan. Kebanyakan sumbangan memerlukan anda bersetuju dengan
-Perjanjian Lesen Penyumbang (CLA) yang menyatakan bahawa anda mempunyai hak, dan benar-benar memberi kami
+Perjanjian Lesen Penyumbang (CLA) yang menyatakan bahawa anda mempunyai hak, dan benar-benar memberikan kami
 hak untuk menggunakan sumbangan anda. Untuk maklumat lanjut, lawati <https://cla.opensource.microsoft.com>.
 
 Apabila anda menghantar permintaan tarik, bot CLA akan secara automatik menentukan sama ada anda perlu menyediakan
@@ -76,14 +76,14 @@ CLA dan menghias PR dengan sewajarnya (contohnya, pemeriksaan status, komen). Ik
 yang diberikan oleh bot. Anda hanya perlu melakukan ini sekali sahaja untuk semua repos yang menggunakan CLA kami.
 
 Projek ini telah mengamalkan [Kod Etika Sumber Terbuka Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Untuk maklumat lanjut, lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
+Untuk maklumat lanjut lihat [Soalan Lazim Kod Etika](https://opensource.microsoft.com/codeofconduct/faq/) atau
 hubungi [opencode@microsoft.com](mailto:opencode@microsoft.com) untuk sebarang soalan atau komen tambahan.
 
 ## Tanda Dagangan
 
 Projek ini mungkin mengandungi tanda dagangan atau logo untuk projek, produk, atau perkhidmatan. Penggunaan sah tanda dagangan atau logo Microsoft tertakluk kepada dan mesti mengikuti
 [Garisan Panduan Tanda Dagangan & Jenama Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Penggunaan tanda dagangan atau logo Microsoft dalam versi projek yang diubah suai tidak boleh menyebabkan kekeliruan atau memberi implikasi penajaan Microsoft.
+Penggunaan tanda dagangan atau logo Microsoft dalam versi projek yang diubah suai tidak boleh menyebabkan kekeliruan atau memberi gambaran penajaan Microsoft.
 Sebarang penggunaan tanda dagangan atau logo pihak ketiga tertakluk kepada polisi pihak ketiga tersebut.
 
 ## Mendapatkan Bantuan

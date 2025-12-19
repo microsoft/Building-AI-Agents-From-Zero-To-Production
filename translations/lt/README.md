@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:11:20+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:46:41+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
@@ -43,7 +43,7 @@ Jei užstrigote arba turite klausimų apie AI agentų kūrimą, prisijunkite pri
 
 ### Ko jums reikia
 
-Kiekviena pamoka turi savo kodo pavyzdį, kurį galite paleisti vietoje. Galite [forkinti šį repozitoriją](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork) ir sukurti savo kopiją.
+Kiekviena pamoka turi savo kodo pavyzdį, kurį galite paleisti vietoje. Galite [forkinti šį repozitoriją](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production/fork), kad sukurtumėte savo kopiją.
 
 Šis kursas šiuo metu naudoja:
 
@@ -54,7 +54,7 @@ Kiekviena pamoka turi savo kodo pavyzdį, kurį galite paleisti vietoje. Galite 
 
 Prieš pradėdami įsitikinkite, kad turite prieigą prie šių paslaugų.
 
-Netolimoje ateityje bus daugiau galimybių dėl modelių talpinimo ir paslaugų.
+Netrukus bus daugiau galimybių dėl modelių talpinimo ir paslaugų.
 
 ## 🗃️ Pamokos
 
@@ -62,22 +62,22 @@ Netolimoje ateityje bus daugiau galimybių dėl modelių talpinimo ir paslaugų.
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [Agentų dizainas](./lesson-1-agent-design/README.md)       | Įvadas į mūsų „Kūrėjo įvedimo“ agento naudojimo atvejį ir kaip kurti efektyvius agentus  |
 | [Agentų kūrimas](./lesson-2-agent-development/README.md)  | Naudojant Microsoft Agent Framework (MAF), sukurkite 3 agentus, kurie padės naujiems kūrėjams įsitraukti.       |
-| [Agentų vertinimas](./lesson-3-agent-evals/README.md)  | Naudojant Microsoft Foundry sužinokite, kaip gerai veikia mūsų AI agentai ir kaip juos patobulinti. |
+| [Agentų vertinimas](./lesson-3-agent-evals/README.md)  | Naudojant Microsoft Foundry, sužinokite, kaip gerai veikia mūsų AI agentai ir kaip juos patobulinti. |
 | [Agentų diegimas](./lesson-4-agent-deployment/README.md)   | Naudojant talpinamus agentus ir OpenAI Chatkit, sužinokite, kaip diegti AI agentą gamyboje.       |
 
 ## Prisidėjimas
 
-Šis projektas kviečia prisidėti ir teikti pasiūlymus. Dauguma prisidėjimų reikalauja, kad sutiktumėte su
-Prisidėjimo licencijos sutartimi (CLA), kurioje deklaruojate, kad turite teisę ir iš tikrųjų suteikiate mums
-teisę naudoti jūsų prisidėjimą. Daugiau informacijos rasite <https://cla.opensource.microsoft.com>.
+Šis projektas laukia indėlių ir pasiūlymų. Dauguma indėlių reikalauja, kad sutiktumėte su
+Indėlio licencijos sutartimi (CLA), kurioje deklaruojate, kad turite teisę ir iš tikrųjų suteikiate mums
+teisę naudoti jūsų indėlį. Daugiau informacijos rasite <https://cla.opensource.microsoft.com>.
 
 Kai pateikiate pull request, CLA robotas automatiškai nustatys, ar jums reikia pateikti
 CLA ir tinkamai pažymės PR (pvz., statuso patikrinimas, komentaras). Tiesiog vykdykite roboto nurodymus.
-Tai reikės padaryti tik vieną kartą visuose repozitorijuose, naudojančiuose mūsų CLA.
+Tai reikės padaryti tik vieną kartą visuose repozitorijose, naudojančiuose mūsų CLA.
 
 Šis projektas priėmė [Microsoft atvirojo kodo elgesio kodeksą](https://opensource.microsoft.com/codeofconduct/).
 Daugiau informacijos rasite [Elgesio kodekso DUK](https://opensource.microsoft.com/codeofconduct/faq/) arba
-kreipkitės el. paštu [opencode@microsoft.com](mailto:opencode@microsoft.com) su papildomais klausimais ar komentarais.
+kreipkitės el. paštu [opencode@microsoft.com](mailto:opencode@microsoft.com) dėl papildomų klausimų ar komentarų.
 
 ## Prekių ženklai
 
@@ -85,7 +85,7 @@ kreipkitės el. paštu [opencode@microsoft.com](mailto:opencode@microsoft.com) s
 prekių ženklų ar logotipų naudojimas yra reglamentuojamas ir turi atitikti
 [Microsoft prekių ženklų ir prekės ženklo gairių](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) reikalavimus.
 Microsoft prekių ženklų ar logotipų naudojimas modifikuotose šio projekto versijose neturi sukelti painiavos ar reikšti Microsoft rėmimą.
-Trečiųjų šalių prekių ženklų ar logotipų naudojimas yra reglamentuojamas tų trečiųjų šalių politikos.
+Bet koks trečiųjų šalių prekių ženklų ar logotipų naudojimas yra reglamentuojamas tų trečiųjų šalių politikos.
 
 ## Pagalbos gavimas
 
@@ -101,5 +101,5 @@ Jei turite produkto atsiliepimų ar klaidų kūrimo metu, apsilankykite:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Atsakomybės apribojimas**:
-Šis dokumentas buvo išverstas naudojant dirbtinio intelekto vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors siekiame tikslumo, prašome atkreipti dėmesį, kad automatiniai vertimai gali turėti klaidų ar netikslumų. Originalus dokumentas gimtąja kalba turėtų būti laikomas autoritetingu šaltiniu. Kritinei informacijai rekomenduojamas profesionalus žmogaus vertimas. Mes neatsakome už bet kokius nesusipratimus ar neteisingus aiškinimus, kilusius dėl šio vertimo naudojimo.
+Šis dokumentas buvo išverstas naudojant dirbtinio intelekto vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors siekiame tikslumo, prašome atkreipti dėmesį, kad automatiniai vertimai gali turėti klaidų ar netikslumų. Originalus dokumentas gimtąja kalba turėtų būti laikomas autoritetingu šaltiniu. Kritinei informacijai rekomenduojama naudoti profesionalų žmogaus vertimą. Mes neatsakome už bet kokius nesusipratimus ar neteisingus aiškinimus, kilusius dėl šio vertimo naudojimo.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

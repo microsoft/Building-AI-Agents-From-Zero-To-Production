@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:57:33+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:33:42+00:00",
   "source_file": "README.md",
   "language_code": "fi"
 }
@@ -25,7 +25,7 @@ CO_OP_TRANSLATOR_METADATA:
 [![GitHub-yhteistyökumppanit](https://img.shields.io/github/contributors/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
 [![GitHub-ongelmat](https://img.shields.io/github/issues/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/issues/?WT.mc_id=academic-105485-koreyst)
 [![GitHub-pyynnöt](https://img.shields.io/github/issues-pr/microsoft/Building-AI-Agents-From-Zero-To-Production.svg)](https://GitHub.com/microsoft/Building-AI-Agents-From-Zero-To-Production/pulls/?WT.mc_id=academic-105485-koreyst)
-[![PR:t tervetulleita](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com?WT.mc_id=academic-105485-koreyst)
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
@@ -67,22 +67,21 @@ Lisävaihtoehtoja mallien isännöintiin ja palveluihin tulossa pian.
 
 ## Osallistuminen
 
-Tämä projekti toivottaa tervetulleiksi panokset ja ehdotukset. Useimmat panokset edellyttävät, että hyväksyt
-Contributor License Agreementin (CLA), jossa vakuutat, että sinulla on oikeus ja että myönnät meille
-oikeudet käyttää panostasi. Lisätietoja löytyy osoitteesta <https://cla.opensource.microsoft.com>.
+Tämä projekti toivottaa tervetulleiksi osallistumiset ja ehdotukset. Useimmat osallistumiset edellyttävät, että hyväksyt
+Contributor License Agreementin (CLA), jossa vakuutat, että sinulla on oikeus ja myönnät meille oikeudet käyttää panostustasi.
+Lisätietoja löytyy osoitteesta <https://cla.opensource.microsoft.com>.
 
-Kun lähetät pull requestin, CLA-botti määrittää automaattisesti, tarvitsetko toimittaa CLA:n ja merkitsee PR:n asianmukaisesti (esim. tilantarkistus, kommentti). Noudata vain botin antamia ohjeita. Tämä tarvitsee tehdä vain kerran kaikissa CLA:ta käyttävissä repositorioissa.
+Kun lähetät pull requestin, CLA-botti määrittää automaattisesti, tarvitsetko CLA:n ja merkitsee PR:n asianmukaisesti (esim. tilantarkistus, kommentti). Noudata vain botin antamia ohjeita. Tämä täytyy tehdä vain kerran kaikissa CLA:ta käyttävissä repositorioissa.
 
 Tämä projekti on ottanut käyttöön [Microsoftin avoimen lähdekoodin käytösohjeet](https://opensource.microsoft.com/codeofconduct/).
 Lisätietoja löytyy [Käytösohjeiden UKK:sta](https://opensource.microsoft.com/codeofconduct/faq/) tai ota yhteyttä osoitteeseen [opencode@microsoft.com](mailto:opencode@microsoft.com) lisäkysymyksiä tai kommentteja varten.
 
-## Tavamerkit
+## Tavara- ja palvelumerkit
 
-Tämä projekti saattaa sisältää tavamerkkejä tai logoja projekteista, tuotteista tai palveluista. Microsoftin tavamerkkien tai logojen luvallinen käyttö on
-aiheena ja sen on noudatettava
-[Microsoftin tavaramerkki- ja brändiohjeita](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Microsoftin tavaramerkkien tai logojen käyttö muokatuissa versioissa tästä projektista ei saa aiheuttaa sekaannusta tai antaa vaikutelmaa Microsoftin sponsoroinnista.
-Kolmansien osapuolien tavaramerkkien tai logojen käyttö on näiden osapuolten sääntöjen alaista.
+Tämä projekti saattaa sisältää tavara- tai palvelumerkkejä projekteille, tuotteille tai palveluille. Microsoftin tavara- ja palvelumerkkien käyttö on sallittua ja sen on noudatettava
+[Microsoftin tavara- ja brändiohjeita](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Microsoftin tavara- ja palvelumerkkien käyttö muokatuissa versioissa ei saa aiheuttaa sekaannusta tai antaa vaikutelmaa Microsoftin sponsoroinnista.
+Kolmansien osapuolten tavara- ja palvelumerkkien käyttö on näiden osapuolten sääntöjen alaista.
 
 ## Apua saatavilla
 
@@ -90,7 +89,7 @@ Jos jäät jumiin tai sinulla on kysyttävää tekoälysovellusten rakentamisest
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Jos sinulla on tuotepalautetta tai kohtaat virheitä rakentamisen aikana, käy:
+Jos sinulla on palautetta tuotteesta tai kohtaat virheitä rakentamisen aikana, käy:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -98,5 +97,5 @@ Jos sinulla on tuotepalautetta tai kohtaat virheitä rakentamisen aikana, käy:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Vastuuvapauslauseke**:
-Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, huomioithan, että automaattikäännöksissä saattaa esiintyä virheitä tai epätarkkuuksia. Alkuperäistä asiakirjaa sen alkuperäiskielellä tulee pitää virallisena lähteenä. Tärkeissä asioissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa tämän käännöksen käytöstä aiheutuvista väärinymmärryksistä tai tulkinnoista.
+Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, otathan huomioon, että automaattikäännöksissä saattaa esiintyä virheitä tai epätarkkuuksia. Alkuperäinen asiakirja sen alkuperäiskielellä on virallinen lähde. Tärkeissä asioissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa tämän käännöksen käytöstä aiheutuvista väärinymmärryksistä tai tulkinnoista.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

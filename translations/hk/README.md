@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T13:42:22+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:19:45+00:00",
   "source_file": "README.md",
   "language_code": "hk"
 }
@@ -39,7 +39,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ### 認識其他學習者，獲得問題解答
 
-如果你遇到困難或對構建 AI 代理有任何疑問，歡迎加入我們在 [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) 的專屬 Discord 頻道。
+如果你遇到困難或對構建 AI 代理有任何疑問，請加入我們在 [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) 的專用 Discord 頻道。
 
 ### 你需要準備的東西
 
@@ -86,7 +86,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 尋求協助
 
-如果你遇到困難或對構建 AI 應用有任何疑問，歡迎加入：
+如果你遇到困難或對構建 AI 應用有任何疑問，請加入：
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 

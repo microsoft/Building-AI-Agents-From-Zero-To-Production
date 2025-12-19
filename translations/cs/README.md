@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "03d63bb8bfb7f068db97b3703965a24f",
-  "translation_date": "2025-12-17T14:03:42+00:00",
+  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
+  "translation_date": "2025-12-18T14:39:23+00:00",
   "source_file": "README.md",
   "language_code": "cs"
 }
@@ -60,9 +60,9 @@ Brzy přibudou další možnosti ohledně hostování modelů a služeb.
 
 | **Lekce**         | **Popis**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do našeho případu použití "Onboarding vývojáře" a jak navrhnout efektivní agenty  |
+| [Návrh agenta](./lesson-1-agent-design/README.md)       | Úvod do našeho případu použití "Developer Onboarding" a jak navrhnout efektivní agenty  |
 | [Vývoj agenta](./lesson-2-agent-development/README.md)  | Pomocí Microsoft Agent Framework (MAF) vytvořte 3 agenty, kteří pomohou novým vývojářům s onboardováním.       |
-| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak dobře naši AI agenti fungují a jak je zlepšit. |
+| [Hodnocení agentů](./lesson-3-agent-evals/README.md)  | Pomocí Microsoft Foundry zjistěte, jak si naši AI agenti vedou a jak je zlepšit. |
 | [Nasazení agenta](./lesson-4-agent-deployment/README.md)   | Pomocí Hosted Agents a OpenAI Chatkit zjistěte, jak nasadit AI agenta do produkce.       |
 
 ## Přispívání
@@ -72,7 +72,7 @@ Licenční smlouvou přispěvatele (CLA), která potvrzuje, že máte právo a s
 práva k použití vašeho příspěvku. Podrobnosti najdete na <https://cla.opensource.microsoft.com>.
 
 Když odešlete pull request, bot CLA automaticky zjistí, zda musíte poskytnout
-CLA a označí PR odpovídajícím způsobem (např. kontrola stavu, komentář). Stačí postupovat podle pokynů
+CLA a příslušně označí PR (např. kontrola stavu, komentář). Stačí postupovat podle pokynů
 bota. Toto budete muset udělat pouze jednou pro všechny repozitáře používající naši CLA.
 
 Tento projekt přijal [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -100,5 +100,5 @@ Pokud máte zpětnou vazbu k produktu nebo chyby při vývoji, navštivte:
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Prohlášení o vyloučení odpovědnosti**:  
-Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatické překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
+Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). Přestože usilujeme o přesnost, mějte prosím na paměti, že automatické překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro důležité informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoli nedorozumění nebo nesprávné výklady vyplývající z použití tohoto překladu.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
