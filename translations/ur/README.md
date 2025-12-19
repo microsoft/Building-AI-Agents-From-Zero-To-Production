@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
-  "translation_date": "2025-12-18T14:18:06+00:00",
+  "original_hash": "d8cf941adeb146a5f00f04e4726c3033",
+  "translation_date": "2025-12-19T09:54:51+00:00",
   "source_file": "README.md",
   "language_code": "ur"
 }
 -->
-# زیرو سے پروڈکشن تک AI ایجنٹس کی تعمیر
+# صفر سے پروڈکشن تک AI ایجنٹس کی تعمیر
 
-![زیرو سے پروڈکشن تک AI ایجنٹس کی تعمیر](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.ur.png)
+![صفر سے پروڈکشن تک AI ایجنٹس کی تعمیر](../../translated_images/repo-thumbnail.083b24afed61b6dd27a7fc53798bebe9edf688a41031163a1fca9f61c64d63ec.ur.png)
 
 ### 🌐 کثیراللسانی معاونت
 
@@ -37,9 +37,9 @@ CO_OP_TRANSLATOR_METADATA:
 
 اگر آپ AI ایجنٹس کے موضوعات کے بارے میں مزید جاننا چاہتے ہیں، تو آپ [AI Agents For Beginners Course](https://aka.ms/ai-agents-beginners) دیکھ سکتے ہیں۔
 
-### دوسرے سیکھنے والوں سے ملیں، اپنے سوالات کے جواب حاصل کریں
+### دیگر سیکھنے والوں سے ملیں، اپنے سوالات کے جواب حاصل کریں
 
-اگر آپ پھنس جائیں یا AI ایجنٹس کی تعمیر کے بارے میں کوئی سوال ہو، تو ہمارے مخصوص Discord چینل میں شامل ہوں جو [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) میں موجود ہے۔
+اگر آپ پھنس جائیں یا AI ایجنٹس کی تعمیر کے بارے میں کوئی سوال ہو، تو ہمارے مخصوص Discord چینل میں شامل ہوں جو [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6) میں ہے۔
 
 ### آپ کو کیا چاہیے
 
@@ -62,34 +62,82 @@ CO_OP_TRANSLATOR_METADATA:
 |--------------------|--------------------------------------------------------------------------------------------------|
 | [ایجنٹ ڈیزائن](./lesson-1-agent-design/README.md)       | ہمارے "ڈیولپر آن بورڈنگ" ایجنٹ استعمال کیس کا تعارف اور مؤثر ایجنٹس ڈیزائن کرنے کا طریقہ  |
 | [ایجنٹ ڈیولپمنٹ](./lesson-2-agent-development/README.md)  | Microsoft Agent Framework (MAF) کا استعمال کرتے ہوئے، نئے ڈیولپرز کی مدد کے لیے 3 ایجنٹس بنائیں۔       |
-| [ایجنٹ جائزے](./lesson-3-agent-evals/README.md)  | Microsoft Foundry کا استعمال کرتے ہوئے، معلوم کریں کہ ہمارے AI ایجنٹس کی کارکردگی کیسی ہے اور انہیں کیسے بہتر بنایا جا سکتا ہے۔ |
+| [ایجنٹ جائزے](./lesson-3-agent-evals/README.md)  | Microsoft Foundry کا استعمال کرتے ہوئے، معلوم کریں کہ ہمارے AI ایجنٹس کی کارکردگی کیسی ہے اور انہیں کیسے بہتر بنایا جائے۔ |
 | [ایجنٹ تعیناتی](./lesson-4-agent-deployment/README.md)   | Hosted Agents اور OpenAI Chatkit کا استعمال کرتے ہوئے، AI ایجنٹ کو پروڈکشن میں تعینات کرنے کا طریقہ دیکھیں۔       |
+
+
+## 🎒 دیگر کورسز
+
+ہماری ٹیم دیگر کورسز بھی تیار کرتی ہے! دیکھیں:
+
+<!-- CO-OP TRANSLATOR OTHER COURSES START -->
+### LangChain
+[![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / Agents
+[![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Generative AI Series
+[![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### بنیادی تعلیم
+[![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cybersecurity for Beginners](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![ابتدائیوں کے لیے ویب ڈویلپمنٹ](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![ابتدائیوں کے لیے آئی او ٹی](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![ابتدائیوں کے لیے ایکس آر ڈیولپمنٹ](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### کوپائلٹ سیریز
+[![AI جوڑے ہوئے پروگرامنگ کے لیے کوپائلٹ](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![C#/.NET کے لیے کوپائلٹ](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![کوپائلٹ ایڈونچر](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+<!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
 ## تعاون
 
 یہ پروجیکٹ تعاون اور تجاویز کا خیرمقدم کرتا ہے۔ زیادہ تر تعاون کے لیے آپ کو ایک
-Contributor License Agreement (CLA) پر رضامندی دینی ہوتی ہے جس میں آپ یہ اعلان کرتے ہیں کہ آپ کے پاس اپنے تعاون کے حقوق دینے کا حق ہے اور آپ واقعی ہمیں یہ حقوق دے رہے ہیں۔ تفصیلات کے لیے ملاحظہ کریں <https://cla.opensource.microsoft.com>۔
+کنٹریبیوٹر لائسنس ایگریمنٹ (CLA) سے اتفاق کرنا ہوگا جس میں آپ یہ اعلان کرتے ہیں کہ آپ کے پاس
+اپنا تعاون استعمال کرنے کے حقوق ہیں اور آپ واقعی ہمیں یہ حقوق دیتے ہیں۔ تفصیلات کے لیے ملاحظہ کریں <https://cla.opensource.microsoft.com>۔
 
-جب آپ کوئی پل ریکویسٹ جمع کرواتے ہیں، تو CLA بوٹ خود بخود طے کرے گا کہ آیا آپ کو CLA فراہم کرنے کی ضرورت ہے اور PR کو مناسب طریقے سے نشان زد کرے گا (مثلاً، اسٹیٹس چیک، تبصرہ)۔ بس بوٹ کی ہدایات پر عمل کریں۔ آپ کو یہ صرف ایک بار تمام ریپوز میں کرنا ہوگا جو ہمارے CLA استعمال کرتے ہیں۔
+جب آپ پل ریکویسٹ جمع کرواتے ہیں، تو CLA بوٹ خود بخود تعین کرے گا کہ آیا آپ کو CLA فراہم کرنے کی ضرورت ہے
+اور PR کو مناسب طریقے سے سجا دے گا (مثلاً، اسٹیٹس چیک، تبصرہ)۔ بس بوٹ کی ہدایات پر عمل کریں۔
+آپ کو یہ صرف ایک بار تمام ریپوز میں کرنا ہوگا جو ہمارے CLA استعمال کرتے ہیں۔
 
 اس پروجیکٹ نے [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) کو اپنایا ہے۔
 مزید معلومات کے لیے [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) دیکھیں یا
-کسی بھی اضافی سوالات یا تبصروں کے لیے [opencode@microsoft.com](mailto:opencode@microsoft.com) سے رابطہ کریں۔
+کسی اضافی سوالات یا تبصروں کے لیے [opencode@microsoft.com](mailto:opencode@microsoft.com) سے رابطہ کریں۔
 
 ## تجارتی نشان
 
-یہ پروجیکٹ پروجیکٹس، مصنوعات، یا خدمات کے لیے تجارتی نشان یا لوگوز پر مشتمل ہو سکتا ہے۔ Microsoft کے تجارتی نشان یا لوگوز کا مجاز استعمال
-[Microsoft کے تجارتی نشان اور برانڈ گائیڈ لائنز](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) کے تابع ہے اور ان کی پیروی کرنا ضروری ہے۔
-اس پروجیکٹ کے ترمیم شدہ ورژنز میں Microsoft کے تجارتی نشان یا لوگوز کا استعمال الجھن پیدا نہیں کرنا چاہیے یا Microsoft کی سرپرستی کا تاثر نہیں دینا چاہیے۔
-تیسری پارٹی کے تجارتی نشان یا لوگوز کا کوئی بھی استعمال متعلقہ تیسری پارٹی کی پالیسیوں کے تابع ہے۔
+یہ پروجیکٹ پروجیکٹس، مصنوعات، یا خدمات کے لیے تجارتی نشان یا لوگوز پر مشتمل ہو سکتا ہے۔ مائیکروسافٹ کے
+تجارتی نشان یا لوگوز کا مجاز استعمال [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) کے تابع ہے اور اس کی پیروی کرنا ضروری ہے۔
+اس پروجیکٹ کے ترمیم شدہ ورژنز میں مائیکروسافٹ کے تجارتی نشان یا لوگوز کا استعمال الجھن پیدا نہیں کرنا چاہیے یا مائیکروسافٹ کی سرپرستی کا تاثر نہیں دینا چاہیے۔
+تیسری پارٹی کے تجارتی نشان یا لوگوز کا کوئی بھی استعمال ان تیسری پارٹیوں کی پالیسیوں کے تابع ہے۔
 
 ## مدد حاصل کریں
 
-اگر آپ پھنس جائیں یا AI ایپس کی تعمیر کے بارے میں کوئی سوال ہو، تو شامل ہوں:
+اگر آپ پھنس جائیں یا AI ایپس بنانے کے بارے میں کوئی سوال ہو، تو شامل ہوں:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-اگر آپ کے پاس پروڈکٹ فیڈبیک ہو یا تعمیر کے دوران کوئی غلطی ہو تو ملاحظہ کریں:
+اگر آپ کے پاس پروڈکٹ فیڈبیک یا تعمیر کے دوران غلطیاں ہوں تو ملاحظہ کریں:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
@@ -97,5 +145,5 @@ Contributor License Agreement (CLA) پر رضامندی دینی ہوتی ہے �
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **دستخطی دستبرداری**:  
-یہ دستاویز AI ترجمہ سروس [Co-op Translator](https://github.com/Azure/co-op-translator) کے ذریعے ترجمہ کی گئی ہے۔ اگرچہ ہم درستگی کے لیے کوشاں ہیں، براہ کرم اس بات سے آگاہ رہیں کہ خودکار ترجمے میں غلطیاں یا عدم درستیاں ہو سکتی ہیں۔ اصل دستاویز اپنی مادری زبان میں معتبر ماخذ سمجھی جانی چاہیے۔ اہم معلومات کے لیے پیشہ ور انسانی ترجمہ کی سفارش کی جاتی ہے۔ اس ترجمے کے استعمال سے پیدا ہونے والی کسی بھی غلط فہمی یا غلط تشریح کی ذمہ داری ہم پر عائد نہیں ہوتی۔
+یہ دستاویز AI ترجمہ سروس [Co-op Translator](https://github.com/Azure/co-op-translator) کے ذریعے ترجمہ کی گئی ہے۔ اگرچہ ہم درستگی کے لیے کوشاں ہیں، براہ کرم آگاہ رہیں کہ خودکار ترجمے میں غلطیاں یا عدم درستیاں ہو سکتی ہیں۔ اصل دستاویز اپنی مادری زبان میں ہی معتبر ماخذ سمجھی جانی چاہیے۔ اہم معلومات کے لیے پیشہ ور انسانی ترجمہ کی سفارش کی جاتی ہے۔ اس ترجمے کے استعمال سے پیدا ہونے والی کسی بھی غلط فہمی یا غلط تشریح کی ذمہ داری ہم پر عائد نہیں ہوتی۔
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

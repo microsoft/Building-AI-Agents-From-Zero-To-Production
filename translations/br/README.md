@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "df86a71d9a4a65d134d60f783a2aba86",
-  "translation_date": "2025-12-18T14:26:06+00:00",
+  "original_hash": "d8cf941adeb146a5f00f04e4726c3033",
+  "translation_date": "2025-12-19T10:10:44+00:00",
   "source_file": "README.md",
   "language_code": "br"
 }
@@ -31,15 +31,15 @@ CO_OP_TRANSLATOR_METADATA:
 
 ## 🌱 Começando
 
-Este curso possui lições que cobrem os fundamentos de construir e implantar Agentes de IA.
+Este curso possui lições que cobrem os fundamentos de construção e implantação de Agentes de IA.
 
 Cada lição se baseia na anterior, então recomendamos começar do início e seguir até o fim.
 
 Se quiser explorar mais sobre tópicos de Agentes de IA, você pode conferir o [Curso de Agentes de IA para Iniciantes](https://aka.ms/ai-agents-beginners).
 
-### Conheça Outros Estudantes, Tire Suas Dúvidas
+### Conheça Outros Alunos, Tire Suas Dúvidas
 
-Se você ficar preso ou tiver dúvidas sobre como construir Agentes de IA, entre no nosso canal dedicado no Discord no [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
+Se você ficar preso ou tiver dúvidas sobre como construir Agentes de IA, junte-se ao nosso canal dedicado no Discord no [Microsoft Foundry Discord](https://discord.gg/Kuaw3ktsu6).
 
 ### O Que Você Precisa
 
@@ -60,46 +60,91 @@ Mais opções sobre hospedagem de modelos e serviços em breve.
 
 | **Lição**         | **Descrição**                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------|
-| [Design do Agente](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso caso de uso "Onboarding de Desenvolvedor" e como projetar agentes eficazes  |
+| [Design do Agente](./lesson-1-agent-design/README.md)       | Uma introdução ao nosso Caso de Uso "Onboarding de Desenvolvedor" e como projetar agentes eficazes  |
 | [Desenvolvimento do Agente](./lesson-2-agent-development/README.md)  | Usando o Microsoft Agent Framework (MAF), crie 3 agentes para ajudar novos desenvolvedores no onboarding.       |
 | [Avaliações do Agente](./lesson-3-agent-evals/README.md)  | Usando o Microsoft Foundry, descubra o desempenho dos nossos Agentes de IA e como melhorá-los. |
 | [Implantação do Agente](./lesson-4-agent-deployment/README.md)   | Usando os Agentes Hospedados e OpenAI Chatkit, veja como implantar um Agente de IA em produção.       |
+
+
+## 🎒 Outros Cursos
+
+Nossa equipe produz outros cursos! Confira:
+
+<!-- CO-OP TRANSLATOR OTHER COURSES START -->
+### LangChain
+[![LangChain4j para Iniciantes](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js para Iniciantes](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+
+---
+
+### Azure / Edge / MCP / Agentes
+[![AZD para Iniciantes](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI para Iniciantes](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP para Iniciantes](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Agentes de IA para Iniciantes](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Série de IA Generativa
+[![IA Generativa para Iniciantes](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![IA Generativa (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![IA Generativa (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![IA Generativa (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Aprendizado Básico
+[![ML para Iniciantes](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Ciência de Dados para Iniciantes](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![IA para Iniciantes](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cibersegurança para Iniciantes](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Desenvolvimento Web para Iniciantes](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT para Iniciantes](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![Desenvolvimento XR para Iniciantes](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Série Copilot
+[![Copilot para Programação em Par com IA](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![Copilot para C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Aventura Copilot](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+<!-- CO-OP TRANSLATOR OTHER COURSES END -->
 
 ## Contribuindo
 
 Este projeto aceita contribuições e sugestões. A maioria das contribuições exige que você concorde com um
 Acordo de Licença de Contribuidor (CLA) declarando que você tem o direito e realmente concede a nós
-os direitos para usar sua contribuição. Para detalhes, visite <https://cla.opensource.microsoft.com>.
+os direitos de usar sua contribuição. Para mais detalhes, visite <https://cla.opensource.microsoft.com>.
 
 Quando você enviar um pull request, um bot CLA determinará automaticamente se você precisa fornecer
 um CLA e decorará o PR apropriadamente (por exemplo, verificação de status, comentário). Basta seguir as instruções
 fornecidas pelo bot. Você precisará fazer isso apenas uma vez em todos os repositórios que usam nosso CLA.
 
 Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).
-Para mais informações, veja as [Perguntas Frequentes do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
-contate [opencode@microsoft.com](mailto:opencode@microsoft.com) para quaisquer dúvidas ou comentários adicionais.
+Para mais informações, veja as [Perguntas Frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
+entre em contato com [opencode@microsoft.com](mailto:opencode@microsoft.com) para quaisquer dúvidas ou comentários adicionais.
 
 ## Marcas Registradas
 
 Este projeto pode conter marcas registradas ou logotipos de projetos, produtos ou serviços. O uso autorizado das marcas
-ou logotipos da Microsoft está sujeito e deve seguir
-[Diretrizes de Marcas e Marca da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-O uso de marcas ou logotipos da Microsoft em versões modificadas deste projeto não deve causar confusão nem implicar patrocínio da Microsoft.
-Qualquer uso de marcas ou logotipos de terceiros está sujeito às políticas desses terceiros.
+registradas ou logotipos da Microsoft está sujeito e deve seguir
+[Diretrizes de Marcas e Identidade Visual da Microsoft](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+O uso de marcas registradas ou logotipos da Microsoft em versões modificadas deste projeto não deve causar confusão nem implicar patrocínio da Microsoft.
+Qualquer uso de marcas registradas ou logotipos de terceiros está sujeito às políticas desses terceiros.
 
 ## Obtendo Ajuda
 
-Se você ficar preso ou tiver dúvidas sobre como construir aplicativos de IA, entre em:
+Se você ficar preso ou tiver dúvidas sobre como criar aplicativos de IA, participe:
 
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/Kuaw3ktsu6)
 
-Se você tiver feedback sobre o produto ou erros durante a construção, visite:
+Se você tiver feedback sobre o produto ou erros durante o desenvolvimento, visite:
 
-[![Fórum de Desenvolvedores Microsoft Foundry](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Aviso Legal**:  
-Este documento foi traduzido utilizando o serviço de tradução por IA [Co-op Translator](https://github.com/Azure/co-op-translator). Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automáticas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte autorizada. Para informações críticas, recomenda-se tradução profissional realizada por humanos. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações incorretas decorrentes do uso desta tradução.
+Este documento foi traduzido utilizando o serviço de tradução por IA [Co-op Translator](https://github.com/Azure/co-op-translator). Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automáticas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte autorizada. Para informações críticas, recomenda-se tradução profissional humana. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações incorretas decorrentes do uso desta tradução.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
