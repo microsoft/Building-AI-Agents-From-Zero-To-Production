@@ -30,17 +30,6 @@
     "language_code": "he"
   },
   "__translation_failures__": {
-    "lesson-1-agent-design/README.md": {
-      "original_hash": "aa3ee7cc3f4ecc906ff982e404ced572",
-      "source_file": "lesson-1-agent-design/README.md",
-      "language_code": "he",
-      "failure_date": "2026-07-17T00:02:22+00:00",
-      "status": "failed",
-      "error_type": "TranslationIncompleteError",
-      "error_message": "Markdown translation remained incomplete for chunk 1 of 'README.md', and the chunk could not be split further.",
-      "translator_version": "0.20.0",
-      "failure_policy_version": 1
-    },
     "AGENTS.md": {
       "original_hash": "f0b1a0bf6debb012dfd5dc27a88c8b66",
       "source_file": "AGENTS.md",
@@ -104,8 +93,8 @@
     "language_code": "he"
   },
   "lesson-1-agent-design/README.md": {
-    "original_hash": "99c07849641a850775c188c9333f31e5",
-    "translation_date": "2025-12-12T18:33:27+00:00",
+    "original_hash": "aa3ee7cc3f4ecc906ff982e404ced572",
+    "translation_date": "2026-08-24T13:05:24+00:00",
     "source_file": "lesson-1-agent-design/README.md",
     "language_code": "he"
   },
