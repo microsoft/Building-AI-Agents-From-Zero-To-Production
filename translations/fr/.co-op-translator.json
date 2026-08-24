@@ -34,21 +34,10 @@
       "original_hash": "aa3ee7cc3f4ecc906ff982e404ced572",
       "source_file": "lesson-1-agent-design/README.md",
       "language_code": "fr",
-      "failure_date": "2026-07-16T22:24:46+00:00",
+      "failure_date": "2026-08-24T11:36:02+00:00",
       "status": "failed",
       "error_type": "TranslationIncompleteError",
       "error_message": "Markdown translation remained incomplete for chunk 1 of 'README.md', and the chunk could not be split further.",
-      "translator_version": "0.20.0",
-      "failure_policy_version": 1
-    },
-    "lesson-3-agent-evals/README.md": {
-      "original_hash": "38e7ffd3083d4be9c1a7b7dc1bc6de39",
-      "source_file": "lesson-3-agent-evals/README.md",
-      "language_code": "fr",
-      "failure_date": "2026-07-16T22:27:21+00:00",
-      "status": "failed",
-      "error_type": "TranslationIncompleteError",
-      "error_message": "Markdown translation remained incomplete for chunk 1.1.2 of 'README.md', and the chunk could not be split further.",
       "translator_version": "0.20.0",
       "failure_policy_version": 1
     },
@@ -116,8 +105,8 @@
     "language_code": "fr"
   },
   "lesson-3-agent-evals/README.md": {
-    "original_hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "translation_date": "2026-01-29T14:49:37+00:00",
+    "original_hash": "38e7ffd3083d4be9c1a7b7dc1bc6de39",
+    "translation_date": "2026-08-24T11:35:14+00:00",
     "source_file": "lesson-3-agent-evals/README.md",
     "language_code": "fr"
   },
