@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | 유형 | 이름 | 값 |
 |------|------|-------|
-
 | 변수 | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | 변수 | `HOSTED_AGENT_NAME` | 배포된 에이전트 이름 (예: `dev-onboarding` — 배포와 일치해야 함) |
 | 비밀 | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` 용 OIDC 연동 아이덴티티 |

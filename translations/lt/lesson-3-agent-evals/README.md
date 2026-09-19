@@ -132,9 +132,7 @@ Vertinimas kuriamas su keturiais **Built-in Foundry vertintojais**:
 
 | Vertintojas | `evaluator_name` | Ką matuoja |
 |-----------|------------------|------------------|
-
 | Reikšmingumas | `builtin.relevance` | Ar atsakymas atitinka vartotojo užklausą? |
-
 | Pagrįstumas | `builtin.groundedness` | Ar atsakymas pagrįstas surinktais/įrankio duomenimis (ne išgalvotas)? |
 | Įrankio iškvietimo tikslumas | `builtin.tool_call_accuracy` | Ar teisingi įrankiai buvo iškviesti su teisingais argumentais? |
 | Įrankio išvesties panaudojimas | `builtin.tool_output_utilization` | Ar agentas iš tikrųjų naudojo įrankio rezultatus savo atsakyme? |

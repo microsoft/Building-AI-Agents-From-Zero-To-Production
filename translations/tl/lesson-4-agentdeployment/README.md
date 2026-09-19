@@ -195,7 +195,6 @@ I-configure ang mga repository **variables** at **secrets** para sa smoke job:
 
 | Uri | Pangalan | Halaga |
 |------|------|-------|
-
 | Variable | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variable | `HOSTED_AGENT_NAME` | Pangalan ng naka-deploy na agent (e.g. `dev-onboarding` — kailangang tumugma sa iyong deployment) |
 | Secret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC federated identity para sa `azure/login` |

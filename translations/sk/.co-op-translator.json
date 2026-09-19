@@ -24,17 +24,6 @@
     "language_code": "sk"
   },
   "__translation_failures__": {
-    "lesson-2-agent-development/README.md": {
-      "original_hash": "1a8fdc7dd1e2544bbb5d29392dc364db",
-      "source_file": "lesson-2-agent-development/README.md",
-      "language_code": "sk",
-      "failure_date": "2026-07-17T00:29:28+00:00",
-      "status": "failed",
-      "error_type": "TranslationIncompleteError",
-      "error_message": "Markdown translation remained incomplete for chunk 1 of 'README.md', and the chunk could not be split further.",
-      "translator_version": "0.20.0",
-      "failure_policy_version": 1
-    },
     "MIGRATION-GUIDE.md": {
       "original_hash": "c56b05e323092430d64f4dee16434704",
       "source_file": "MIGRATION-GUIDE.md",
@@ -93,8 +82,8 @@
     "language_code": "sk"
   },
   "lesson-2-agent-development/README.md": {
-    "original_hash": "5990c2d40039586841ab255e3395d805",
-    "translation_date": "2026-01-27T11:26:18+00:00",
+    "original_hash": "1a8fdc7dd1e2544bbb5d29392dc364db",
+    "translation_date": "2026-08-24T12:26:04+00:00",
     "source_file": "lesson-2-agent-development/README.md",
     "language_code": "sk"
   },

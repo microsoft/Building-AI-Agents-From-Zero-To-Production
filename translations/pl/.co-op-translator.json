@@ -34,10 +34,10 @@
       "original_hash": "38e7ffd3083d4be9c1a7b7dc1bc6de39",
       "source_file": "lesson-3-agent-evals/README.md",
       "language_code": "pl",
-      "failure_date": "2026-07-16T22:49:38+00:00",
+      "failure_date": "2026-08-24T13:26:20+00:00",
       "status": "failed",
       "error_type": "TranslationIncompleteError",
-      "error_message": "Markdown translation remained incomplete for chunk 1.1.1 of 'README.md', and the chunk could not be split further.",
+      "error_message": "Markdown translation remained incomplete for chunk 1.2.1 of 'README.md', and the chunk could not be split further.",
       "translator_version": "0.20.0",
       "failure_policy_version": 1
     },

@@ -132,9 +132,7 @@ Evaluation go create with four **built-in Foundry evaluators**:
 
 | Evaluator | `evaluator_name` | Wetin e dey measure |
 |-----------|------------------|------------------|
-
 | Relevance | `builtin.relevance` | Di response dey answer wetin di user ask? |
-
 | Groundedness | `builtin.groundedness` | Na di response dey supported by di retrieved/tool data (no be hallucination)? |
 | Tool-call accuracy | `builtin.tool_call_accuracy` | Dem call di correct tools wit di correct arguments? |
 | Tool-output utilization | `builtin.tool_output_utilization` | Di agent really use di tool results for im answer? |

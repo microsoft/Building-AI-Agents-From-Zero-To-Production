@@ -195,7 +195,6 @@ workflow នៅ [`.github/workflows/smoke-test-hosted-agent.yml`](../../../.gith
 
 | ប្រភេទ | ឈ្មោះ | តម្លៃ |
 |------|------|-------|
-
 | អថេរ | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | អថេរ | `HOSTED_AGENT_NAME` | ឈ្មោះភ្នាក់ងារដែលបានចេញផ្សាយ (ឧ. `dev-onboarding` — ត្រូវតែលំហែ័ឹងនឹងការចេញផ្សាយរបស់អ្នក) |
 | សម្ងាត់ | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | អត្តសញ្ញាណ OIDC រួមគ្នាសម្រាប់ `azure/login` |

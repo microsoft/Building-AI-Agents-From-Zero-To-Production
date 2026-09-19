@@ -197,7 +197,6 @@ lesson-4-agentdeployment/
 
 | نوع | نام | مقدار |
 |------|------|-------|
-
 | متغیر | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | متغیر | `HOSTED_AGENT_NAME` | نام عامل مستقر شده (مثلاً `dev-onboarding` — باید با استقرار شما مطابقت داشته باشد) |
 | مخفی | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | هویت متصل OIDC برای `azure/login` |

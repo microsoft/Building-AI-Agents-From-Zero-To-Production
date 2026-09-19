@@ -197,7 +197,6 @@ Skonfiguruj te **zmienne** i **sekrety** repozytorium dla pracy smoke:
 
 | Rodzaj | Nazwa | Wartość |
 |------|------|-------|
-
 | Zmienna | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Zmienna | `HOSTED_AGENT_NAME` | Nazwa wdrożonego agenta (np. `dev-onboarding` — musi odpowiadać twojemu wdrożeniu) |
 | Sekret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | Federowana tożsamość OIDC dla `azure/login` |

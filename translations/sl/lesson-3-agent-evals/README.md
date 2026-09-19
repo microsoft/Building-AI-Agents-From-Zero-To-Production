@@ -132,7 +132,6 @@ Ocenjevanje se ustvari s štirimi **vgrajenimi Foundry ocenjevalci**:
 | Ocenjevalec | `evaluator_name` | Kaj meri |
 |------------|------------------|----------|
 | Relevantnost | `builtin.relevance` | Ali odziv naslavlja uporabnikov zahtevek? |
-
 | Utemeljenost | `builtin.groundedness` | Ali je odgovor podprt z izvlečenimi/ orodnimi podatki (ni zmotno izmišljen)? |
 | Natančnost klicev orodij | `builtin.tool_call_accuracy` | So bila klicana prava orodja s pravimi argumenti? |
 | Uporaba izhodov orodij | `builtin.tool_output_utilization` | Ali je agent dejansko uporabil rezultate orodij v svojem odgovoru? |

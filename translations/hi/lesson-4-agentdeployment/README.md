@@ -197,7 +197,6 @@ lesson-4-agentdeployment/
 
 | प्रकार | नाम | मान |
 |------|------|-------|
-
 | वैरिएबल | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | वैरिएबल | `HOSTED_AGENT_NAME` | तैनात एजेंट का नाम (जैसे `dev-onboarding` — आपकी तैनाती से मेल खाना चाहिए) |
 | सीक्रेट | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` के लिए OIDC फैडरेटेड पहचान |

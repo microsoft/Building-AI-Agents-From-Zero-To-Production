@@ -132,7 +132,6 @@ Se creează o evaluare cu patru **evaluatori încorporați Foundry**:
 | Evaluator | `evaluator_name` | Ce măsoară |
 |-----------|------------------|-------------|
 | Relevanță | `builtin.relevance` | Răspunsul adresează cererea utilizatorului? |
-
 | Soliditate | `builtin.groundedness` | Răspunsul este susținut de date preluate/unelte (nu este halucinat)? |
 | Acuratețea apelurilor uneltei | `builtin.tool_call_accuracy` | Au fost apelate uneltele corecte cu argumentele corecte? |
 | Utilizarea rezultatelor uneltei | `builtin.tool_output_utilization` | Agentul a folosit efectiv rezultatele uneltei în răspunsul său? |

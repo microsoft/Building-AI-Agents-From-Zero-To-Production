@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | Тип | Имя | Значение |
 |------|------|-------|
-
 | Переменная | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Переменная | `HOSTED_AGENT_NAME` | Имя развернутого агента (например, `dev-onboarding` — должно совпадать с вашим развертыванием) |
 | Секрет | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC объедененная идентичность для `azure/login` |

@@ -195,7 +195,6 @@ Sanidi **mabadiliko** ya chini na **siri** za hifadhi hii kwa kazi ya moshi:
 
 | Aina | Jina | Thamani |
 |------|------|-------|
-
 | Kigezo | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Kigezo | `HOSTED_AGENT_NAME` | Jina la wakala aliyesambazwa (mfano `dev-onboarding` — lazima lingana na ugawaji wako) |
 | Siri | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | Utambulisho uliofungamana wa OIDC kwa `azure/login` |

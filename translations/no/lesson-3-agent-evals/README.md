@@ -132,9 +132,7 @@ En evaluering lages med fire **innebygde Foundry-evaluatorer**:
 
 | Evaluator | `evaluator_name` | Hva den måler |
 |-----------|------------------|------------------|
-
 | Relevans | `builtin.relevance` | Adresserer svaret brukerens forespørsel? |
-
 | Jordethet | `builtin.groundedness` | Er svaret støttet av innhentede/verktøysdata (ikke hallusinert)? |
 | Verktøy-kall presisjon | `builtin.tool_call_accuracy` | Ble riktige verktøy kalt med riktige argumenter? |
 | Bruk av verktøyresultater | `builtin.tool_output_utilization` | Brukte agenten faktisk verktøyresultatene i svaret sitt? |

@@ -132,7 +132,6 @@ flowchart TD
 | 평가자 | `evaluator_name` | 측정 내용 |
 |-----------|------------------|------------------|
 | 적합성 | `builtin.relevance` | 응답이 사용자의 요청에 부합하는가? |
-
 | 근거 기반 여부 | `builtin.groundedness` | 응답이 검색된/도구 데이터에 의해 뒷받침되었나요(환각이 아닌가요)? |
 | 도구 호출 정확도 | `builtin.tool_call_accuracy` | 올바른 도구가 올바른 인수와 함께 호출되었나요? |
 | 도구 출력 활용도 | `builtin.tool_output_utilization` | 에이전트가 실제로 도구 결과를 답변에 사용했나요? |
