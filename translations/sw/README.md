@@ -95,7 +95,6 @@ Tafadhali hakikisha una ufikiaji wa huduma hizi kabla ya kuanza.
 | [Tathmini za Wakala](./lesson-3-agent-evals/README.md)  | Kutumia Microsoft Foundry, pata jinsi maajenti wetu wa AI wanavyofanya kazi na jinsi ya kuuboresha. |
 | [Uwekaji Wakala](./lesson-4-agentdeployment/README.md)   | Kutumia maajenti waliowezeshwa wa Microsoft Foundry na OpenAI ChatKit, angalia jinsi ya kuweka Wakala wa AI katika uzalishaji.       |
 | [Maajenti Waliowezeshwa wa Uzalishaji](./lesson-5-hosted-agents-production/README.md)   | Peleka wakala aliyeandaliwa kwa uzalishaji wa shirika: Maajenti Waliowezeshwa dhidi ya Wakaguzi wa Uwezo, leta uhifadhi, kumbukumbu, na utawala wako mwenyewe.       |
-
 | [Microsoft Toolbox](./lesson-6-toolbox/README.md)   | Tafsiri zana mara moja na zidhibiti kawaida: tengeneza sanduku la zana, litumie kutoka kwa wakala kupitia kiungo kimoja cha MCP, na toa toleo la zana kwa usalama.       |
 | [Multi-Agent & A2A](./lesson-7-multi-agent-a2a/README.md)   | Tengeneza mawakala kama huduma za mtandao: onyesha wakala moja kwa moja kwa itifaki ya Wakala kwa Wakala (A2A) na tumia wakala wa mbali kama mwenzake.       |
 

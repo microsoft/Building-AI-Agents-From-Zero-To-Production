@@ -195,7 +195,6 @@ Cấu hình các **biến** và **bí mật** kho lưu trữ cho công việc sm
 
 | Loại | Tên | Giá trị |
 |------|------|-------|
-
 | Biến | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Biến | `HOSTED_AGENT_NAME` | Tên agent đã triển khai (ví dụ: `dev-onboarding` — phải khớp với triển khai của bạn) |
 | Bí mật | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | Danh tính liên kết OIDC cho `azure/login` |

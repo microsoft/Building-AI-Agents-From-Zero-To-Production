@@ -132,7 +132,6 @@ Hodnocení se vytvoří se čtyřmi **vestavěnými Foundry evaluátory**:
 | Evaluátor | `evaluator_name` | Co měří |
 |-----------|------------------|----------|
 | Relevance | `builtin.relevance` | Odpovídá odpověď na požadavek uživatele? |
-
 | Základnost | `builtin.groundedness` | Je odpověď podložena získanými/datovými z nástrojů (není halucinována)? |
 | Přesnost volání nástroje | `builtin.tool_call_accuracy` | Byly zavolány správné nástroje se správnými argumenty? |
 | Využití výstupu nástroje | `builtin.tool_output_utilization` | Použil agent skutečně výsledky nástroje ve své odpovědi? |

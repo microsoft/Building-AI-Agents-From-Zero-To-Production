@@ -95,7 +95,6 @@ Sắp có thêm nhiều tùy chọn về lưu trữ mô hình và dịch vụ.
 | [Đánh giá Tác nhân](./lesson-3-agent-evals/README.md)  | Sử dụng Microsoft Foundry, tìm hiểu hiệu quả hoạt động của các Tác nhân AI và cách cải thiện. |
 | [Triển khai Tác nhân](./lesson-4-agentdeployment/README.md)   | Sử dụng các tác nhân được lưu trữ trên Microsoft Foundry và OpenAI ChatKit, xem cách triển khai một Tác nhân AI vào sản xuất.       |
 | [Tác nhân được lưu trữ trong sản xuất](./lesson-5-hosted-agents-production/README.md)   | Đưa một tác nhân được lưu trữ vào sản xuất doanh nghiệp: Tác nhân được lưu trữ so với khả năng lưu trữ, mang bộ nhớ và quản trị riêng.       |
-
 | [Microsoft Toolbox](./lesson-6-toolbox/README.md)   | Định nghĩa công cụ một lần và quản lý chúng một cách tập trung: xây dựng một hộp công cụ, sử dụng nó từ một đại lý qua một điểm cuối MCP, và phiên bản công cụ một cách an toàn.       |
 | [Multi-Agent & A2A](./lesson-7-multi-agent-a2a/README.md)   | Tổ hợp các đại lý như các dịch vụ mạng: phơi bày một đại lý qua giao thức Mở Agent-to-Agent (A2A) và sử dụng một đại lý từ xa như một đồng nghiệp.       |
 

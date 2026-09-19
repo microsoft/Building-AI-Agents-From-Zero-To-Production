@@ -95,7 +95,6 @@ AIエージェントの構築で行き詰まったり質問があれば、[Micro
 | [Agent Evaluations](./lesson-3-agent-evals/README.md)  | Microsoft Foundryを活用し、AIエージェントのパフォーマンス評価と改善方法を学びます。 |
 | [Agent Deployment](./lesson-4-agentdeployment/README.md)   | Microsoft FoundryホストエージェントとOpenAI ChatKitを使い、AIエージェントの本番展開方法を確認します。       |
 | [Production Hosted Agents](./lesson-5-hosted-agents-production/README.md)   | ホストエージェントを企業の本番環境に導入：ホストエージェントとCapability Hostsの違い、持ち込みストレージ、メモリ、ガバナンス。       |
-
 | [Microsoft Toolbox](./lesson-6-toolbox/README.md)   | ツールを一度定義し中央で管理：ツールボックスを構築し、1つのMCPエンドポイント経由でエージェントから利用し、ツールのバージョン管理を安全に行います。       |
 | [Multi-Agent & A2A](./lesson-7-multi-agent-a2a/README.md)   | エージェントをネットワーク化されたサービスとして構成：オープンなAgent-to-Agent (A2A)プロトコルでエージェントを公開し、リモートのエージェントをピアとして利用します。       |
 

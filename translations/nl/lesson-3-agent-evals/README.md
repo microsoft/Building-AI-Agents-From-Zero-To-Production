@@ -132,9 +132,7 @@ Er wordt een evaluatie aangemaakt met vier **ingebouwde Foundry evaluators**:
 
 | Evaluator | `evaluator_name` | Wat het meet |
 |-----------|------------------|------------------|
-
 | Relevantie | `builtin.relevance` | Beantwoordt de reactie aan het verzoek van de gebruiker? |
-
 | Gegrondheid | `builtin.groundedness` | Wordt de reactie ondersteund door opgehaalde/toolgegevens (niet gefantaseerd)? |
 | Nauwkeurigheid van tool-aanroep | `builtin.tool_call_accuracy` | Werden de juiste tools aangeroepen met de juiste argumenten? |
 | Gebruik van tool-uitvoer | `builtin.tool_output_utilization` | Heeft de agent daadwerkelijk de toolresultaten gebruikt in zijn antwoord? |

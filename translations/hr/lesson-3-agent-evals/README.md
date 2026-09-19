@@ -132,7 +132,6 @@ Evaluacija se kreira s četiri **ugrađena Foundry evaluatora**:
 | Evaluator | `evaluator_name` | Što mjeri |
 |-----------|------------------|-----------|
 | Relevantnost | `builtin.relevance` | Odgovara li odgovor na korisnički zahtjev? |
-
 | Utemeljenost | `builtin.groundedness` | Je li odgovor podržan dohvaćenim/pomoćnim podacima (nije haluciniran)? |
 | Točnost poziva alata | `builtin.tool_call_accuracy` | Jesu li pozvani pravi alati s pravim argumentima? |
 | Korištenje izlaza alata | `builtin.tool_output_utilization` | Je li agent zapravo iskoristio rezultate alata u svom odgovoru? |

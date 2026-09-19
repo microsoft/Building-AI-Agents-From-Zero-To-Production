@@ -41,7 +41,6 @@ Estas no son técnicas en competencia: un agente de producción usa las tres:
 | Capa | Pregunta que responde | Costo | Cuándo se ejecuta | Cubierto en |
 |-------|--------------------|------|--------------|------------|
 | **Observabilidad / rastreo** | *¿Qué hizo el agente, paso a paso?* | Gratis (siempre activado) | Continuamente en producción | Esta lección |
-
 | **Evaluaciones** | *¿Qué tan **buenas** son las respuestas?* | Más lento, medido por modelo | A demanda / nocturno / pre-lanzamiento | Esta lección |
 
 Las pruebas de humo responden "¿se rompió?"; las evaluaciones responden "¿es bueno?". Necesitas ambas.
@@ -129,7 +128,6 @@ Se crea una evaluación con cuatro **evaluadores integrados de Foundry**:
 | Evaluador | `evaluator_name` | Lo que mide |
 |-----------|------------------|-------------|
 | Relevancia | `builtin.relevance` | ¿La respuesta aborda la solicitud del usuario? |
-
 | Fundamentación | `builtin.groundedness` | ¿Está la respuesta respaldada por datos recuperados/herramientas (no es una alucinación)? |
 | Precisión en llamadas a herramientas | `builtin.tool_call_accuracy` | ¿Se llamaron las herramientas correctas con los argumentos correctos? |
 | Utilización de resultados de herramientas | `builtin.tool_output_utilization` | ¿Usó realmente el agente los resultados de la herramienta en su respuesta? |

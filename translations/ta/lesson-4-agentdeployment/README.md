@@ -197,7 +197,6 @@ POST கேள்விகளை அனுப்புகிறது மற்�
 
 | வகை | பெயர் | மதிப்பு |
 |------|------|-------|
-
 | மாறிலி | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | மாறிலி | `HOSTED_AGENT_NAME` | தளவமைக்கப்பட்ட एजेंट் பெயர் (உதா. `dev-onboarding` — உங்கள் தளவமைப்புடன் பொருந்த வேண்டும்) |
 | ரகசியம் | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login`க்கான OIDC கூட்டிணைக்கப்பட்ட அடையாளம் |

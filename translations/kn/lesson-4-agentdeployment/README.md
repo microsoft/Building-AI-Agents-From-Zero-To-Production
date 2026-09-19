@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | ಪ್ರಕಾರ | ಹೆಸರು | ಮೌಲ್ಯ |
 |------|------|-------|
-
 | ಬದಲಿಸುವುದು | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | ಬದಲಿಸುವುದು | `HOSTED_AGENT_NAME` | ನಿಯೋಜಿತ ಏಜೆಂಟ್ ಹೆಸರು (ಉದಾ. `dev-onboarding` — ನಿಮ್ಮ ನಿಯೋಜನೆಯೊಂದಿಗೆ ಹೊಂದಿಕೊಳ್ಳಬೇಕು) |
 | ರಹಸ್ಯ | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` ಗೆ OIDC ಫೆಡರೆಟೆಡ್ ಗುರುತು |

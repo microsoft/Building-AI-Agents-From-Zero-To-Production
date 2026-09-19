@@ -132,7 +132,6 @@ Arviointi luodaan neljällä **sisäänrakennetulla Foundry-arvioijalla**:
 | Arvioija | `evaluator_name` | Mitä mittaa |
 |-----------|------------------|------------------|
 | Relevanssi | `builtin.relevance` | Vastauksiko se käyttäjän pyyntöön? |
-
 | Perusteltavuus | `builtin.groundedness` | Onko vastaus tuettu haetuilla/työkalun tiedoilla (ei tuotettu keksittynä)? |
 | Työkalukutsun tarkkuus | `builtin.tool_call_accuracy` | Oliko oikeat työkalut kutsuttu oikeilla argumenteilla? |
 | Työkalun tulosten hyödyntäminen | `builtin.tool_output_utilization` | Käyttikö agentti todella työkalun tuloksia vastauksessaan? |

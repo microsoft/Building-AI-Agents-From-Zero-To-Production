@@ -197,7 +197,6 @@ GitHub యాక్షన్ ఉపయోగించి ఏజెంట్ య�
 
 | రకం | పేరు | విలువ |
 |------|------|-------|
-
 | మార్పిడి | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | మార్పిడి | `HOSTED_AGENT_NAME` | పంపిణీ చేసిన ఏజెంట్ పేరు (ఉదాహరణకు `dev-onboarding` — మీ పంపిణీకి సరిపోయేలా ఉండాలి) |
 | రహస్యము | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` కోసం OIDC ఫెడరేటెడ్ ఐడెంటిటీ |

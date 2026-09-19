@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | Τύπος | Όνομα | Τιμή |
 |------|------|-------|
-
 | Μεταβλητή | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Μεταβλητή | `HOSTED_AGENT_NAME` | Όνομα αναπτυγμένου πράκτορα (π.χ. `dev-onboarding` — πρέπει να ταιριάζει με την ανάπτυξή σας) |
 | Μυστικό | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | Διαμοιρασμένη ταυτότητα OIDC για `azure/login` |

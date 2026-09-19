@@ -195,7 +195,6 @@ GitHub कार्यलाई एजेन्टको Foundry **Responses** �
 
 | प्रकार | नाम | मान |
 |------|------|-------|
-
 | परिवर्तनशिल | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | परिवर्तनशिल | `HOSTED_AGENT_NAME` | परिनियोजित एजेन्ट नाम (जस्तै `dev-onboarding` — तपाइँको परिनियोजनसँग मेल खानुपर्छ) |
 | गोप्य | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` का लागि OIDC संघीय पहिचान |

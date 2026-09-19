@@ -195,7 +195,6 @@ két munkafolyamatból áll:
 
 | Típus | Név | Érték |
 |------|------|-------|
-
 | Változó | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Változó | `HOSTED_AGENT_NAME` | Telepített ügynök neve (pl. `dev-onboarding` — meg kell egyeznie a telepítéseddel) |
 | Titok | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC szövetséges hitelesítés az `azure/login` számára |

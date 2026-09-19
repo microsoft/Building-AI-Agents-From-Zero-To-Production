@@ -132,9 +132,7 @@ En utvärdering skapas med fyra **inbyggda Foundry-utvärderare**:
 
 | Utvärderare | `evaluator_name` | Vad den mäter |
 |-----------|------------------|------------------|
-
 | Relevans | `builtin.relevance` | Adresserar svaret användarens begäran? |
-
 | Grundlagdhet | `builtin.groundedness` | Är svaret underbyggt av hämtade/verktygsdata (inte hallucinerat)? |
 | Verktygsanropsnoggrannhet | `builtin.tool_call_accuracy` | Anropades rätt verktyg med rätt argument? |
 | Användning av verktygsutdata | `builtin.tool_output_utilization` | Använde agenten faktiskt verktygsresultaten i sitt svar? |

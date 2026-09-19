@@ -195,7 +195,6 @@ Konfigurirajte ove varijable i tajne repozitorija za smoke posao:
 
 | Vrsta | Ime | Vrijednost |
 |------|------|-------|
-
 | Varijabla | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Varijabla | `HOSTED_AGENT_NAME` | Ime razmještenog agenta (npr. `dev-onboarding` — mora se podudarati s vašom implementacijom) |
 | Tajna | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC federirana identitet za `azure/login` |

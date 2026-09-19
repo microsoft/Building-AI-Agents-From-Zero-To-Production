@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | סוג | שם | ערך |
 |------|------|-------|
-
 | משתנה | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | משתנה | `HOSTED_AGENT_NAME` | שם הסוכן בפריסה (למשל `dev-onboarding` — חייב להתאים לפריסה שלך) |
 | סודי | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | זהות מפוצלת OIDC ל־`azure/login` |

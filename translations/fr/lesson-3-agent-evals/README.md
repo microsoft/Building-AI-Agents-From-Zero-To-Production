@@ -132,9 +132,7 @@ Une évaluation est créée avec quatre **évaluateurs Foundry intégrés** :
 
 | Évaluateur | `evaluator_name` | Ce qu'il mesure |
 |-----------|------------------|------------------|
-
 | Pertinence | `builtin.relevance` | La réponse correspond-elle à la demande de l'utilisateur ? |
-
 | Fondement | `builtin.groundedness` | La réponse est-elle soutenue par les données récupérées/outils (et non hallucinée) ? |
 | Précision de l'appel d'outil | `builtin.tool_call_accuracy` | Les bons outils ont-ils été appelés avec les bons arguments ? |
 | Utilisation de la sortie de l'outil | `builtin.tool_output_utilization` | L'agent a-t-il réellement utilisé les résultats de l'outil dans sa réponse ? |

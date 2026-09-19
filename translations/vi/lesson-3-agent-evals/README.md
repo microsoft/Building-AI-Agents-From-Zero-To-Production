@@ -120,9 +120,7 @@ Một đánh giá được tạo với bốn **bộ đánh giá Foundry tích h�
 
 | Bộ đánh giá | `evaluator_name` | Đo lường điều gì |
 |-----------|------------------|------------------|
-
 | Phù hợp | `builtin.relevance` | Phản hồi có đáp ứng yêu cầu của người dùng không? |
-
 | Độ xác thực | `builtin.groundedness` | Phản hồi có được hỗ trợ bởi dữ liệu/truyền công cụ truy xuất không (không bị ảo giác)? |
 | Độ chính xác gọi công cụ | `builtin.tool_call_accuracy` | Công cụ được gọi có đúng với đối số đúng không? |
 | Sử dụng kết quả công cụ | `builtin.tool_output_utilization` | Đại lý có thực sự sử dụng kết quả công cụ trong câu trả lời của nó không? |

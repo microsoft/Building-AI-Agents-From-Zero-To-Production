@@ -132,7 +132,6 @@ Tathmini hutengenezwa kwa kutumia wakaguzi **wanaojengwa ndani ya Foundry** wann
 | Mhakiki | `evaluator_name` | Kinachopimwa |
 |---------|------------------|--------------|
 | Ufaa | `builtin.relevance` | Je, jibu linahakikisha ombi la mtumiaji? |
-
 | Uthibitisho wa Kweli | `builtin.groundedness` | Je, jibu linaungwa mkono na data iliyo patikana/kifaa (sio kubuniwa)? |
 | Usahihi wa simu ya chombo | `builtin.tool_call_accuracy` | Je, zilioitwa vyombo sahihi kwa hoja sahihi? |
 | Matumizi ya matokeo ya chombo | `builtin.tool_output_utilization` | Je, wakala alikuwa anatumia matokeo ya chombo katika jibu lake? |

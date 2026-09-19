@@ -132,9 +132,7 @@ An evaluation is created with four **built-in Foundry evaluators**:
 
 | ਇਵੈਲੂਏਟਰ | `evaluator_name` | ਇਹ ਕੀ ਮਾਪਦਾ ਹੈ |
 |-----------|------------------|------------------|
-
 | ਸੰਬੰਧਤਾ | `builtin.relevance` | ਕੀ ਜਵਾਬ ਉਪਭੋਗਤਾ ਦੀ ਬੇਨਤੀ ਨੂੰ ਸੰਬੋਧਨ ਕਰਦਾ ਹੈ? |
-
 | ਅਧਾਰਿਤਤਾ | `builtin.groundedness` | ਕੀ ਜਵਾਬ ਨੂੰ ਪ੍ਰਾਪਤ/ਟੂਲ ਡਾਟਾ ਦੁਆਰਾ ਸਮਰਥਿਤ ਕੀਤਾ ਗਿਆ ਹੈ (ਕਲਪਨਾ ਨਹੀਂ)? |
 | ਟੂਲ-ਕਾਲ ਦੀ ਸਹੀਅਤ | `builtin.tool_call_accuracy` | ਕੀ ਸਹੀ ਟੂਲ ਸਹੀ ਆਰਗੁਮੇੰਟਸ ਨਾਲ ਕਾਲ ਕੀਤੇ ਗਏ ਸਨ? |
 | ਟੂਲ-ਆਉਟਪੁਟ ਦੀ ਵਰਤੋਂ | `builtin.tool_output_utilization` | ਕੀ ਏਜੰਟ ਨੇ ਵਾਸਤਵ ਵਿੱਚ ਆਪਣੇ ਜਵਾਬ ਵਿੱਚ ਟੂਲ ਦੇ ਨਤੀਜੇ ਵਰਤੇ? |

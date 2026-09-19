@@ -195,7 +195,6 @@ GitHub Action استعمال کرتا ہے تاکہ ایجنٹ کے Foundry **Re
 
 | قسم | نام | قیمت |
 |------|------|-------|
-
 | ویریبل | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | ویریبل | `HOSTED_AGENT_NAME` | تعینات شدہ ایجنٹ کا نام (مثلاً `dev-onboarding` — آپ کی تعینات سے میل کھانا چاہیے) |
 | سیکرٹ | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` کے لئے OIDC وفاقی شناخت |

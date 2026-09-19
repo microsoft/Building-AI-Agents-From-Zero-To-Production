@@ -41,7 +41,6 @@ Need ei ole üksteisega konkurentsis olevad meetodid — tootmises kasutatakse k
 | Tase | Küsimus, millele vastab | Hind | Millal käivitub | Kaetud õppetunnis |
 |-------|-----------------------|------|-------------|--------------------|
 | **Jälgitavus / jälgimine** | *Mida agent samm-sammult tegi?* | Tasuta (alati sees) | Jooksvalt tootmises | Selles õppetunnis |
-
 | **Hindamised** | *Kui **head** on vastused?* | Aeglasem, mudelipõhine tasu | Nõudmisel / öösel / eel-väljalaskmisel | Selles õppetunnis |
 
 Suitsutstestid vastavad küsimusele "kas see purunes?"; hindamised sellele, "kas see on hea?". Soovite mõlemat.
@@ -129,7 +128,6 @@ Hindamine luuakse nelja **sisseehitatud Foundry hindajaga**:
 | Hindaja | `evaluator_name` | Mida mõõdab |
 |----------|-----------------|--------------|
 | Asjakohasus | `builtin.relevance` | Kas vastus vastab kasutaja soovile? |
-
 | Kinnitatus | `builtin.groundedness` | Kas vastus põhineb kättesaadaval/ tööriistaandmetel (mitte ei ole leiutatud)? |
 | Tööriistakutse täpsus | `builtin.tool_call_accuracy` | Kas õigeid tööriistu kutsuti õigete argumentidega? |
 | Tööriistatulemuste kasutamine | `builtin.tool_output_utilization` | Kas agent kasutas tööriista tulemusi oma vastuses? |

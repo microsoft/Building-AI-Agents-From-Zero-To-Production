@@ -132,9 +132,7 @@ Eine Bewertung wird mit vier **eingebauten Foundry-Bewertern** erstellt:
 
 | Bewerter | `evaluator_name` | Was er misst |
 |-----------|------------------|------------------|
-
 | Relevanz | `builtin.relevance` | Geht die Antwort auf die Anfrage des Benutzers ein? |
-
 | Verankerung | `builtin.groundedness` | Wird die Antwort durch abgerufene/Werkzeug-Daten gestützt (nicht halluziniert)? |
 | Werkzeugaufrufgenauigkeit | `builtin.tool_call_accuracy` | Wurden die richtigen Werkzeuge mit den richtigen Argumenten aufgerufen? |
 | Nutzung der Werkzeugausgabe | `builtin.tool_output_utilization` | Hat der Agent die Werkzeugergebnisse tatsächlich in seiner Antwort verwendet? |

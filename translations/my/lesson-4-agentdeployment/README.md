@@ -197,7 +197,6 @@ Smoke job အတွက် သိုလှောင်တိုက် **variables
 
 | အမျိုးအစား | အမည် | တန်ဖိုး |
 |------|------|-------|
-
 | Variable | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variable | `HOSTED_AGENT_NAME` | တပ်ဆင်ထားသော အေးဂျင့်အမည် (ဥပမာ `dev-onboarding` — သင့်တပ်ဆင်မှုနှင့် ကိုက်ညီရမည်) |
 | Secret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` အတွက် OIDC ပေါင်းစည်းသော အထောက်အထား |
