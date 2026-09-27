@@ -66,6 +66,33 @@ This course currently uses the following:
 
 Please ensure you have access to these services before getting started.
 
+### Develop in a Container
+
+The [devcontainer configuration](./.devcontainer/devcontainer.json) provides Python 3.12,
+Node.js 22, Azure CLI, Azure Developer CLI (`azd`), Docker CLI, and Python and Bicep
+extensions for VS Code. It also works in GitHub Codespaces.
+
+1. For local development, install Docker Desktop (or another Docker-compatible runtime) and the VS Code **Dev Containers** extension, then start Docker.
+2. Open this repository in VS Code and run **Dev Containers: Reopen in Container** from the Command Palette, or create a Codespace for the repository.
+3. Wait for setup to install the root Python requirements in `/home/vscode/.venvs/course`, selected automatically for Python and new terminals. Do not activate a virtual environment created on your host OS.
+4. Create a root `.env` from [`.env.example`](./.env.example), preserving any existing values, and fill in your Microsoft Foundry project and model settings.
+5. In the container terminal, sign in with `az login --use-device-code`. For deployment lessons, also run `azd auth login --use-device-code`.
+
+Follow the lesson instructions to run samples. DevUI ports **8090-8096**, the A2A
+server port **9000**, and ChatKit ports **3000** and **8001** are forwarded automatically.
+No agents are started and no Azure resources are provisioned during container setup.
+
+Lesson 4 has additional backend, hosted-agent, and frontend dependencies. Follow its
+[setup instructions](./lesson-4-agentdeployment/README.md#quick-start), using separate
+virtual environments for its Python components: the hosted agent pins a different SDK
+version from the root course requirements. Install frontend packages with `npm install`
+from its frontend directory.
+
+The container can access the host Docker daemon to build lesson 4 images. Only open
+trusted repositories in it, because Docker access grants control over the host daemon.
+Azure credentials are not mounted from your host; sign in inside the container again
+after rebuilding it. Existing `.env` files are never overwritten by container setup.
+
 > **💰 Cost & cleanup.** The hands-on lessons create real Azure resources — a Microsoft Foundry
 > project, a model deployment, a vector store, and (in Lessons 4–6) hosted agents and toolboxes.
 > These can incur cost while they exist. When you finish a lesson — or the course — delete the
@@ -83,7 +110,7 @@ Please ensure you have access to these services before getting started.
 > official migration path. If you have older code that calls GitHub Models, point it at a Foundry
 > model deployment instead.
 
-More options around model hosting and services coming soon. 
+More options around model hosting and services coming soon.
 
 ## 🗃️ Lessons
 
@@ -116,7 +143,7 @@ Our team produces other courses! Check out:
 [![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
- 
+
 ### Generative AI Series
 [![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
@@ -124,7 +151,7 @@ Our team produces other courses! Check out:
 [![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
 
 ---
- 
+
 ### Core Learning
 [![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
 [![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
@@ -135,7 +162,7 @@ Our team produces other courses! Check out:
 [![XR Development for Beginners](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
- 
+
 ### Copilot Series
 [![Copilot for AI Paired Programming](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
 [![Copilot for C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)

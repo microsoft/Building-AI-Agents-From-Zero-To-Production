@@ -1,0 +1,47 @@
+{
+  "name": "Building AI Agents from Zero to Production",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/azure-cli:1": {},
+    "ghcr.io/azure/azure-dev/azd:0": {},
+    "ghcr.io/devcontainers/features/node:2.1.0": {
+      "version": "22"
+    },
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+  },
+  "remoteUser": "vscode",
+  "remoteEnv": {
+    "VIRTUAL_ENV": "/home/vscode/.venvs/course",
+    "PATH": "/home/vscode/.venvs/course/bin:${containerEnv:PATH}"
+  },
+  "postCreateCommand": "/usr/local/bin/python -m venv /home/vscode/.venvs/course && /home/vscode/.venvs/course/bin/python -m pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-azuretools.vscode-bicep"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/home/vscode/.venvs/course/bin/python"
+      }
+    }
+  },
+  "forwardPorts": [3000, 8001, 8090, 8091, 8092, 8093, 8094, 8095, 8096, 9000],
+  "portsAttributes": {
+    "3000": {
+      "label": "ChatKit frontend"
+    },
+    "8001": {
+      "label": "ChatKit backend"
+    },
+    "8090-8096": {
+      "label": "Agent DevUI"
+    },
+    "9000": {
+      "label": "A2A server"
+    }
+  }
+}
