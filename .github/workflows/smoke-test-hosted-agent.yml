@@ -89,7 +89,7 @@ jobs:
           subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
       - name: Smoke-test the Developer Onboarding hosted agent
-        uses: JFolberth/ai-smoketest@v1
+        uses: JFolberth/ai-smoketest@83e32c1378c704046f99f8edcc50704f9bb50103 # v1.0.1
         with:
           # e.g. https://<account>.services.ai.azure.com/api/projects/<project>
           project_endpoint: ${{ vars.FOUNDRY_PROJECT_ENDPOINT }}
