@@ -195,7 +195,6 @@ Workflow ที่ [`.github/workflows/smoke-test-hosted-agent.yml`](../../../.g
 
 | ชนิด | ชื่อ | ค่า |
 |------|------|-------|
-
 | ตัวแปร | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | ตัวแปร | `HOSTED_AGENT_NAME` | ชื่อเอเจนต์ที่ถูกติดตั้งใช้งาน (เช่น `dev-onboarding` — ต้องตรงกับการติดตั้งของคุณ) |
 | ความลับ | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | รหัสประจำตัวแบบฟีเดอเรต OIDC สำหรับ `azure/login` |

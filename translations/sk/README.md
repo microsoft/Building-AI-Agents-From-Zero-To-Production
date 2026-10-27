@@ -95,7 +95,6 @@ Prosím, uistite sa, že máte prístup k týmto službám pred začatím.
 | [Hodnotenia agentov](./lesson-3-agent-evals/README.md)  | Pomocou Microsoft Foundry zistite, ako dobre naše AI agenty fungujú a ako ich zlepšiť. |
 | [Nasadenie agenta](./lesson-4-agentdeployment/README.md)   | Pomocou hosťovaných agentov Microsoft Foundry a OpenAI ChatKit uvidíte, ako nasadiť AI agenta do produkcie.       |
 | [Hosťované agenti v produkcii](./lesson-5-hosted-agents-production/README.md)   | Preneste hosťovaného agenta do podnikovej produkcie: Hosťovaní agenti vs Hosting schopností, vlastné úložisko, pamäť a správa.       |
-
 | [Microsoft Toolbox](./lesson-6-toolbox/README.md)   | Definujte nástroje raz a riadte ich centrálne: vytvorte toolbox, používajte ho z agenta cez jedno MCP rozhranie a bezpečne verzujte nástroje.       |
 | [Multi-Agent & A2A](./lesson-7-multi-agent-a2a/README.md)   | Skladajte agentov ako sieťové služby: vystavte agenta cez otvorený protokol Agent-to-Agent (A2A) a používajte vzdialeného agenta ako rovnocenného partnera.       |
 

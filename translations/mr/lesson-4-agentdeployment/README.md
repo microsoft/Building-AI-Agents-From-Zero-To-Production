@@ -195,7 +195,6 @@ GitHub Action वापरून एजंटच्या Foundry **Responses** 
 
 | प्रकार | नाव | मूल्य |
 |------|------|-------|
-
 | Variable | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variable | `HOSTED_AGENT_NAME` | तैनात केलेल्या एजंटचे नाव (उदा. `dev-onboarding` — तुमच्या तैनातीशी जुळले पाहिजे) |
 | Secret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` साठी OIDC फेडरेटेड आयडेंटिटी |

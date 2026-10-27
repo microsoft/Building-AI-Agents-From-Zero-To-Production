@@ -197,7 +197,6 @@ Määritä nämä repositorion **muuttujat** ja **salaisuudet** savutestiä vart
 
 | Tyyppi | Nimi | Arvo |
 |------|------|-------|
-
 | Muuttuja | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Muuttuja | `HOSTED_AGENT_NAME` | Olevan agentin nimi (esim. `dev-onboarding` — on sovitettava käyttöönne) |
 | Salaisuus | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC-federoidun identiteetin käyttö `azure/login` varten |

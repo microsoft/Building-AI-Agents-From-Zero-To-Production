@@ -195,7 +195,6 @@ Konfigurieren Sie diese Repository-**Variablen** und **Secrets** für den Smoke-
 
 | Art | Name | Wert |
 |------|------|-------|
-
 | Variable | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variable | `HOSTED_AGENT_NAME` | Bereitgestellter Agentenname (z. B. `dev-onboarding` — muss mit Ihrer Bereitstellung übereinstimmen) |
 | Secret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC föderierte Identität für `azure/login` |

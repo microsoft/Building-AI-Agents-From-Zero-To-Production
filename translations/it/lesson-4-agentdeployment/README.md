@@ -195,7 +195,6 @@ Configura queste **variabili** e **segreti** del repository per il job smoke:
 
 | Tipo | Nome | Valore |
 |------|------|-------|
-
 | Variabile | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variabile | `HOSTED_AGENT_NAME` | Nome dell'agente distribuito (es. `dev-onboarding` — deve corrispondere alla tua distribuzione) |
 | Segreto | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | Identità federata OIDC per `azure/login` |

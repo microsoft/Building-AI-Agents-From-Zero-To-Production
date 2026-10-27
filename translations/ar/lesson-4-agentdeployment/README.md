@@ -195,7 +195,6 @@ lesson-4-agentdeployment/
 
 | النوع | الاسم | القيمة |
 |------|------|-------|
-
 | متغير | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | متغير | `HOSTED_AGENT_NAME` | اسم الوكيل المنشور (مثل `dev-onboarding` — يجب أن يتطابق مع نشراتك) |
 | سر | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | هوية موحدة OIDC لـ `azure/login` |

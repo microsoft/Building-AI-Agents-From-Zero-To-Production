@@ -197,7 +197,6 @@ Nakonfigurujte tieto **premenné** a **tajomstvá** repozitára pre smoke úlohu
 
 | Druh | Názov | Hodnota |
 |------|------|-------|
-
 | Premenná | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Premenná | `HOSTED_AGENT_NAME` | Názov nasadeného agenta (napr. `dev-onboarding` — musí zodpovedať vášmu nasadeniu) |
 | Tajomstvo | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | OIDC federovaná identita pre `azure/login` |

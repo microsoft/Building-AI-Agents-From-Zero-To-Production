@@ -197,7 +197,6 @@ GitHub Action 去 POST 提示字到 agent 嘅 Foundry **Responses** 端點
 
 | 類型 | 名稱 | 數值 |
 |------|------|-------|
-
 | 變數 | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | 變數 | `HOSTED_AGENT_NAME` | 已部署的代理名稱（例如 `dev-onboarding` — 必須與你的部署相符） |
 | 機密 | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | 用於 `azure/login` 的 OIDC 聯邦身份 |

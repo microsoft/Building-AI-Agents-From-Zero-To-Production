@@ -95,7 +95,6 @@ Kmalu prihajajo dodatne možnosti glede gostovanja modelov in storitev.
 | [Vrednotenje agentov](./lesson-3-agent-evals/README.md)  | Z uporabo Microsoft Foundry ugotovite, kako dobro naši AI agenti delujejo in kako jih izboljšati. |
 | [Oddaja agenta](./lesson-4-agentdeployment/README.md)   | Z uporabo gostovanih agentov Microsoft Foundry in OpenAI ChatKit oglejte, kako oddati AI agenta v produkcijo.       |
 | [Gostovani agenti v produkciji](./lesson-5-hosted-agents-production/README.md)   | Prenesite gostovanega agenta v produkcijo podjetja: gostovani agenti v primerjavi z gostitelji zmožnosti, prinesite lastno shrambo, pomnilnik in upravljanje.       |
-
 | [Microsoft Toolbox](./lesson-6-toolbox/README.md)   | Določite orodja enkrat in jih upravljajte centralno: zgradite orodjarno, jo uporabljajte iz agenta prek ene MCP končne točke in varno različicirajte orodja.       |
 | [Multi-Agent & A2A](./lesson-7-multi-agent-a2a/README.md)   | Sestavite agente kot omrežne storitve: omogočite agenta preko odprtega protokola Agent-to-Agent (A2A) in oddaljenega agenta uporabljajte kot vrstnika.       |
 

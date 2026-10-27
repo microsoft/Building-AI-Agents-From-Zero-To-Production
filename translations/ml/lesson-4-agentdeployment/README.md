@@ -197,7 +197,6 @@ GitHub ആക്ഷൻ ഉപയോഗിച്ച് ഏജന്റിന്�
 
 | തരം | പേര് | മൂല്യം |
 |------|------|-------|
-
 | Variable | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | Variable | `HOSTED_AGENT_NAME` | വിന്യസിച്ച ഏജന്റ് പേര് (ഉദാ. `dev-onboarding` — ഇത് നിങ്ങളുടെ വിന്യാസത്തിനു പൊരുത്തപ്പെട്ടിരിക്കണം) |
 | Secret | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` എന്നതിനു വേണ്ടി OIDC എലൈൻ ആയി സംയോജിത തിരിച്ചറിയൽ |

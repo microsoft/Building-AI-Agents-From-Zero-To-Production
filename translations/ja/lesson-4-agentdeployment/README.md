@@ -197,7 +197,6 @@ GitHub Actions の [AI Smoke Test](https://github.com/marketplace/actions/ai-smo
 
 | 種類 | 名前 | 値 |
 |------|------|-------|
-
 | 変数 | `FOUNDRY_PROJECT_ENDPOINT` | `https://<account>.services.ai.azure.com/api/projects/<project>` |
 | 変数 | `HOSTED_AGENT_NAME` | デプロイされたエージェント名（例：`dev-onboarding` — デプロイと一致する必要があります） |
 | シークレット | `AZURE_CLIENT_ID` / `AZURE_TENANT_ID` / `AZURE_SUBSCRIPTION_ID` | `azure/login` 用の OIDC フェデレーティッド ID |

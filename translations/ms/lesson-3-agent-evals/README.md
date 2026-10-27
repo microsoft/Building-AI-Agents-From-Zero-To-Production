@@ -132,9 +132,7 @@ Penilaian dibuat dengan empat **penilai terbina dalam Foundry**:
 
 | Penilai | `evaluator_name` | Apa yang diukur |
 |---------|------------------|------------------|
-
 | Kepentingan | `builtin.relevance` | Adakah jawapan memenuhi permintaan pengguna? |
-
 | Ketepatan Berasas | `builtin.groundedness` | Adakah respons disokong oleh data yang diperoleh/dari alat (bukan halusinasi)? |
 | Ketepatan panggilan alat | `builtin.tool_call_accuracy` | Adakah alat yang betul dipanggil dengan hujah yang betul? |
 | Penggunaan output alat | `builtin.tool_output_utilization` | Adakah ejen benar-benar menggunakan keputusan alat dalam jawapannya? |
