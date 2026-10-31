@@ -88,6 +88,10 @@ virtual environments for its Python components: the hosted agent pins a differen
 version from the root course requirements. Install frontend packages with `npm install`
 from its frontend directory.
 
+When using browser-based GitHub Codespaces, start the frontend from that directory
+with its forwarded hostname explicitly allowed by running
+`__VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS="${CODESPACE_NAME}-3000.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}" npm run dev`.
+
 The container can access the host Docker daemon to build lesson 4 images. Only open
 trusted repositories in it, because Docker access grants control over the host daemon.
 Azure credentials are not mounted from your host; sign in inside the container again
